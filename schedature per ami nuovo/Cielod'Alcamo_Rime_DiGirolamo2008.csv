@@ -1,0 +1,273 @@
+#DEFINITIONS,dc=http://purl.org/dc/elements/1.1/,,,,,,,,,,,,,,,,,
+#dc:conformsTo,ami.it/dataformat,,,,,,,,,,,,,,,,,
+#dc:identifier,CielodAlcamoDiGirolamo2008,,,,,,,,,,,,,,,,,
+#dc:description,Fellowship Marco Praloran 2013,,,,,,,,,,,,,,,,,
+#dc:author,Cielo d'Alcamo,,,# autore del componimento non del file,,,,,,,,,,,,,,
+#dc:title,Rime,,,# titolo del componimento non del file,,,,,,,,,,,,,,
+#dc:data,1200-01-01/1300-01-01,,,# periodo in cui è stata scritta l'opera nel seguente formato: termine post quem/termine ante quem aaaa-mm-gg/aaaa-mm-gg ,,,,,,,,,,,,,,
+#dc:source,"Di Girolamo, 2008",,,"# l'edizione da cui è stato tratto il testo nel seguente formato cognomeautore-cognomeautore, anno",,,,,,,,,,,,,,
+#dc:source,http://id.sbn.it/bid/MIL0749010,,,"# perma link dal sto https://opac.sbn.it/ relativo all'edizione usata per compilare i dati",,,,,,,,,,,,,,
+#dc:source,"https://docs.google.com/spreadsheets/d/1p48yPMRIe5kzdHeMMZ1MLn0Fqk_qrWpGyrOT_sBY1wY/edit?usp=sharing",,,"# file da cui è stato esportato",,,,,,,,,,,,,,
+#dc:creator,Laura Facini,,,# autore principale della schedatura,,,,,,,,,,,,,,
+#dc:contributor,,,,# eventuali collaboratori o correttori,,,,,,,,,,,,,,
+#dc:publisher,Gruppo Padovano di Stilistica,,,# l'ente responsabile della schedatura,,,,,,,,,,,,,,
+#dc:provenance,Fondazione Ezio Franceschini ONLUS,,,# l'affiliazione che ha inizialmente generato il dato,,,,,,,,,,,,,,
+#dc:dateSubmitted,12/04/2022,,,# data di invio del dato al respository,,,,,,,,,,,,,,
+#dc:dateAccepted,,,,# data nella quale il dato viene integrato nella nuova release,,,,,,,,,,,,,,
+sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trascrizione_verso,accento_01,accento_02,accento_03,accento_04,accento_05,accento_06,accento_07,accento_08,accento_09,accento_10,irregolarità
+1,,1,contrasto,aaa BB,,7+7,«Rosa fresca aulentisima ,1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,1,contrasto,aaa BB,,7+7,"ch'apari inver' la state,",1,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,2,contrasto,aaa BB,,7+7,"le donne ti disiano, ",0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,2,contrasto,aaa BB,,7+7,pulzell'e maritate:,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,3,contrasto,aaa BB,,7+7,"tràgemi d'este fòcora, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,3,contrasto,aaa BB,,7+7,se t'èste a bolontate;,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,4,contrasto,aaa BB,,11,"per te non aio abento notte e dia,",0,1,0,1,0,1,0,1,0,1,
+1,,5,contrasto,aaa BB,,11,"penzando pur di voi, madonna mia».",0,1,0,1,0,1,0,1,0,1,
+1,,6,contrasto,aaa BB,,7+7,"«Se di meve trabàgliti, ",0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,6,contrasto,aaa BB,,7+7,follia lo ti fa fare.,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,7,contrasto,aaa BB,,7+7,"Lo mar potresti arompere, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,7,contrasto,aaa BB,,7+7,"avanti asemenare,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,8,contrasto,aaa BB,,7+7,l'abere d'esto secolo ,1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,8,contrasto,aaa BB,,7+7,tuto quanto asembrare:,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,9,contrasto,aaa BB,,11,avere me non pòteri a esto monno;,0,1,0,1,0,1,0,1,0,1,
+1,,10,contrasto,aaa BB,,11,avanti li cavelli m'aritonno».,0,1,0,0,0,1,0,0,0,1,
+1,,11,contrasto,aaa BB,,7+7,"«Se li cavelli artóniti,",0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,11,contrasto,aaa BB,,7+7,"avanti foss'io morto,",0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,12,contrasto,aaa BB,,7+7,"donna, ch'aisì mi pèrdera",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,12,contrasto,aaa BB,,7+7,lo solaccio e 'l diporto.,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,13,contrasto,aaa BB,,7+7,"Quando ci passo e véioti,",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,13,contrasto,aaa BB,,7+7,"rosa fresca de l'orto,",1,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,14,contrasto,aaa BB,,11,"bono conforto donimi tutore,",1,0,0,1,0,1,0,0,0,1,
+1,,15,contrasto,aaa BB,,11,poniamo che s'aiunga il nostro amore».,0,1,0,0,0,1,0,1,0,1,
+1,,16,contrasto,aaa BB,,7+7,"«Che 'l nostro amore aiùngasi, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,16,contrasto,aaa BB,,7+7,non boglio m'atalenti:,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,17,contrasto,aaa BB,,7+7,se ci ti trova pàremo ,0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,17,contrasto,aaa BB,,7+7,"cogli altri miei parenti,",0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,18,contrasto,aaa BB,,7+7,guarda non s'arigòlgano questi forti corenti.,1,0,0,0,0,1,0,0,0,0,1° emistichio
+1,,18,contrasto,aaa BB,,7+7,questi forti corenti.,1,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,19,contrasto,aaa BB,,11,"Come ti seppe bona la venuta,",1,0,0,1,0,1,0,0,0,1,
+1,,20,contrasto,aaa BB,,11,consiglio che ti guardi a la partuta».,0,1,0,0,0,1,0,0,0,1,
+1,,21,contrasto,aaa BB,,7+7,"«Se i tuoi parenti trovami, e che mi pozon fare?",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,21,contrasto,aaa BB,,7+7,e che mi pozon fare?,0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,22,contrasto,aaa BB,,7+7,Una difensa métoci di du mili'agostari:,0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,22,contrasto,aaa BB,,7+7,di du mili'agostari:,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,23,contrasto,aaa BB,,7+7,non mi tocara pàdreto ,0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,23,contrasto,aaa BB,,7+7,per quanto avere à 'n Bari.,0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,24,contrasto,aaa BB,,11,"Viva lo 'mperadore, grazi'a Deo!",1,0,0,0,0,1,0,1,0,1,
+1,,25,contrasto,aaa BB,,11,"Intendi, bella, quel che ti dico eo?»",0,1,0,1,0,1,0,0,1,1,
+1,,26,contrasto,aaa BB,,7+7,«Tu me no lasci vivere ,1,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,26,contrasto,aaa BB,,7+7,né sera né maitino.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,27,contrasto,aaa BB,,7+7,"Donna mi so' di pèrperi, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,27,contrasto,aaa BB,,7+7,d'auro massamotino;,1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,28,contrasto,aaa BB,,7+7,se tanto aver donàssemi ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,28,contrasto,aaa BB,,7+7,"quanto à lo Saladino,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,29,contrasto,aaa BB,,11,"e per aiunta quant'à lo Soldano,",0,0,0,1,0,0,1,0,0,1,
+1,,30,contrasto,aaa BB,,11,tocare me non poteri a la mano».,0,1,0,1,0,1,0,0,0,1,
+1,,31,contrasto,aaa BB,,7+7,«Molte sono le femine ,1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,31,contrasto,aaa BB,,7+7,"ch'ànno dura la testa,",1,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,32,contrasto,aaa BB,,7+7,e l'omo con parabole ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,32,contrasto,aaa BB,,7+7,l'adímina e amonesta;,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,33,contrasto,aaa BB,,7+7,tanto intorno procazzala ,1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,33,contrasto,aaa BB,,7+7,fin che ll'à in sua podesta.,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,34,contrasto,aaa BB,,11,Femina d'omo non si può tenere:,1,0,0,1,0,0,0,1,0,1,
+1,,35,contrasto,aaa BB,,11,"guàrdati, bella, pur de ripentere».",1,0,0,1,0,1,0,0,0,1,
+1,,36,contrasto,aaa BB,,7+7,«Ch'eo ne pur ripentésseme? ,1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,36,contrasto,aaa BB,,7+7,Davanti foss'io aucisa,0,1,0,0,1,1,0,0,0,0,2° emistichio
+1,,37,contrasto,aaa BB,,7+7,ca nulla bona femina ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,37,contrasto,aaa BB,,7+7,per me fosse ripresa!,0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,38,contrasto,aaa BB,,7+7,Aersera passàstici ,0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,38,contrasto,aaa BB,,7+7,corenno a la distesa.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,39,contrasto,aaa BB,,11,"Aquìstati riposa, canzoneri,",0,1,0,0,0,1,0,0,0,1,
+1,,40,contrasto,aaa BB,,11,le tue parole a me non piacion gueri».,0,0,0,1,0,1,0,1,0,1,
+1,,41,contrasto,aaa BB,,7+7,«Quante sono le schiàntora ,1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,41,contrasto,aaa BB,,7+7,"che m'à' mise a lo core,",0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,42,contrasto,aaa BB,,7+7,e solo pur penzànnome ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,42,contrasto,aaa BB,,7+7,la dia quanno vo fore!,0,1,1,0,0,1,0,0,0,0,2° emistichio
+1,,43,contrasto,aaa BB,,7+7,Femina d'esto secolo ,1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,43,contrasto,aaa BB,,7+7,tanto no amai ancore,1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,44,contrasto,aaa BB,,11,"quant'amo teve, rosa invidïata:",0,1,0,1,0,1,0,0,0,1,
+1,,45,contrasto,aaa BB,,11,ben credo che mi fosti distinata».,0,1,0,0,0,1,0,0,0,1,
+1,,46,contrasto,aaa BB,,7+7,"«Se distinata fósseti, ",0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,46,contrasto,aaa BB,,7+7,"caderia de l'altezze,",0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,47,contrasto,aaa BB,,7+7,che male messe fòrano ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,47,contrasto,aaa BB,,7+7,in teve mie bellezze.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,48,contrasto,aaa BB,,7+7,"Se tuto adivenìssemi, t",0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,48,contrasto,aaa BB,,7+7,"agliàrami le trezze,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,49,contrasto,aaa BB,,11,e consore m'arenno a una magione,0,0,1,0,0,1,0,0,0,1,
+1,,50,contrasto,aaa BB,,11,avanti che m'artochi 'n la persone».,0,1,0,0,0,1,0,0,0,1,
+1,,51,contrasto,aaa BB,,7+7,"«Se tu consore arènneti, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,51,contrasto,aaa BB,,7+7,"donna col viso cleri,",1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,52,contrasto,aaa BB,,7+7,a lo mostero vènoci e,0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,52,contrasto,aaa BB,,7+7,rènnomi confleri:,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,53,contrasto,aaa BB,,7+7,per tanta prova vencerti ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,53,contrasto,aaa BB,,7+7,fàralo volonteri.,1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,54,contrasto,aaa BB,,11,Conteco stao la sera e lo maitino:,0,1,0,1,0,1,0,0,0,1,
+1,,55,contrasto,aaa BB,,11,besogn'è ch'io ti tenga al meo dimino».,0,0,1,0,0,1,0,0,0,1,
+1,,56,contrasto,aaa BB,,7+7,"«Boimé, tapina, misera!, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,56,contrasto,aaa BB,,7+7,com'ao reo distinato!,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,57,contrasto,aaa BB,,7+7,Gieso Cristo l'altissimo ,1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,57,contrasto,aaa BB,,7+7,del tuto m'è airato:,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,58,contrasto,aaa BB,,7+7,concepìstimi a 'mbàttere i,0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,58,contrasto,aaa BB,,7+7,n omo blestiemato.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,59,contrasto,aaa BB,,11,"Cerca la terra ch'èste grane assai,",1,0,0,1,0,1,0,1,0,1,
+1,,60,contrasto,aaa BB,,11,chiù bella donna di me troverai».,0,1,0,1,0,0,1,0,0,1,
+1,,61,contrasto,aaa BB,,7+7,"«Cercat'aio Calabria, ",0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,61,contrasto,aaa BB,,7+7,"Toscana e Lombardia,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,62,contrasto,aaa BB,,7+7,"Puglia, Costantinopoli, ",1,0,0,0,0,1,0,0,0,0,1° emistichio
+1,,62,contrasto,aaa BB,,7+7,"Genoa, Pisa e Soria,",1,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,63,contrasto,aaa BB,,7+7,"Lamagna e Babilonia,",0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,63,contrasto,aaa BB,,7+7,e tutta Barberia:,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,64,contrasto,aaa BB,,11,"donna non ci trovai tanto cortese,",1,0,0,0,0,1,1,0,0,1,
+1,,65,contrasto,aaa BB,,11,per che sovrana di meve te prese».,0,0,0,1,0,0,1,0,0,1,
+1,,66,contrasto,aaa BB,,7+7,"«Poi tanto trabagliàstiti, ",0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,66,contrasto,aaa BB,,7+7,"facioti meo pregheri,",1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,67,contrasto,aaa BB,,7+7,che tu vadi adomànimi ,0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,67,contrasto,aaa BB,,7+7,a mia mare e a mon peri.,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,68,contrasto,aaa BB,,7+7,"Se dare mi ti degnano, ",0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,68,contrasto,aaa BB,,7+7,menami a lo mosteri,1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,69,contrasto,aaa BB,,11,e sposami davanti da la iente,0,1,0,0,0,1,0,0,0,1,
+1,,70,contrasto,aaa BB,,11,e poi farò le tuo comannamente».,0,1,0,1,0,1,0,0,0,1,
+1,,71,contrasto,aaa BB,,7+7,"«Di ciò che dici, vìtama, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,71,contrasto,aaa BB,,7+7,"neiente non ti bale,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,72,contrasto,aaa BB,,7+7,ca de le tuo parabole ,0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,72,contrasto,aaa BB,,7+7,fatto n'ò ponti e scale:,1,0,1,1,0,1,0,0,0,0,2° emistichio
+1,,73,contrasto,aaa BB,,7+7,"penne penzasti mettere, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,73,contrasto,aaa BB,,7+7,sonti cadute l'ale;,1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,74,contrasto,aaa BB,,11,e dato t'aio la bolta sotana.,0,1,0,1,0,0,1,0,0,1,
+1,,75,contrasto,aaa BB,,11,"Dunque, se poti, tèniti, villana».",1,0,0,1,0,1,0,0,0,1,
+1,,76,contrasto,aaa BB,,7+7,«En paura non metermi ,0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,76,contrasto,aaa BB,,7+7,di nullo manganiello:,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,77,contrasto,aaa BB,,7+7,istòmi 'n esta groria ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,77,contrasto,aaa BB,,7+7,d'esto forte castiello;,1,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,78,contrasto,aaa BB,,7+7,prezo le tuo' parabole ,1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,78,contrasto,aaa BB,,7+7,meno che d'un zitello.,1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,79,contrasto,aaa BB,,11,"Se tu no levi e va'tine di quaci,",0,1,0,1,0,1,0,0,0,1,
+1,,80,contrasto,aaa BB,,11,"se tu ci fossi morto, ben mi chiaci».",0,1,0,1,0,1,0,0,0,1,
+1,,81,contrasto,aaa BB,,7+7,"«Dunque voresti, vìtama,",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,81,contrasto,aaa BB,,7+7,ca per te fosse strutto?,0,0,1,1,0,1,0,0,0,0,2° emistichio
+1,,82,contrasto,aaa BB,,7+7,Se morto essere déboci ,0,1,1,0,0,1,0,0,0,0,1° emistichio
+1,,82,contrasto,aaa BB,,7+7,"od intagliato tuto,",0,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,83,contrasto,aaa BB,,7+7,di quaci non mi mòsera ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,83,contrasto,aaa BB,,7+7,"se non ai' de lo frutto,",0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,84,contrasto,aaa BB,,11,lo quale stäo ne lo tuo iardino:,0,1,0,1,0,0,0,1,0,1,
+1,,85,contrasto,aaa BB,,11,disïolo la sera e lo matino».,0,1,0,0,0,1,0,0,0,1,
+1,,86,contrasto,aaa BB,,7+7,«Di quel frutto non àbero ,0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,86,contrasto,aaa BB,,7+7,"conti, né cabalieri,",1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,87,contrasto,aaa BB,,7+7,molto lo disïarono ,1,0,0,0,0,1,0,0,0,0,1° emistichio
+1,,87,contrasto,aaa BB,,7+7,"marchesi e iustizieri,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,88,contrasto,aaa BB,,7+7,avere no 'nde pòttero:,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,88,contrasto,aaa BB,,7+7,giro 'nde molto feri.,1,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,89,contrasto,aaa BB,,11,Intendi bene ciò che bole dire?,0,1,0,1,0,1,0,1,0,1,
+1,,90,contrasto,aaa BB,,11,Men'èste di mill'onze lo tuo abere».,0,1,0,0,0,1,0,0,0,1,
+1,,91,contrasto,aaa BB,,7+7,"«Molti so' li garofani, ",1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,91,contrasto,aaa BB,,7+7,ma non che salma 'nd'ài;,0,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,92,contrasto,aaa BB,,7+7,"bella, non dispregiàremi ",1,0,0,0,0,1,0,0,0,0,1° emistichio
+1,,92,contrasto,aaa BB,,7+7,s'avanti non m'assai.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,93,contrasto,aaa BB,,7+7,Se vento è im proda e gìrasi ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,93,contrasto,aaa BB,,7+7,"e giungioti a le prai,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,94,contrasto,aaa BB,,11,"a rimembrare t'äo 'ste parole,",0,0,0,1,0,1,0,0,0,1,
+1,,95,contrasto,aaa BB,,11,ca dentr'a 'sta animella assai mi dole!»,0,1,0,0,0,1,0,1,0,1,
+1,,96,contrasto,aaa BB,,7+7,«Macara se doléseti ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,96,contrasto,aaa BB,,7+7,"che cadesse angosciato,",0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,97,contrasto,aaa BB,,7+7,la gente ci coresoro ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,97,contrasto,aaa BB,,7+7,da traverso e da llato;,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,98,contrasto,aaa BB,,7+7,tut'a meve dicessono: ,1,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,98,contrasto,aaa BB,,7+7,"""Acori esto malnato!"",",0,1,1,0,0,1,0,0,0,0,2° emistichio
+1,,99,contrasto,aaa BB,,11,non ti degnara porgere la mano,0,0,0,1,0,1,0,0,0,1,
+1,,100,contrasto,aaa BB,,11,per quanto avere à 'l Papa e lo Soldano».,0,1,0,1,0,1,0,0,0,1,
+1,,101,contrasto,aaa BB,,7+7,"«Deo lo volesse, vìtama, ",0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,101,contrasto,aaa BB,,7+7,te fosse morto in casa!,0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,102,contrasto,aaa BB,,7+7,"L'arma n'anderia cònsola, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,102,contrasto,aaa BB,,7+7,ca dì e notte pantasa.,0,1,1,0,0,1,0,0,0,0,2° emistichio
+1,,103,contrasto,aaa BB,,7+7,La iente ti chiamàrano: ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,103,contrasto,aaa BB,,7+7,"""Oi periura malvasa,",0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,104,contrasto,aaa BB,,11,"ch'à' morto l'omo in càsata, traìta!""",0,1,0,1,0,1,0,0,0,1,
+1,,105,contrasto,aaa BB,,11,Sanz'onni colpo lèvimi la vita».,0,1,0,1,0,1,0,0,0,1,
+1,,106,contrasto,aaa BB,,7+7,«Se tu no levi e va'tine ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,106,contrasto,aaa BB,,7+7,"co la maladizione,",0,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,107,contrasto,aaa BB,,7+7,li frati miei ti trovano ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,107,contrasto,aaa BB,,7+7,dentro chissa magione.,1,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,108,contrasto,aaa BB,,7+7,[…] be· llo mi sofero ,0,0,0,0,0,0,0,0,0,0,1° emistichio
+1,,108,contrasto,aaa BB,,7+7,"pèrdici la persone,",1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,109,contrasto,aaa BB,,11,ch'a meve sè venuto a sormonare;,0,1,0,0,0,1,0,0,0,1,
+1,,110,contrasto,aaa BB,,11,parente né amico non t'àve aitare».,0,1,0,0,1,0,0,1,0,1,
+1,,111,contrasto,aaa BB,,7+7,«A meve non aìtano ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,111,contrasto,aaa BB,,7+7,amici né parenti:,0,0,0,0,0,0,0,0,0,0,2° emistichio
+1,,112,contrasto,aaa BB,,7+7,"istrani' mi so', càrama, ",0,1,0,0,1,1,0,0,0,0,1° emistichio
+1,,112,contrasto,aaa BB,,7+7,enfra esta bona iente.,0,0,0,0,0,0,0,0,0,0,2° emistichio
+1,,113,contrasto,aaa BB,,7+7,"Or fa un anno, vìtama, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,113,contrasto,aaa BB,,7+7,ch'entrata mi sè 'n mente.,0,0,0,0,0,0,0,0,0,0,2° emistichio
+1,,114,contrasto,aaa BB,,11,"Di canno ti vististi lo maiuto,",0,1,0,0,0,1,0,0,0,1,
+1,,115,contrasto,aaa BB,,11,"bella, da quello iorno so' feruto».",1,0,0,1,0,1,0,0,0,1,
+1,,116,contrasto,aaa BB,,7+7,"«Ai!, tanto 'namoràstiti, ",1,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,116,contrasto,aaa BB,,7+7,"tu Iuda lo traìto,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,117,contrasto,aaa BB,,7+7,"como se fosse porpore, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,117,contrasto,aaa BB,,7+7,iscarlato o sciamito?,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,118,contrasto,aaa BB,,7+7,S'a le Vangiele iùrimi ,0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,118,contrasto,aaa BB,,7+7,"che mi sia a marito,",0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,119,contrasto,aaa BB,,11,avere me non pòter'a esto monno:,0,1,0,1,0,1,0,1,0,1,
+1,,120,contrasto,aaa BB,,11,avanti in mare gìtomi al perfonno».,0,1,0,1,0,1,0,0,0,1,
+1,,121,contrasto,aaa BB,,7+7,"«Se tu nel mare gìtiti, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,121,contrasto,aaa BB,,7+7,"donna cortese e fina,",1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,122,contrasto,aaa BB,,7+7,dereto mi ti mìsera ,0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,122,contrasto,aaa BB,,7+7,"per tuta la marina,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,123,contrasto,aaa BB,,7+7,"e da poi ch'anegàseti, ",0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,123,contrasto,aaa BB,,7+7,"trobàrati a la rena,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,124,contrasto,aaa BB,,11,solo per questa cosa adimpretare:,1,0,0,1,0,1,0,0,0,1,
+1,,125,contrasto,aaa BB,,11,con teco m'aio agiungere a pecare».,0,1,0,1,0,1,0,0,0,1,
+1,,126,contrasto,aaa BB,,7+7,«Segnomi in Patre e 'n Filio ,1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,126,contrasto,aaa BB,,7+7,ed i· santo Mateo:,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,127,contrasto,aaa BB,,7+7,so ca non sé tu retico ,1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,127,contrasto,aaa BB,,7+7,"o figlio di giudeo,",0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,128,contrasto,aaa BB,,7+7,e cotale parabole,0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,128,contrasto,aaa BB,,7+7,non udî dire anch'eo!,0,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,129,contrasto,aaa BB,,11,"Morta sì è la femina, a lo 'ntutto,",1,0,1,1,0,1,0,0,0,1,
+1,,130,contrasto,aaa BB,,11,pèrdeci lo saboro e lo disdotto».,1,0,0,0,0,1,0,0,0,1,
+1,,131,contrasto,aaa BB,,7+7,"«Bene lo saccio, càrama: ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,131,contrasto,aaa BB,,7+7,altro non pozo fare.,1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,132,contrasto,aaa BB,,7+7,"Se quisso nonn arcòmplimi, ",0,1,0,0,0,1,0,0,0,0,1° emistichio
+1,,132,contrasto,aaa BB,,7+7,làssone lo cantare.,1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,133,contrasto,aaa BB,,7+7,"Fallo, mia donna, plàzati, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,133,contrasto,aaa BB,,7+7,che bene lo puoi fare.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,134,contrasto,aaa BB,,11,"Ancora tu no m'ami, molto t'amo,",0,1,0,1,0,1,0,1,0,1,
+1,,135,contrasto,aaa BB,,11,sì m'ài preso como lo pesce a l'amo».,1,0,1,0,0,0,0,1,0,1,
+1,,136,contrasto,aaa BB,,7+7,"«Sazo che m'ami, àmoti ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,136,contrasto,aaa BB,,7+7,di core paladino.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,137,contrasto,aaa BB,,7+7,"Levati suso e vàtene, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,137,contrasto,aaa BB,,7+7,tornaci a lo matino.,1,0,0,0,0,1,0,0,0,0,2° emistichio
+1,,138,contrasto,aaa BB,,7+7,"Se ciò che dico facemi, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,138,contrasto,aaa BB,,7+7,di bon cor t'amo e fino:,0,0,1,1,0,1,0,0,0,0,2° emistichio
+1,,139,contrasto,aaa BB,,11,Quisso t'adimprometto sanza faglia:,1,0,0,0,0,1,0,0,0,1,
+1,,140,contrasto,aaa BB,,11,"te' la mia fede, che m'ài in tua baglia».",1,0,0,1,0,0,1,0,0,1,
+1,,141,contrasto,aaa BB,,7+7,"«Per zo che dici, càrama, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,141,contrasto,aaa BB,,7+7,neiente non mi movo.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,142,contrasto,aaa BB,,7+7,"Inanti prenni e scànnami, t",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,142,contrasto,aaa BB,,7+7,o' esto cortello novo.,0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,143,contrasto,aaa BB,,7+7,Esto fatto far pòtesi,1,0,1,0,1,1,0,0,0,0,1° emistichio
+1,,143,contrasto,aaa BB,,7+7,inanti scalfi un uovo.,0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,144,contrasto,aaa BB,,11,"Arcompli mi' talento, 'mica bella,",0,1,0,0,0,1,0,1,0,1,
+1,,145,contrasto,aaa BB,,11,che l'arma co lo core mi s'infella».,0,1,0,0,0,1,0,0,0,1,
+1,,146,contrasto,aaa BB,,7+7,"«Ben sazo, l'arma dòleti, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,146,contrasto,aaa BB,,7+7,com'omo ch'àve arsura.,0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,147,contrasto,aaa BB,,7+7,Esto fatto non pòtesi ,0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,147,contrasto,aaa BB,,7+7,per null'altra misura:,0,0,1,0,0,1,0,0,0,0,2° emistichio
+1,,148,contrasto,aaa BB,,7+7,"se non à' le Vangelie, ",0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,148,contrasto,aaa BB,,7+7,"che mo' ti dico: iura,",0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,149,contrasto,aaa BB,,11,avere me non puoi in tua podesta:,0,1,0,1,0,1,0,0,0,1,
+1,,150,contrasto,aaa BB,,11,inanti prenni e tagliami la testa».,0,1,0,1,0,1,0,0,0,1,
+1,,151,contrasto,aaa BB,,7+7,"«Le Vuangelïe, càrama? ",0,0,1,0,0,1,0,0,0,0,1° emistichio
+1,,151,contrasto,aaa BB,,7+7,ch'ïo le porto in seno;,1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,152,contrasto,aaa BB,,7+7,"a lo mostero présile, ",0,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,152,contrasto,aaa BB,,7+7,non ci era lo patrino.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,153,contrasto,aaa BB,,7+7,Sovr'esto libro iùroti ,0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,153,contrasto,aaa BB,,7+7,mai non ti vegno meno.,1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,154,contrasto,aaa BB,,11,"Arcompli mi' talento in caritate,",0,1,0,0,0,1,0,0,0,1,
+1,,155,contrasto,aaa BB,,11,che l'arma me ne sta in sutilitate».,0,1,0,0,0,1,0,0,0,1,
+1,,156,contrasto,aaa BB,,7+7,"«Meo sire, poi iuràstimi, ",0,1,0,1,0,1,0,0,0,0,1° emistichio
+1,,156,contrasto,aaa BB,,7+7,eo tuta quanta incenno;,1,0,0,1,0,1,0,0,0,0,2° emistichio
+1,,157,contrasto,aaa BB,,7+7,"sono a la tua presenzia, ",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,157,contrasto,aaa BB,,7+7,da voi non mi difenno.,0,1,0,0,0,1,0,0,0,0,2° emistichio
+1,,158,contrasto,aaa BB,,7+7,"S'eo minespreso àioti, m",1,0,0,1,0,1,0,0,0,0,1° emistichio
+1,,158,contrasto,aaa BB,,7+7,"erzé, a voi m'arenno.",0,1,0,1,0,1,0,0,0,0,2° emistichio
+1,,159,contrasto,aaa BB,,11,"A lo letto ne gimo a la bon'ora,",0,0,1,0,0,1,0,0,0,1,
+1,,160,contrasto,aaa BB,,11,che chissa cosa n'è data in ventura».,0,1,0,1,0,0,1,0,0,1,
