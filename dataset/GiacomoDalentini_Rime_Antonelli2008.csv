@@ -14,7 +14,7 @@
 #dc:publisher,Gruppo Padovano di Stilistica,,,# l'ente responsabile della schedatura,,,,,,,,,,,,,,
 #dc:dateSubmitted,12/04/2022,,,# data di invio del dato al respository,,,,,,,,,,,,,,
 #dc:dateAccepted,,,,# data nella quale il dato viene integrato nella nuova release,,,,,,,,,,,,,,
-sigla,sub,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trascrizione_verso,accento_01,accento_02,accento_03,accento_04,accento_05,accento_06,accento_07,accento_08,accento_09,accento_10,irregolarità
+sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trascrizione_verso,accento_01,accento_02,accento_03,accento_04,accento_05,accento_06,accento_07,accento_08,accento_09,accento_10,irregolarità
 1,,1,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"Madonna, dir vo voglio",0,1,0,1,0,1,0,0,0,0,
 1,,2,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"como l’amor m’à priso,",1,0,0,1,0,1,0,0,0,0,
 1,,3,canzone,abaC dbdC eef(f)G hhi(i)G,,7,inver’ lo grande orgoglio,0,1,0,1,0,1,0,0,0,0,

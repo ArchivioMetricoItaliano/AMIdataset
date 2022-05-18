@@ -10,8 +10,8 @@
 #dc:source,https://docs.google.com/spreadsheets/d/15dkaVVLKk2B_ZFhV0sQQTRzeiJYMOGtsSWMUtbhkGa8/edit?usp=sharing,,,# file da cui è stato esportato,,,,,,,,,,,,,,
 #dc:creator,Laura Facini,,,# autore principale della schedatura,,,,,,,,,,,,,,
 #dc:contributor,,,,# eventuali collaboratori o correttori,,,,,,,,,,,,,,
-#dc:publisher,Gruppo Padovano di Stilistica,,,# l'ente responsabile della schedatura,,,,,,,,,,,,,,
 #dc:provenance,Fondazione Ezio Franceschini ONLUS,,,# l'affiliazione che ha inizialmente generato il dato,,,,,,,,,,,,,,
+#dc:publisher,Gruppo Padovano di Stilistica,,,# l'ente responsabile della schedatura,,,,,,,,,,,,,,
 #dc:dateSubmitted,12/04/2022,,,# data di invio del dato al respository,,,,,,,,,,,,,,
 #dc:dateAccepted,,,,# data nella quale il dato viene integrato nella nuova release,,,,,,,,,,,,,,
 sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trascrizione_verso,accento_01,accento_02,accento_03,accento_04,accento_05,accento_06,accento_07,accento_08,accento_09,accento_10,irregolarità
