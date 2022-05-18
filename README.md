@@ -1,12 +1,12 @@
 # AMIdataset
-Il respository contenente i versi analizzati dei testi dell'archivio metrico italiano all'interno delle cartella dataset in formato `.csv`. 
+Il respository contenente i versi analizzati dei testi dell'archivio metrico italiano all'interno delle [cartella dataset](https://github.com/ArchivioMetricoItaliano/AMIdataset/tree/main/dataset) in formato `.csv`. 
 
 I dati sono strutturati seguento il seguente schema:
 
 | sigla      | sottogruppo | numero_del_verso | metro   | schema_metrico | congedo | tipo_verso | trascrizione_verso                    | accento_01 | accento_02 | accento_03 | accento_04 | accento_05 | accento_06 | accento_07 | accento_08 | accento_09 | accento_10 | irregolarità |
 |------------|-------------|------------------|---------|----------------|---------|------------|---------------------------------------|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|--------------|
-| Purgatorio |           1 |                1 | sonetto | ABBD           | ABBC    |         11 | A ciascun’alma presa e gentil core    | 1          | 1          | 0          | 1          | 0          | 1          | 0          | 1          | 0          | 0          | ipometro     |
-| Purgatorio |           1 |                2 | sonetto | ABBD           | ABBC    |          7 | nel cui cospetto ven lo dir presente, | 0          | 1          | 0          | 1          | 0          | 0          | 0          | 0          | 0          | 0          | ipermetro    |
+| 1 |           b |                1 | sonetto | ABBD           | ABBC    |         11 | A ciascun’alma presa e gentil core    | 1          | 1          | 0          | 1          | 0          | 1          | 0          | 1          | 0          | 0          | ipometro     |
+| 1 |           a |                2 | sonetto | ABBD           | ABBC    |          7 | nel cui cospetto ven lo dir presente, | 0          | 1          | 0          | 1          | 0          | 0          | 0          | 0          | 0          | 0          | ipermetro    |
 
 Gli header dei file riportano i metadata usando i termini proposti da [DublinCore](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
 
