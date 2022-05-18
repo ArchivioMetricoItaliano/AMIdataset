@@ -1,0 +1,1875 @@
+#DEFINITIONS,dc=http://purl.org/dc/elements/1.1/,,,,,,,,,,,,,,,,,
+#dc:conformsTo,ami.it/dataformat,,,,,,,,,,,,,,,,,
+#dc:identifier,GiovanniBoccaccio_Rime(parteI)_Branca1992,,,,,,,,,,,,,,,,,
+#dc:description,questa è una trascrizione fatta nel corso dei progetti precedenti.,,,,,,,,,,,,,,,,,
+#dc:author,"Giovanni Boccaccio",,,# autore del componimento non del file,,,,,,,,,,,,,,
+#dc:title,"Rime (parte I)",,,# titolo del componimento non del file,,,,,,,,,,,,,,
+#dc:date,,,,# periodo in cui è stata scritta l'opera nel seguente formato: termine post quem/termine ante quem gg-mm-aaaa/gg-mm-aaa ,,,,,,,,,,,,,,
+#dc:source,"Branca,1992",,,"# l'edizione da cui è stato tratto il testo nel seguente formato cognomeautore-cognomeautore, anno",,,,,,,,,,,,,,
+#dc:source,http://id.sbn.it/bid/UBO0978090,,,# permalink dal sto https://opac.sbn.it/ relativo all'edizione usata per compilare i dati,,,,,,,,,,,,,,
+#dc:source,,,,"# se si usa un foglio di calcolo, il link o il nome del foglio di calcolo",,,,,,,,,,,,,,
+#dc:creator,Sconosciuto,,,# autore principale della schedatura,,,,,,,,,,,,,,
+#dc:contributor,,,,# eventuali collaboratori o correttori,,,,,,,,,,,,,,
+#dc:provenance,,,,# l'affiliazione che ha inizialmente generato il dato,,,,,,,,,,,,,,
+#dc:publisher,Gruppo Padovano di Stilistica,,,# l'ente responsabile della schedatura,,,,,,,,,,,,,,
+#dc:dateSubmitted,,,,# data di invio del dato al respository,,,,,,,,,,,,,,
+#dc:dateAccepted,,,,# data nella quale il dato viene integrato nella nuova release,,,,,,,,,,,,,,
+sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trascrizione_verso,accento_01,accento_02,accento_03,accento_04,accento_05,accento_06,accento_07,accento_08,accento_09,accento_10,irregolarità
+1,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"Intorn'ad una fonte, in un pratello",0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"di verdi erbette pieno e di bei fiori,",0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,3,sonetto,ABBA ABBA CDC DCD,-,11,"sedean tre angiolette, i loro amori",0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,4,sonetto,ABBA ABBA CDC DCD,-,11,"forse narrando, e a ciascuna 'l bello",1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,5,sonetto,ABBA ABBA CDC DCD,-,11,viso adombrava un verde ramicello,1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"ch'i capei d'or cingea, al qual di fuori",0,0,1,1,0,1,0,1,0,1,nessuna
+1,-,7,sonetto,ABBA ABBA CDC DCD,-,11,e dentro insieme i dua vaghi colori,0,1,0,1,0,0,1,0,0,1,nessuna
+1,-,8,sonetto,ABBA ABBA CDC DCD,-,11,avolgeva un suave venticello.,0,0,1,0,0,1,0,0,0,1,nessuna
+1,-,9,sonetto,ABBA ABBA CDC DCD,-,11,E dopo alquanto l'una alle due disse,0,1,0,1,0,1,0,0,1,1,nessuna
+1,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"(com'io udi'): - Deh, se per avventura",0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,11,sonetto,ABBA ABBA CDC DCD,-,11,"di ciascuna l'amante or qui venisse,",0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,12,sonetto,ABBA ABBA CDC DCD,-,11,fuggiremo noi quinci per paura? -.,0,0,1,0,0,1,0,0,0,1,nessuna
+1,-,13,sonetto,ABBA ABBA CDC DCD,-,11,"A cui le due risposer: - Chi fuggisse,",0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,14,sonetto,ABBA ABBA CDC DCD,-,11,"poco savia saria, cotal ventura! -.",1,0,1,0,0,1,0,1,0,1,nessuna
+2,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"All'ombra di mill'arbori fronzuti,",0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"in abito leggiadro e gentilesco,",0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,3,sonetto,ABBA ABBA CDE CDE,-,11,con gli occhi vaghi e col cianciar donnesco,0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"lacci tendea, da lei prima tessuti",1,0,0,1,0,1,1,0,0,1,nessuna
+2,-,5,sonetto,ABBA ABBA CDE CDE,-,11,de' suoi biondi capei crespi e soluti,0,0,1,0,0,1,1,0,0,1,nessuna
+2,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"al vento lieve, in prato verde e fresco,",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,7,sonetto,ABBA ABBA CDE CDE,-,11,una angiolella; a' quai giungeva vesco,0,0,0,1,0,1,0,1,0,1,nessuna
+2,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"tenace Amor, e ami aspri e acuti.",0,1,0,1,0,1,1,0,0,1,nessuna
+2,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Da' quai, chi v'incappava lei mirando,",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"invan tentava poi lo svilupparsi,",0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,11,sonetto,ABBA ABBA CDE CDE,-,11,tant'era l'artificio che i teneva.,0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"E io lo so, che me di me fidando",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"più che 'l dovere, infra e lacciuoli sparsi",1,0,0,1,1,0,0,1,0,1,nessuna
+2,-,14,sonetto,ABBA ABBA CDE CDE,-,11,fui preso da virtù ch'io non vedeva.,0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Il Cancro ardea, passata la sest'ora,",0,1,0,1,0,1,0,0,0,1,nessuna
+3,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"spirava zefiro e il tempo era bello,",0,1,0,1,0,0,1,0,0,1,nessuna
+3,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"quieto il mar, e in su' lito di quello,",0,1,0,1,0,0,1,0,0,1,nessuna
+3,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"in parte dove il sol non era ancora,",0,1,0,0,0,1,0,1,0,1,nessuna
+3,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"vid'io colei, che 'l ciel di sé innamora,",0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,6,sonetto,ABBA ABBA CDE CDE,-,11,e 'n più donne far festa: e l'aureo vello,0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,7,sonetto,ABBA ABBA CDE CDE,-,11,le cingea 'l capo in guisa che capello,0,0,1,1,0,1,0,0,0,1,nessuna
+3,-,8,sonetto,ABBA ABBA CDE CDE,-,11,del vago nodo non usciva fuora.,0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Neptuno, Glauco, Forco e la gran Teti",0,1,0,1,0,1,0,0,0,1,nessuna
+3,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"dal mar lei riguardavan sì contenti,",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"che dir parevon: - Giove, altro non voglio -",0,1,0,1,0,1,1,0,0,1,nessuna
+3,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Io, da un ronchio, fissi agli occhi lieti",1,0,0,1,0,1,0,1,0,1,nessuna
+3,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"sì adoppiati aveva e sentimenti,",1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,14,sonetto,ABBA ABBA CDE CDE,-,11,ch'un sasso paravamo io e lo scoglio.,0,1,0,0,0,1,0,1,0,1,nessuna
+4,-,1,sonetto,ABBA ABBA CDE DEC,-,11,"Guidommi Amor, ardendo ancora il sole,",0,1,0,1,0,1,0,1,0,1,nessuna
+4,-,2,sonetto,ABBA ABBA CDE DEC,-,11,"sopra l'acque di Giulio, in un mirteto,",0,0,1,0,0,1,0,0,0,1,nessuna
+4,-,3,sonetto,ABBA ABBA CDE DEC,-,11,"e era il mar tranquillo e il ciel quieto,",0,1,0,1,0,1,0,1,0,1,nessuna
+4,-,4,sonetto,ABBA ABBA CDE DEC,-,11,"quantunque alquanto zefir, come suole,",0,1,0,1,0,1,0,0,0,1,nessuna
+4,-,5,sonetto,ABBA ABBA CDE DEC,-,11,movesse agli arbuscei le cime sole:,0,1,0,0,0,1,0,1,0,1,nessuna
+4,-,6,sonetto,ABBA ABBA CDE DEC,-,11,quando mi parve udire un canto lieto,1,0,0,1,0,1,0,1,0,1,nessuna
+4,-,7,sonetto,ABBA ABBA CDE DEC,-,11,"tanto, che simil non fu consueto",1,0,0,1,0,0,1,0,0,1,nessuna
+4,-,8,sonetto,ABBA ABBA CDE DEC,-,11,d'udir già mai nelle mortali scuole.,0,1,0,1,0,0,0,1,0,1,nessuna
+4,-,9,sonetto,ABBA ABBA CDE DEC,-,11,"Per ch'io: - Angela forse, o ninfa, o dea",0,1,1,0,0,1,0,1,0,1,nessuna
+4,-,10,sonetto,ABBA ABBA CDE DEC,-,11,"canta con seco in questo loco eletto -,",1,0,0,1,0,1,0,1,0,1,nessuna
+4,-,11,sonetto,ABBA ABBA CDE DEC,-,11,"meco diceva, - degli antichi amori -.",1,0,0,1,0,0,0,1,0,1,nessuna
+4,-,12,sonetto,ABBA ABBA CDE DEC,-,11,Quinci madonna in assai bel ricetto,1,0,0,1,0,0,0,1,0,1,nessuna
+4,-,13,sonetto,ABBA ABBA CDE DEC,-,11,"del bosco ombroso, in su l'erbe e in su' fio",0,1,0,1,0,0,1,0,0,1,nessuna
+4,-,14,sonetto,ABBA ABBA CDE DEC,-,11,"vidi cantando, e con altre sedea.",1,0,0,1,0,0,1,0,0,1,nessuna
+5,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Non credo il suon tanto soave fosse,0,1,0,1,1,0,0,1,0,1,nessuna
+5,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"che gli occhi d'Argo tutti fé dormire,",0,1,0,1,0,1,0,0,0,1,nessuna
+5,-,3,sonetto,ABBA ABBA CDE CDE,-,11,né d'Anfion la citara a udire,0,0,0,1,0,1,0,0,0,1,nessuna
+5,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"quando li monti a chiuder Tebe mosse,",1,0,0,1,0,1,0,1,0,1,nessuna
+5,-,5,sonetto,ABBA ABBA CDE CDE,-,11,né le sirene ancor quando si scosse,0,0,0,1,0,1,1,0,0,1,nessuna
+5,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"invano Ulisse provido al fuggire,",0,1,0,1,0,1,0,0,0,1,nessuna
+5,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"né altro, se alcun se ne può dire",0,1,0,0,0,1,0,0,0,1,nessuna
+5,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"forse più dolce, o di più alte posse:",1,0,0,1,0,0,0,1,0,1,nessuna
+5,-,9,sonetto,ABBA ABBA CDE CDE,-,11,quant'una voce ch'io d'un'angioletta,1,0,0,1,0,1,0,0,0,1,nessuna
+5,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"udi', che lieta i suoi biondi capelli",0,1,0,1,0,0,0,1,0,1,nessuna
+5,-,11,sonetto,ABBA ABBA CDE CDE,-,11,cantand'ornava di frond'e di fiori.,0,1,0,1,0,0,1,0,0,1,nessuna
+5,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Quindi nel petto entrommi una fiammetta,",1,0,0,1,0,1,0,0,0,1,nessuna
+5,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"la qual, mirando li sua occhi belli,",0,1,0,1,0,0,0,1,0,1,nessuna
+5,-,14,sonetto,ABBA ABBA CDE CDE,-,11,m'accese il cor in più di mill'ardori.,0,1,0,1,0,1,0,1,0,1,nessuna
+6,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Su la poppa sedea d'una barchetta,",0,0,1,0,0,1,0,0,0,1,nessuna
+6,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"che 'l mar segando presta era tirata,",0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"la donna mia con altre acompagnata,",0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,4,sonetto,ABBA ABBA CDE CDE,-,11,cantando or una or altra canzonetta.,0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Or questo lito e or quest'isoletta,",1,1,0,1,0,1,0,0,0,1,nessuna
+6,-,6,sonetto,ABBA ABBA CDE CDE,-,11,ed ora questa e or quella brigata,0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"di donne visitando, era mirata",0,1,0,0,0,1,0,0,0,1,nessuna
+6,-,8,sonetto,ABBA ABBA CDE CDE,-,11,qual discesa dal cielo una angioletta.,1,0,1,0,0,1,0,0,0,1,nessuna
+6,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Io, che seguendo lei vedeva farsi",1,0,0,1,0,1,0,1,0,1,nessuna
+6,-,10,sonetto,ABBA ABBA CDE CDE,-,11,da tutte parti incontro a rimirarla,0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"gente, vedea come miracol nuovo.",1,0,0,1,0,0,0,1,0,1,nessuna
+6,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Ogni spirito mio in me destarsi,0,0,1,0,0,1,0,1,0,1,nessuna
+6,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"sentiva, e con amor di commendarla",0,1,0,0,0,1,0,0,0,1,nessuna
+6,-,14,sonetto,ABBA ABBA CDE CDE,-,11,sazio non vedea mai il ben ch'io provo.,1,0,0,0,1,1,0,1,0,1,nessuna
+7,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Chi non crederrà assai agevolmente,",1,0,0,0,1,1,0,0,0,1,nessuna
+7,-,2,sonetto,ABBA ABBA CDE CDE,-,11,s'al canto d'Arion venne il delfino,0,1,0,0,0,1,1,0,0,1,nessuna
+7,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"facendo sé al suo legno vicino,",0,1,0,1,0,0,1,0,0,1,nessuna
+7,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"al suo comando presto ed ubidiente,",0,0,0,1,0,1,0,0,0,1,nessuna
+7,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"che, solcando costei il mar sovente",0,0,1,0,0,1,0,1,0,1,nessuna
+7,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"in breve barca, nel tempo più fino,",0,1,0,1,0,0,1,0,0,1,nessuna
+7,-,7,sonetto,ABBA ABBA CDE CDE,-,11,alla voce del suo canto divino,0,0,1,0,0,0,1,0,0,1,nessuna
+7,-,8,sonetto,ABBA ABBA CDE CDE,-,11,molti ne venghin desiosamente?,1,0,0,1,0,0,0,1,0,1,nessuna
+7,-,9,sonetto,ABBA ABBA CDE CDE,-,11,E quas'a ciò da Nettunno mandati,0,1,0,1,0,0,1,0,0,1,nessuna
+7,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"circondan quella, e ogni cosa sinestra",0,1,0,1,0,0,1,0,0,1,nessuna
+7,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"cacciando indrieto, e onde e tempestate.",0,1,0,1,0,1,0,0,0,1,nessuna
+7,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"O orecchi felici, o cuor beati,",1,0,1,0,0,1,0,1,0,1,nessuna
+7,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"a' quali è la fortuna tanto destra,",0,1,0,0,0,1,0,1,0,1,nessuna
+7,-,14,sonetto,ABBA ABBA CDE CDE,-,11,che d'ascoltarla fatti degni siate!,0,0,0,1,0,1,0,1,0,1,nessuna
+8,-,1,sonetto,ABBA ABBA CDE DEC,-,11,Quel dolce canto col qual già Orfeo,0,1,0,1,0,0,1,1,0,1,nessuna
+8,-,2,sonetto,ABBA ABBA CDE DEC,-,11,"Cerbero vinse e il nocchier d'Acheronte,",1,0,0,1,0,0,1,0,0,1,nessuna
+8,-,3,sonetto,ABBA ABBA CDE DEC,-,11,o quel con ch'Anfion dal duro monte,0,1,0,0,0,1,0,1,0,1,nessuna
+8,-,4,sonetto,ABBA ABBA CDE DEC,-,11,tirò li sassi al bel muro dirceo;,0,1,0,1,0,0,1,0,0,1,nessuna
+8,-,5,sonetto,ABBA ABBA CDE DEC,-,11,o qual dintorn'al fonte pegaseo,0,1,0,1,0,1,0,0,0,1,nessuna
+8,-,6,sonetto,ABBA ABBA CDE DEC,-,11,cantar più bel color che già la fronte,0,1,0,1,0,1,0,1,0,1,nessuna
+8,-,7,sonetto,ABBA ABBA CDE DEC,-,11,"s'ornar d'alloro, con le Muse conte",0,1,0,1,0,0,0,1,0,1,nessuna
+8,-,8,sonetto,ABBA ABBA CDE DEC,-,11,uomo lodando o forse alcuno deo:,1,0,0,1,0,1,0,1,0,1,nessuna
+8,-,9,sonetto,ABBA ABBA CDE DEC,-,11,"sarebbe scarso a commendar costei,",0,1,0,1,0,0,0,1,0,1,nessuna
+8,-,10,sonetto,ABBA ABBA CDE DEC,-,11,le cui bellezze assai più che mortali,0,1,0,1,0,0,1,0,0,1,nessuna
+8,-,11,sonetto,ABBA ABBA CDE DEC,-,11,e i costumi e le parole sono.,0,0,0,1,0,0,0,1,0,1,nessuna
+8,-,12,sonetto,ABBA ABBA CDE DEC,-,11,E io presumo in versi diseguali,0,1,0,1,0,1,0,0,0,1,nessuna
+8,-,13,sonetto,ABBA ABBA CDE DEC,-,11,di disegnarle in canto senza suono!,0,0,0,1,0,1,0,0,0,1,nessuna
+8,-,14,sonetto,ABBA ABBA CDE DEC,-,11,Vedete se son folli i pensier miei!,0,1,0,0,0,1,0,0,1,1,nessuna
+9,-,1,sonetto,ABAB ABAB CDE CDE,-,11,"Candide perle, orientali e nuove,",1,0,0,1,0,0,0,1,0,1,nessuna
+9,-,2,sonetto,ABAB ABAB CDE CDE,-,11,"sotto vivi rubin chiari e vermigli,",0,0,1,0,0,1,1,0,0,1,nessuna
+9,-,3,sonetto,ABAB ABAB CDE CDE,-,11,da' quali un riso angelico si muove,0,1,0,1,0,1,0,0,0,1,nessuna
+9,-,4,sonetto,ABAB ABAB CDE CDE,-,11,che sfavillar sotto due neri cigli,0,0,0,1,1,0,0,1,0,1,nessuna
+9,-,5,sonetto,ABAB ABAB CDE CDE,-,11,"sovente insieme fa Vener e Giove,",0,1,0,1,0,1,1,0,0,1,nessuna
+9,-,6,sonetto,ABAB ABAB CDE CDE,-,11,e con vermiglie rose i bianchi gigli,0,0,0,1,0,1,0,1,0,1,nessuna
+9,-,7,sonetto,ABAB ABAB CDE CDE,-,11,"misti fa il suo colore in ogni dove,",1,0,1,0,0,1,0,1,0,1,nessuna
+9,-,8,sonetto,ABAB ABAB CDE CDE,-,11,senza che arte alcuna s'assottigli:,1,0,0,1,0,1,0,0,0,1,nessuna
+9,-,9,sonetto,ABAB ABAB CDE CDE,-,11,i capei d'oro e crespi un lume fanno,0,0,1,1,0,1,0,1,0,1,nessuna
+9,-,10,sonetto,ABAB ABAB CDE CDE,-,11,"sovra la lieta fronte, entr'alla quale",1,0,0,1,0,1,1,0,0,1,nessuna
+9,-,11,sonetto,ABAB ABAB CDE CDE,-,11,Amore abbaglia della maraviglia;,0,1,0,1,0,0,0,0,0,1,nessuna
+9,-,12,sonetto,ABAB ABAB CDE CDE,-,11,e l'altre parti tutte si confanno,0,1,0,1,0,1,0,0,0,1,nessuna
+9,-,13,sonetto,ABAB ABAB CDE CDE,-,11,"alle predette, in proporzion eguale,",0,0,0,1,0,0,0,1,0,1,nessuna
+9,-,14,sonetto,ABAB ABAB CDE CDE,-,11,di costei ch'i ver angioli simiglia.,0,0,1,0,1,1,0,0,0,1,nessuna
+10,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"Se bionde trecce, chioma crespa e d'oro,",0,1,0,1,0,1,0,1,0,1,nessuna
+10,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"occhi ridenti, splendidi e soavi,",1,0,0,1,0,1,0,0,0,1,nessuna
+10,-,3,sonetto,ABBA ABBA CDC DCD,-,11,"atti piacevoli e costumi gravi,",1,0,0,1,0,0,0,1,0,1,nessuna
+10,-,4,sonetto,ABBA ABBA CDC DCD,-,11,"sentito motteggiare, onesto e soro",0,1,0,0,0,1,0,1,0,1,nessuna
+10,-,5,sonetto,ABBA ABBA CDC DCD,-,11,"parlar in donna, com'in suo tesoro,",0,1,0,1,0,0,0,1,0,1,nessuna
+10,-,6,sonetto,ABBA ABBA CDC DCD,-,11,pose natura mai o finser savi:,1,0,0,1,0,1,0,1,0,1,nessuna
+10,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"tutt'è 'n costei, Amor, in cui le chiavi",1,0,0,1,0,1,0,1,0,1,nessuna
+10,-,8,sonetto,ABBA ABBA CDC DCD,-,11,delle mia pene desti e del ristoro.,0,0,0,1,0,1,0,0,0,1,nessuna
+10,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Dunque, se io sovente ne sospiro,",1,0,0,0,0,1,0,0,0,1,nessuna
+10,-,10,sonetto,ABBA ABBA CDC DCD,-,11,non mi riprenda chi la mia speranza,0,0,0,1,0,1,0,0,0,1,nessuna
+10,-,11,sonetto,ABBA ABBA CDC DCD,-,11,non vede posta in premio del martiro.,0,1,0,1,0,1,0,0,0,1,nessuna
+10,-,12,sonetto,ABBA ABBA CDC DCD,-,11,Questa li mia pensier urge e avanza,1,0,0,0,0,1,1,0,0,1,nessuna
+10,-,13,sonetto,ABBA ABBA CDC DCD,-,11,"con gli occhi sua a sì alto desiro,",0,1,0,1,0,0,1,0,0,1,nessuna
+10,-,14,sonetto,ABBA ABBA CDC DCD,-,11,che nulla più sentir have 'n possanza.,0,1,0,1,0,1,1,0,0,1,nessuna
+11,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Quella splendida fiamma, il cui fulgore",0,0,1,0,0,1,0,1,0,1,nessuna
+11,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"m'aperse prima l'amorosa via,",0,1,0,1,0,0,0,1,0,1,nessuna
+11,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"m'incende sì, qualor l'anima mia",0,1,0,1,0,1,1,0,0,1,nessuna
+11,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"vola colà dove la chiama Amore,",1,0,0,1,1,0,0,1,0,1,nessuna
+11,-,5,sonetto,ABBA ABBA CDE CDE,-,11,che 'l troppo lume el debile valore,0,1,0,1,0,1,0,0,0,1,nessuna
+11,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"degli occhi abbaglia sì, che la si svia",0,1,0,1,0,1,0,0,0,1,nessuna
+11,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"dal debito sentier, e dove sia",0,1,0,0,0,1,0,1,0,1,nessuna
+11,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"né sa, né vede, d'ogni ragion fuore.",0,1,0,1,0,1,0,0,1,1,nessuna
+11,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E mentre così erra tremebonda,",0,1,0,0,1,1,0,0,0,1,nessuna
+11,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"fa di me rider chi allor mi vede,",1,0,1,1,0,1,0,1,0,1,nessuna
+11,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e tal fiata alcun muove a pietate.,0,0,0,1,0,1,1,0,0,1,nessuna
+11,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Laonde segue che 'l desio, ch'abbonda,",0,1,0,1,0,0,0,1,0,1,nessuna
+11,-,13,sonetto,ABBA ABBA CDE CDE,-,11,discuovre ciò che nasconder si crede,0,1,0,1,0,0,1,0,0,1,nessuna
+11,-,14,sonetto,ABBA ABBA CDE CDE,-,11,la disviata fuor di libertate.,0,0,0,1,0,1,0,0,0,1,nessuna
+12,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Quell'amorosa luce, il cui splendore",0,0,0,1,0,1,0,1,0,1,nessuna
+12,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"per li miei occhi mise le faville,",0,0,0,1,0,1,0,0,0,1,nessuna
+12,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"che dentr'al cor andando a mille a mille,",0,1,0,1,0,1,0,1,0,1,nessuna
+12,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"di lei la forma e la luce d'Amore,",0,1,0,1,0,0,1,0,0,1,nessuna
+12,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"questa per donna e colui per signore,",1,0,0,1,0,0,1,0,0,1,nessuna
+12,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"lasciaronvi, non posson le pupille",0,1,0,0,0,1,0,0,0,1,nessuna
+12,-,7,sonetto,ABBA ABBA CDE CDE,-,11,soffrir talor per l'acute postille,0,1,0,1,0,0,1,0,0,1,nessuna
+12,-,8,sonetto,ABBA ABBA CDE CDE,-,11,ch'accese vengon più del suo valore.,0,1,0,1,0,1,0,0,0,1,nessuna
+12,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Onde, contra mia voglia, s'io non voglio",1,0,1,0,0,1,0,0,0,1,nessuna
+12,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"lei riguardando perder di vederla,",1,0,0,1,0,1,0,0,0,1,nessuna
+12,-,11,sonetto,ABBA ABBA CDE CDE,-,11,in altra parte mi convien voltare.,0,1,0,1,0,0,0,1,0,1,nessuna
+12,-,12,sonetto,ABBA ABBA CDE CDE,-,11,O grieve caso ond'io forte mi doglio:,0,1,0,1,0,1,1,0,0,1,nessuna
+12,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"colei, cui cerco di veder poterla",0,1,0,1,0,0,0,1,0,1,nessuna
+12,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"sempre, non posso poi lei riguardare!",1,0,0,1,0,1,1,0,0,1,nessuna
+13,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Il folgor de' begli occhi, el qual m'avampa",0,1,0,0,0,1,0,1,0,1,nessuna
+13,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"il cor qualor io gli riguardo fiso,",0,1,0,1,0,0,0,1,0,1,nessuna
+13,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"m'è tanto nella mente, ov'io l'ho miso",0,1,0,0,0,1,0,1,0,1,nessuna
+13,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"spesso, segnato con eterna stampa,",1,0,0,1,0,0,0,1,0,1,nessuna
+13,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"ch'invan, caro signore, ogn'altra vampa",0,1,1,0,0,1,0,1,0,1,nessuna
+13,-,6,sonetto,ABBA ABBA CDE CDE,-,11,ver me saetti del tuo paradiso:,0,1,0,1,0,0,1,0,0,1,nessuna
+13,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"questo m'allegra, questo m'ha conquiso,",1,0,0,1,0,1,0,0,0,1,nessuna
+13,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"questo m'uccide, questo ancor mi scampa.",1,0,0,1,0,1,0,1,0,1,nessuna
+13,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Dunque, ti prego, al tuo arco perdona,",1,0,0,1,0,0,1,0,0,1,nessuna
+13,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"e bastiti per una avermi preso,",0,1,0,0,0,1,0,1,0,1,nessuna
+13,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ch'assai è gran legame questo e forte;,0,1,0,1,0,1,0,1,0,1,nessuna
+13,-,12,sonetto,ABBA ABBA CDE CDE,-,11,e mentre 'l tuo valor la sua persona,0,1,0,0,0,1,0,0,0,1,nessuna
+13,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"farà più bella, sì com'è testeso,",0,1,0,1,0,0,0,1,0,1,nessuna
+13,-,14,sonetto,ABBA ABBA CDE CDE,-,11,mai non mi scioglierà se non la morte.,1,0,0,0,0,1,0,1,0,1,nessuna
+14,-,1,stanza isolata di sestina,-,-,11,Il gran disio che l'amorosa fiamma,0,0,0,1,0,0,0,1,0,1,nessuna
+14,-,2,stanza isolata di sestina,-,-,11,"nel cuor m'accese nei miei miglior anni,",0,1,0,1,0,0,1,0,1,1,nessuna
+14,-,3,stanza isolata di sestina,-,-,11,e tiene ancor crescendo ciascun giorno,0,1,0,1,0,1,0,0,1,1,nessuna
+14,-,4,stanza isolata di sestina,-,-,11,"e terrà forse insino a l'ultim'ora,",0,0,1,1,0,1,0,1,0,1,nessuna
+14,-,5,stanza isolata di sestina,-,-,11,tolto ha da me ciascun altro desire:,1,0,0,1,0,0,1,0,0,1,nessuna
+14,-,6,stanza isolata di sestina,-,-,11,e com' li piace mi si fa seguire.,0,1,0,1,0,0,0,1,0,1,nessuna
+15,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Mai non potei, per mirar molto fiso",1,0,0,1,0,0,1,1,0,1,nessuna
+15,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"i rossi labri e gli occhi vaghi e belli,",0,1,0,1,0,1,0,1,0,1,nessuna
+15,-,3,sonetto,ABBA ABBA CDE CDE,-,11,il viso tutto e gli aurei capelli,0,1,0,1,0,1,0,0,0,1,nessuna
+15,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"di questa, che m'è in terra un paradiso,",0,1,0,0,1,1,0,0,0,1,nessuna
+15,-,5,sonetto,ABBA ABBA CDE CDE,-,11,nell'intelletto comprender preciso,0,0,0,1,0,0,1,0,0,1,nessuna
+15,-,6,sonetto,ABBA ABBA CDE CDE,-,11,qual più mirabil si fosse di quelli:,1,0,0,1,0,0,1,0,0,1,nessuna
+15,-,7,sonetto,ABBA ABBA CDE CDE,-,11,come ch'io stimo di preporre ad elli,1,0,0,1,0,0,0,1,0,1,nessuna
+15,-,8,sonetto,ABBA ABBA CDE CDE,-,11,l'angelico leggiadro e dolce riso.,0,1,0,0,0,1,0,1,0,1,nessuna
+15,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Nel qual, quando scintillan quelle stelle",0,1,1,0,0,1,0,0,0,1,nessuna
+15,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"che la luce del sol fanno minore,",0,0,1,0,0,1,1,0,0,1,nessuna
+15,-,11,sonetto,ABBA ABBA CDE CDE,-,11,par s'apra il cielo e rida il mondo tutto.,1,1,0,1,0,1,0,1,0,1,nessuna
+15,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Ond'io, che tutto 'l cor ho dritto a quelle,",0,1,0,1,0,1,0,1,0,1,nessuna
+15,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"esser mi tengo molto di megliore,",1,0,0,1,0,1,0,0,0,1,nessuna
+15,-,14,sonetto,ABBA ABBA CDE CDE,-,11,sentend'in terra sì celeste frutto.,0,1,0,1,0,0,0,1,0,1,nessuna
+16,-,1,sonetto,ABAB ABAB CDE CDE,-,11,"Le parole soave e 'l dolce riso,",0,0,1,0,0,1,0,1,0,1,nessuna
+16,-,2,sonetto,ABAB ABAB CDE CDE,-,11,"la treccia d'oro, che 'l cor m'ha legato",0,1,0,1,0,0,1,0,0,1,nessuna
+16,-,3,sonetto,ABAB ABAB CDE CDE,-,11,e messo nelle man che m'hanno ucciso,0,1,0,0,0,1,0,0,0,1,nessuna
+16,-,4,sonetto,ABAB ABAB CDE CDE,-,11,già mille volte e 'n vita ritornato,0,1,0,1,0,1,0,0,0,1,nessuna
+16,-,5,sonetto,ABAB ABAB CDE CDE,-,11,"di nuovo, m'hanno sì 'l petto infiammato,",0,1,0,1,0,0,1,0,0,1,nessuna
+16,-,6,sonetto,ABAB ABAB CDE CDE,-,11,che tutto il mio desire al vago viso,0,0,0,0,0,1,0,1,0,1,nessuna
+16,-,7,sonetto,ABAB ABAB CDE CDE,-,11,"rivolto s'è, e altro non m'è grato",0,1,0,1,0,1,0,0,0,1,nessuna
+16,-,8,sonetto,ABAB ABAB CDE CDE,-,11,che di vederlo e di mirarlo fiso.,0,0,0,1,0,0,0,1,0,1,nessuna
+16,-,9,sonetto,ABAB ABAB CDE CDE,-,11,In quel mi par veder quant'allegrezza,0,1,0,1,0,1,0,0,0,1,nessuna
+16,-,10,sonetto,ABAB ABAB CDE CDE,-,11,"che fa beati gli occhi de' mortali,",0,1,0,1,0,1,0,0,0,1,nessuna
+16,-,11,sonetto,ABAB ABAB CDE CDE,-,11,che si fan degni d'eterna salute.,0,0,0,1,0,0,1,0,0,1,nessuna
+16,-,12,sonetto,ABAB ABAB CDE CDE,-,11,In quel risplende chiara la bellezza,0,1,0,1,0,1,0,0,0,1,nessuna
+16,-,13,sonetto,ABAB ABAB CDE CDE,-,11,che 'l ciel adorna e che n'impenna l'ali,0,1,0,1,0,0,0,1,0,1,nessuna
+16,-,14,sonetto,ABAB ABAB CDE CDE,-,11,a l'alto vol con penne di virtute.,0,1,0,1,0,1,0,0,0,1,nessuna
+17,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Spesso m'avvien ch'essendom'io raccolto,1,0,0,1,0,1,0,1,0,1,nessuna
+17,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"co' miei pensier, partito dalla gente,",0,0,0,1,0,1,0,0,0,1,nessuna
+17,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"senza donde veder, nella mia mente",0,0,0,0,0,1,0,0,0,1,nessuna
+17,-,4,sonetto,ABBA ABBA CDE CDE,-,11,sen vien colei nel cui celeste volto,0,1,0,1,0,1,0,1,0,1,nessuna
+17,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"la mia salute sta, e che disciolto",0,0,0,1,0,1,0,0,0,1,nessuna
+17,-,6,sonetto,ABBA ABBA CDE CDE,-,11,ne' legami d'amor soavemente,0,0,1,0,0,1,0,0,0,1,nessuna
+17,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"con gli occhi sua mi pose, e lietamente",0,1,0,1,0,1,0,0,0,1,nessuna
+17,-,8,sonetto,ABBA ABBA CDE CDE,-,11,a sé tir'ogni spirto altrove volto.,0,1,1,0,0,1,0,1,0,1,nessuna
+17,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Poi ragionand'allor fa riguardare,1,0,0,1,0,1,1,0,0,1,nessuna
+17,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"la sua virtù, la bellezza e 'l valore,",0,0,0,1,0,0,1,0,0,1,nessuna
+17,-,11,sonetto,ABBA ABBA CDE CDE,-,11,di quai più ch'altra l'ha dotata Dio;,0,1,0,1,0,0,0,1,0,1,nessuna
+17,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"dond'un piacer mi nasce, el qual mi pare",1,0,0,1,0,1,0,1,0,1,nessuna
+17,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"che rechi seco ciò che puote Amore,",0,1,0,1,0,1,0,1,0,1,nessuna
+17,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e sol accenda a ben far il disio.,0,1,0,1,0,0,1,0,0,1,nessuna
+18,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Com'io vi veggo, bella donna e cara,",0,1,0,1,0,1,0,1,0,1,nessuna
+18,-,2,sonetto,ABBA ABBA CDE CDE,-,11,così mi sento per gli occhi passare,0,1,0,1,0,0,1,0,0,1,nessuna
+18,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"una soavità, la qual mi pare",0,0,0,0,0,1,0,1,0,1,nessuna
+18,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"che del cor cacci ogni passione amara,",0,0,1,1,0,0,0,1,0,1,nessuna
+18,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"e pongavi un desio, el qual rischiara",0,1,0,0,0,1,0,1,0,1,nessuna
+18,-,6,sonetto,ABBA ABBA CDE CDE,-,11,ogni pensier turbato e che stimare,1,0,0,1,0,1,0,0,0,1,nessuna
+18,-,7,sonetto,ABBA ABBA CDE CDE,-,11,mi fa voi di bellezza trapassare,0,1,1,0,0,1,0,0,0,1,nessuna
+18,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"al mond'ogn'altra, sola, unica, o cara.",0,1,0,1,0,1,1,0,0,1,nessuna
+18,-,9,sonetto,ABBA ABBA CDE CDE,-,11,E quivi lodo la fortuna mia,0,1,0,1,0,0,0,1,0,1,nessuna
+18,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"e Amor che a voi mi fé subbietto,",0,0,1,0,0,1,0,1,0,1,nessuna
+18,-,11,sonetto,ABBA ABBA CDE CDE,-,11,come m'apparve la vostra figura.,1,0,0,1,0,0,1,0,0,1,nessuna
+18,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Né più oltre la mia mente desia,",0,0,1,0,0,0,1,0,0,1,nessuna
+18,-,13,sonetto,ABBA ABBA CDE CDE,-,11,che di poter con onestà diletto,0,0,0,1,0,0,0,1,0,1,nessuna
+18,-,14,sonetto,ABBA ABBA CDE CDE,-,11,prestar a così bella creatura.,0,1,0,0,1,1,0,0,0,1,nessuna
+19,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Con quanta affezion io vi rimiri,",0,1,0,0,0,1,1,0,0,1,nessuna
+19,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"a voi non posson celar gli occhi miei,",0,1,0,1,0,0,1,1,0,1,nessuna
+19,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"li quai de' vostri, sì com'io vorrei,",0,1,0,1,0,0,0,1,0,1,nessuna
+19,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"credon, quei riguardando, trar sospiri,",1,0,1,0,0,1,0,0,0,1,nessuna
+19,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"che portin pace a ben mille martiri,",0,1,0,1,0,1,1,0,0,1,nessuna
+19,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"che nascon del desio, ch'io non potei",0,1,0,0,0,1,0,0,0,1,nessuna
+19,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"quel dì frenar, ch'è arbitrio delli dei,",0,1,0,1,0,1,0,0,0,1,nessuna
+19,-,8,sonetto,ABBA ABBA CDE CDE,-,11,d'entrar per voi negli amorosi giri.,0,1,0,1,0,0,0,1,0,1,nessuna
+19,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E se quei, che nel mio petto portaro",0,0,1,0,0,0,1,0,0,1,nessuna
+19,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"con amore speranza, non mi sono",0,0,1,0,0,1,0,0,0,1,nessuna
+19,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"benigni, da cui dunque aspetto pace?",0,1,0,0,1,1,0,1,0,1,nessuna
+19,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Io non dimando al vostro onor contraro,",0,0,0,1,0,1,0,1,0,1,nessuna
+19,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"ma mi facciate d'un sospiro dono,",0,0,0,1,0,0,0,1,0,1,nessuna
+19,-,14,sonetto,ABBA ABBA CDE CDE,-,11,il qual mitighi il foco che mi sface.,0,1,1,0,0,1,0,0,0,1,nessuna
+20,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Sì dolcemente a' sua lacci m'adesca,1,0,0,1,0,0,1,0,0,1,nessuna
+20,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"Amor, con gli occhi vaghi di costei,",0,1,0,1,0,1,0,0,0,1,nessuna
+20,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"che, quanto più m'allontano da lei,",0,1,0,1,0,1,0,0,0,1,nessuna
+20,-,4,sonetto,ABBA ABBA CDE CDE,-,11,più vi tira 'l desio e più l'invesca:,0,0,1,0,0,1,0,1,0,1,nessuna
+20,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"per ch'io non veggio come mai me n'esca,",0,0,0,1,0,1,0,1,0,1,nessuna
+20,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"e certo riuscirne non vorrei,",0,1,0,0,0,1,0,0,0,1,nessuna
+20,-,7,sonetto,ABBA ABBA CDE CDE,-,11,tanto contenta tutti e desir miei,1,0,0,1,0,1,0,0,1,1,nessuna
+20,-,8,sonetto,ABBA ABBA CDE CDE,-,11,i suoi costumi e l'onestà donnesca.,0,1,0,1,0,0,0,1,0,1,nessuna
+20,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Chi vuol si doglia e piangasi d'Amore,",0,1,0,1,0,1,0,0,0,1,nessuna
+20,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ch'io me ne lodo per insino ad ora,",1,0,0,1,0,0,0,1,0,1,nessuna
+20,-,11,sonetto,ABBA ABBA CDE CDE,-,11,se più non m'arde il caro signor mio;,0,1,0,1,0,1,0,0,1,1,nessuna
+20,-,12,sonetto,ABBA ABBA CDE CDE,-,11,e benedico quel vago splendore,0,0,0,1,0,0,1,0,0,1,nessuna
+20,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"che 'l cor sì dolcemente m'innamora,",0,1,0,0,0,1,0,0,0,1,nessuna
+20,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"allumandomi sì, ch'io son più ch'io.",0,0,1,0,0,1,0,1,0,1,nessuna
+21,-,1,sonetto,ABBA ABBA CDC DCD,-,11,Biasiman molti spiacevoli Amore,1,0,0,1,0,0,1,0,0,1,nessuna
+21,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"e dicon lui accidente noioso,",0,1,0,1,0,0,1,0,0,1,nessuna
+21,-,3,sonetto,ABBA ABBA CDC DCD,-,11,"pien di spavento, cupido e ritroso,",1,0,0,1,0,1,0,0,0,1,nessuna
+21,-,4,sonetto,ABBA ABBA CDC DCD,-,11,e di sospir cortese donatore.,0,0,0,1,0,1,0,0,0,1,nessuna
+21,-,5,sonetto,ABBA ABBA CDC DCD,-,11,Né vede di costoro il cieco errore,0,1,0,0,0,1,0,1,0,1,nessuna
+21,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"come proceda il suo valor nascoso,",1,0,0,1,0,0,0,1,0,1,nessuna
+21,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"nell'uom prudente giusto ed animoso,",0,1,0,1,0,1,0,0,0,1,nessuna
+21,-,8,sonetto,ABBA ABBA CDC DCD,-,11,"a, per bene operar, volere onore.",0,0,1,0,0,1,0,1,0,1,nessuna
+21,-,9,sonetto,ABBA ABBA CDC DCD,-,11,Come costui nell'anima gentile,1,0,0,1,0,1,0,0,0,1,nessuna
+21,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"pronto si pon per valoroso obbietto,",1,0,0,1,0,0,0,1,0,1,nessuna
+21,-,11,sonetto,ABBA ABBA CDC DCD,-,11,così la rende cortese e umile.,0,1,0,1,0,0,1,0,0,1,nessuna
+21,-,12,sonetto,ABBA ABBA CDC DCD,-,11,Ornarsi di costumi è 'l suo diletto;,0,1,0,0,0,1,0,0,0,1,nessuna
+21,-,13,sonetto,ABBA ABBA CDC DCD,-,11,fugge come nimico ogn'atto vile:,1,0,0,0,0,1,0,1,0,1,nessuna
+21,-,14,sonetto,ABBA ABBA CDC DCD,-,11,chi dunque de cessar starli subbietto?,1,1,0,0,0,1,1,0,0,1,nessuna
+22,-,1,terzina,-,-,11,"Amor, che con sua forza e virtù regna,",0,1,0,0,0,1,0,0,1,1,nessuna
+22,-,2,terzina,-,-,11,nel summo cielo ardendo sempre vive,0,1,0,1,0,1,0,1,0,1,nessuna
+22,-,3,terzina,-,-,11,"e l'anima gentil di lui fa degna,",0,1,0,0,0,1,0,1,0,1,nessuna
+22,-,4,terzina,-,-,11,"regge mia vita e quel che la man scrive,",1,0,0,1,0,1,0,0,1,1,nessuna
+22,-,5,terzina,-,-,11,dimostra el cuor divoto a sua deitade,0,1,0,1,0,1,0,1,0,1,nessuna
+22,-,6,terzina,-,-,11,e del suo regno el fa ministro e cive.,0,0,0,1,0,1,0,1,0,1,nessuna
+22,-,7,terzina,-,-,11,Amor vol fede e con lui son legade,0,1,0,1,0,0,1,0,0,1,nessuna
+22,-,8,terzina,-,-,11,"speranza con timor e gelosia,",0,1,0,0,0,1,0,0,0,1,nessuna
+22,-,9,terzina,-,-,11,e sempre con leanza umanitade.,0,1,0,0,0,1,0,0,0,1,nessuna
+22,-,10,terzina,-,-,11,Unde sovente per Rachele a Lia,1,0,0,1,0,0,0,1,0,1,nessuna
+22,-,11,terzina,-,-,11,fa star suggetta l'anima servendo,0,1,0,1,0,1,0,0,0,1,nessuna
+22,-,12,terzina,-,-,11,con dolce voglia e con la mente pia.,0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,13,terzina,-,-,11,"Così si pasce, di sua fiamma ardendo,",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,14,terzina,-,-,11,"il cuor che onestamente Amor nutrica,",0,1,0,0,0,1,0,1,0,1,nessuna
+22,-,15,terzina,-,-,11,con sua vaghezza nei suspir languendo.,0,0,0,1,0,0,0,1,0,1,nessuna
+22,-,16,terzina,-,-,11,Supporta angosia in pace e gran fatica,0,1,0,1,0,1,0,1,0,1,nessuna
+22,-,17,terzina,-,-,11,per conservar della sua cara amata,0,0,0,1,0,0,0,1,0,1,nessuna
+22,-,18,terzina,-,-,11,el digno onor e la sua fiamma antica.,0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,19,terzina,-,-,11,"Amor è come gemma in or legata,",0,1,0,1,0,1,0,1,0,1,nessuna
+22,-,20,terzina,-,-,11,"che mai non perde sua gentil natura,",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,21,terzina,-,-,11,ma più lucente è sempre e più preziata.,0,1,0,1,0,1,0,1,0,1,nessuna
+22,-,22,terzina,-,-,11,"Non è, come altrui pinge sua figura,",0,1,0,0,1,1,0,0,0,1,nessuna
+22,-,23,terzina,-,-,11,"crudele, iniusto, faretrato e nudo,",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,24,terzina,-,-,11,né ha de' suoi suggetti poca cura;,0,1,0,0,0,1,0,1,0,1,nessuna
+22,-,25,terzina,-,-,11,"anzi è di vera pace eterno scudo,",1,0,0,1,0,1,0,1,0,1,nessuna
+22,-,26,terzina,-,-,11,"vestito de virtute e gentilezza,",0,1,0,0,0,1,0,0,0,1,nessuna
+22,-,27,terzina,-,-,11,"ma, contra ogni lascivo, alpestro e crudo;",0,1,0,0,0,1,0,1,0,1,nessuna
+22,-,28,terzina,-,-,11,né senza il suo bel lume alcuna altezza,0,1,0,0,0,1,0,1,0,1,nessuna
+22,-,29,terzina,-,-,11,"in ciel fia degna o nel terrestre mondo,",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,30,terzina,-,-,11,"né val di donna, senza lui, baldezza.",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,31,terzina,-,-,11,"Amor fa con audacia l'uom facondo,",0,1,1,0,0,1,0,1,0,1,nessuna
+22,-,32,terzina,-,-,11,"cortese, umano, e di costumi ornato,",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,33,terzina,-,-,11,e 'l cuor dov'el si possa fa iocundo.,0,1,0,1,0,1,0,0,0,1,nessuna
+22,-,34,terzina,-,-,11,"Premio non cerca, regni o alto stato,",1,0,0,1,0,1,0,1,0,1,nessuna
+22,-,35,terzina,-,-,11,"ma sol bontate e un disio amoroso,",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,36,terzina,-,-,11,"con pura fede, l'uno e l'altro amato.",0,1,0,1,0,1,0,1,0,1,nessuna
+22,-,37,terzina,-,-,11,"Onesta leggiadria, un cuor vezzoso,",0,1,0,0,0,1,0,1,0,1,nessuna
+22,-,38,terzina,-,-,11,"un parlar dolce, un animo sincero,",0,0,1,1,0,1,0,0,0,1,nessuna
+22,-,39,terzina,-,-,11,un vago remirar tutto piatoso,0,1,0,0,0,1,1,0,0,1,nessuna
+22,-,40,terzina,-,-,11,son le catene und'el si fa mainero;,1,0,0,1,0,1,0,1,0,1,nessuna
+22,-,41,terzina,-,-,11,nel foco ardente e' con dolcezza abrusa,0,1,0,1,1,0,0,1,0,1,nessuna
+22,-,42,terzina,-,-,11,temprando sue saette e l'arco fiero.,0,1,0,0,0,1,0,1,0,1,nessuna
+22,-,43,terzina,-,-,11,De lui presumo in questa mia confusa,0,1,0,1,0,1,0,1,0,1,nessuna
+22,-,44,terzina,-,-,11,"e bassa rima le sue laude alzare,",0,1,0,1,0,0,0,1,0,1,nessuna
+22,-,45,terzina,-,-,11,"se 'l suo favor alla mia debil musa,",0,0,0,1,0,0,0,1,0,1,nessuna
+22,-,46,terzina,-,-,11,porgendo mi farà di lui cantare.,0,1,0,0,0,1,0,1,0,1,nessuna
+23,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Questo amoroso fuoco è sì soave,",0,0,0,1,0,1,0,0,0,1,nessuna
+23,-,2,sonetto,ABBA ABBA CDE CDE,-,11,che tuttora ardo e parmi crescer vita;,0,0,1,1,0,1,0,1,0,1,nessuna
+23,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"ma vedo ben che, se 'l ciel non m'aita,",0,1,0,1,0,0,1,0,0,1,nessuna
+23,-,4,sonetto,ABBA ABBA CDE CDE,-,11,rotta è fra duro scoglio la mia nave.,1,1,0,1,0,1,0,0,0,1,nessuna
+23,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Tal mi tien chiuso sotto a mille chiave,",1,0,0,1,0,1,0,1,0,1,nessuna
+23,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"che, con sua faccia angelica e polita,",0,0,0,1,0,1,0,0,0,1,nessuna
+23,-,7,sonetto,ABBA ABBA CDE CDE,-,11,or pena eterna or dolcezza infinita,1,1,0,1,0,0,1,0,0,1,nessuna
+23,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"mi mostra, or m'assicura or mi spave.",0,1,0,0,0,1,0,1,0,1,nessuna
+23,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Così del mio fin dubio ardendo spero,0,1,0,0,1,1,0,1,0,1,nessuna
+23,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"nel fuoco rinovar come fenice,",0,1,0,0,0,1,1,0,0,1,nessuna
+23,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e questo d'ogni doglia è medicina.,0,1,0,0,0,1,0,0,0,1,nessuna
+23,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Né posso, mio giudicio, dir con vero",0,1,0,0,0,1,0,1,0,1,nessuna
+23,-,13,sonetto,ABBA ABBA CDE CDE,-,11,che per cosa terrena esser felice,0,0,1,0,0,1,1,0,0,1,nessuna
+23,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"io cerchi, ma d'effigie alta e divina.",0,1,0,0,0,1,1,0,0,1,nessuna
+24,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Quello spirto vezzoso, che nel core",0,0,1,0,0,1,0,0,0,1,nessuna
+24,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"mi misero i begli occhi di costei,",0,1,0,0,0,1,0,0,0,1,nessuna
+24,-,3,sonetto,ABBA ABBA CDE CDE,-,11,parla sovente con meco di lei,1,0,0,1,0,0,1,0,0,1,nessuna
+24,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"leggiadramente, e simile d'Amore.",0,0,0,1,0,1,0,0,0,1,nessuna
+24,-,5,sonetto,ABBA ABBA CDE CDE,-,11,E poi del suo animoso fervore,0,1,0,0,0,0,1,0,0,1,nessuna
+24,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"una speranza crea ne' pensier miei,",0,0,0,1,0,1,0,0,1,1,nessuna
+24,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"che sì lieto mi fa, ch'io mi potrei",0,0,1,0,0,1,1,0,0,1,nessuna
+24,-,8,sonetto,ABBA ABBA CDE CDE,-,11,beato dir s'ella stesse molt'ore.,0,1,0,1,1,0,1,0,0,1,nessuna
+24,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma un tremor, da non so che paura",0,0,0,1,0,0,1,0,0,1,nessuna
+24,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"nato, lo scaccia e rompe in mezzo il porto,",1,0,0,1,0,1,0,1,0,1,nessuna
+24,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"ch'aver preso credea, di mia salute;",0,0,1,0,0,1,0,0,0,1,nessuna
+24,-,12,sonetto,ABBA ABBA CDE CDE,-,11,e veggio aperto ch'alcun ben non dura,0,1,0,1,0,0,1,1,0,1,nessuna
+24,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"lunga stagione in questo viver corto,",1,0,0,1,0,1,0,1,0,1,nessuna
+24,-,14,sonetto,ABBA ABBA CDE CDE,-,11,quantunque possa natural virtute.,0,1,0,1,0,0,0,1,0,1,nessuna
+25,-,1,sonetto,ABBA ABBA CDC DCD,-,11,Quante fiate per ventura il loco,1,0,0,1,0,0,0,1,0,1,nessuna
+25,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"veggio là dov'io fui da Amore preso,",1,0,1,0,0,1,0,1,0,1,nessuna
+25,-,3,sonetto,ABBA ABBA CDC DCD,-,11,tanto mi par di nuovo esser acceso,1,0,0,1,0,1,1,0,0,1,nessuna
+25,-,4,sonetto,ABBA ABBA CDC DCD,-,11,da un desio più caldo assai che 'l foco;,0,0,0,1,0,1,0,1,0,1,nessuna
+25,-,5,sonetto,ABBA ABBA CDC DCD,-,11,e poi che quello ho riguardato un poco,0,1,0,1,0,0,0,1,0,1,nessuna
+25,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"e stato alquanto sovra me sospeso,",0,1,0,1,0,0,0,1,0,1,nessuna
+25,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"dico: - Se tu ti fosse qui difeso,",1,0,0,0,0,1,0,1,0,1,nessuna
+25,-,8,sonetto,ABBA ABBA CDC DCD,-,11,"non sarest'or, per merzé chieder, fioco.",0,0,1,1,0,0,1,1,0,1,nessuna
+25,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Adunque piangi, poi la libertate",0,1,0,1,0,1,0,0,0,1,nessuna
+25,-,10,sonetto,ABBA ABBA CDC DCD,-,11,avevi nelle man lasciat'hai andare,0,1,0,0,0,1,0,1,0,1,nessuna
+25,-,11,sonetto,ABBA ABBA CDC DCD,-,11,per donna vaga e di poca pietate -.,0,1,0,1,0,0,1,0,0,1,nessuna
+25,-,12,sonetto,ABBA ABBA CDC DCD,-,11,"Poi mi rivolgo, e dico che lo stare",1,0,0,1,0,1,0,0,0,1,nessuna
+25,-,13,sonetto,ABBA ABBA CDC DCD,-,11,subbietto a sì mirabile biltate,0,1,0,0,0,1,0,0,0,1,nessuna
+25,-,14,sonetto,ABBA ABBA CDC DCD,-,11,è somma e lieta libertate usare.,0,1,0,1,0,0,0,1,0,1,nessuna
+26,-,1,sonetto,ABBA ABBA CDE CDE,-,11,- A quella parte ov'io fui prima accesa,0,1,0,1,0,1,0,1,0,1,nessuna
+26,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"del piacer di colui, che mai del core",0,0,1,0,0,1,0,1,0,1,nessuna
+26,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"non mi si partirà, sovente Amore",0,0,0,0,0,1,0,1,0,1,nessuna
+26,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"mi tira, né mi vale il far difesa.",0,1,0,0,0,1,0,0,0,1,nessuna
+26,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Quindi rimiro lui, tutta sospesa,",1,0,0,1,0,1,1,0,0,1,nessuna
+26,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"in giù e 'n su, pregandol, se 'l valore",0,1,0,1,0,1,0,0,0,1,nessuna
+26,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"suo sempre cresca, che 'l vago splendore",1,1,0,1,0,0,1,0,0,1,nessuna
+26,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"mi mostri del mio ben, che m'ha sì presa.",0,1,0,0,0,1,0,1,0,1,nessuna
+26,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Il qual s'avvien che io veggia per grazia,",0,1,0,1,0,0,1,0,0,1,nessuna
+26,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"contenta dentro mi ritraggo un poco,",0,1,0,1,0,0,0,1,0,1,nessuna
+26,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"lodando Iddio, Amore e la fortuna;",0,1,0,1,0,1,0,0,0,1,nessuna
+26,-,12,sonetto,ABBA ABBA CDE CDE,-,11,e mentre che d'averlo visto sazia,0,1,0,0,0,1,0,1,0,1,nessuna
+26,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"esser mi credo, raccender il foco",1,0,0,1,0,0,1,0,0,1,nessuna
+26,-,14,sonetto,ABBA ABBA CDE CDE,-,11,sento di rivederlo e torno in una -.,1,0,0,0,0,1,0,1,0,1,nessuna
+27,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Quando s'accese quella prima fiamma,1,0,0,1,0,1,0,1,0,1,nessuna
+27,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"dentro da me, che 'l cor mi munge e arde,",1,0,0,1,0,1,0,1,0,1,nessuna
+27,-,3,sonetto,ABBA ABBA CDE CDE,-,11,io solia dir talor: - Questa non arde,0,0,1,1,0,1,1,0,0,1,nessuna
+27,-,4,sonetto,ABBA ABBA CDE CDE,-,11,come suol arder ciascun'altra fiamma;,1,0,0,1,0,0,0,1,0,1,nessuna
+27,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"anzi conforta, sospigne e infiamma",1,0,0,1,0,0,1,0,0,1,nessuna
+27,-,6,sonetto,ABBA ABBA CDE CDE,-,11,a valor seguitar chiunque ella arde:,0,0,1,0,0,1,0,1,0,1,nessuna
+27,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"per che de esser contento, in cui ella arde,",0,1,0,0,0,1,0,1,0,1,nessuna
+27,-,8,sonetto,ABBA ABBA CDE CDE,-,11,di più fin divenir in cotal fiamma -.,0,0,1,0,0,1,0,0,1,1,nessuna
+27,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma il cor, già carbon fatto in questo foco,",0,1,1,0,1,1,0,1,0,1,nessuna
+27,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"senza pace sperar, in tristo pianto,",0,0,1,0,0,1,0,1,0,1,nessuna
+27,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ha mutata sentenzia e chiede morte.,0,0,1,0,0,1,0,1,0,1,nessuna
+27,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"E non trovando lei in cotal foco,",0,0,0,1,0,1,0,0,1,1,nessuna
+27,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"ora rovente e or bagnato in pianto,",1,0,0,1,0,1,0,1,0,1,nessuna
+27,-,14,sonetto,ABBA ABBA CDE CDE,-,11,si sta in vita assai peggior che morte.,0,1,0,1,0,1,0,1,0,1,nessuna
+28,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Misero me, ch'io non oso mirare",1,0,0,1,0,0,1,0,0,1,nessuna
+28,-,2,sonetto,ABBA ABBA CDE CDE,-,11,gli occhi ne' quali stava la mia pace;,1,0,0,1,0,1,0,0,0,1,nessuna
+28,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"però che, come il ghiaccio si disface",0,1,0,1,0,1,0,0,0,1,nessuna
+28,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"al sol, così mi sento il cor disfare",0,1,0,1,0,1,0,1,0,1,nessuna
+28,-,5,sonetto,ABBA ABBA CDE CDE,-,11,per soverchio disio nel riguardare:,0,0,1,0,0,1,0,0,0,1,nessuna
+28,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"e s'altro miro, tanto mi dispiace,",0,1,0,1,0,1,0,0,0,1,nessuna
+28,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"ch'un gel noioso vienmi, il qual mi face",0,1,0,1,0,1,0,1,0,1,nessuna
+28,-,8,sonetto,ABBA ABBA CDE CDE,-,11,di morte spesse volte dubitare.,0,1,0,1,0,1,0,0,0,1,nessuna
+28,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Tra questi estremi sto, né so che farmi:",0,1,0,1,0,1,0,1,0,1,nessuna
+28,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"o arder tutto, lor mirando fiso,",0,1,0,1,0,1,0,1,0,1,nessuna
+28,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"o di freddo morire, altro guardando.",0,0,1,0,0,1,1,0,0,1,nessuna
+28,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"L'un mi duol men, ma troppo grave parmi",1,0,1,1,0,1,0,1,0,1,nessuna
+28,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"da cui salute spero esser ucciso,",0,1,0,1,0,1,1,0,0,1,nessuna
+28,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e più duro mi par morir guardando!,0,0,1,0,0,1,0,1,0,1,nessuna
+29,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"S'io ti vedessi, Amor, pur una volta",0,0,0,1,0,1,1,0,0,1,nessuna
+29,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"l'arco tirare e saettar costei,",1,0,0,1,0,0,0,1,0,1,nessuna
+29,-,3,sonetto,ABBA ABBA CDE CDE,-,11,forse ch'alcuna speme prenderei,1,0,0,1,0,1,0,0,0,1,nessuna
+29,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"di pace ancor, della mia pena molta;",0,1,0,1,0,0,0,1,0,1,nessuna
+29,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"ma perché baldanzosa, lieta e sciolta",0,0,1,0,0,1,0,1,0,1,nessuna
+29,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"la veggio e te codardo in ver di lei,",0,1,0,1,0,1,0,0,0,1,nessuna
+29,-,7,sonetto,ABBA ABBA CDE CDE,-,11,non so ben da qual parte i dolor miei,0,0,1,0,0,1,0,0,1,1,nessuna
+29,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"s'aspettin fine, o l'anima ricolta.",0,1,0,1,0,1,0,0,0,1,nessuna
+29,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Ogni suo atto impenna un de' tuo' strali;,1,0,0,1,0,1,1,0,0,1,nessuna
+29,-,10,sonetto,ABBA ABBA CDE CDE,-,11,che diss'io un? ma cento: e il tuo arco,0,1,0,1,0,1,0,0,0,1,nessuna
+29,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ognor a trapassar mi par più forte.,0,1,0,0,0,1,0,1,0,1,nessuna
+29,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Vedi ch'io son senz'armi, diseguali",1,0,0,1,0,1,0,0,0,1,nessuna
+29,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"al poter tuo, e, se non chiudi il varco,",0,0,1,1,0,0,0,1,0,1,nessuna
+29,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"l'anima mia, ch'è tua, sen vol'a morte.",1,0,0,1,0,1,0,1,0,1,nessuna
+30,-,1,sonetto,ABBA ABBA CDE DCE,-,11,"Trovato m'hai, Amor, solo e senz'armi",0,1,0,1,0,1,1,0,0,1,nessuna
+30,-,2,sonetto,ABBA ABBA CDE DCE,-,11,là dove più armato e avveduto,0,1,0,0,0,1,0,0,0,1,nessuna
+30,-,3,sonetto,ABBA ABBA CDE DCE,-,11,"sei, credo, per uccidermi venuto,",1,1,0,0,0,1,0,0,0,1,nessuna
+30,-,4,sonetto,ABBA ABBA CDE DCE,-,11,"col favor di costei, ch'in disertarmi",0,0,1,0,0,1,0,0,0,1,nessuna
+30,-,5,sonetto,ABBA ABBA CDE DCE,-,11,aguzza le saette che passarmi,0,1,0,0,0,1,0,0,0,1,nessuna
+30,-,6,sonetto,ABBA ABBA CDE DCE,-,11,"deono il cor; ma, poi che fia saputo,",1,0,0,1,0,1,0,1,0,1,nessuna
+30,-,7,sonetto,ABBA ABBA CDE DCE,-,11,"certo son, ne sarai da men tenuto",1,0,1,0,0,1,0,1,0,1,nessuna
+30,-,8,sonetto,ABBA ABBA CDE DCE,-,11,d'aver voluto pur così disfarmi.,0,1,0,1,0,1,0,1,0,1,nessuna
+30,-,9,sonetto,ABBA ABBA CDE DCE,-,11,"Poco onor ti sarà, s'io non m'inganno,",1,0,1,0,0,1,1,0,0,1,nessuna
+30,-,10,sonetto,ABBA ABBA CDE DCE,-,11,"ferir, vincer, legar, uccider uno",0,1,1,0,0,1,0,1,0,1,nessuna
+30,-,11,sonetto,ABBA ABBA CDE DCE,-,11,che far non puote in ver di te difesa.,0,1,0,1,0,1,0,1,0,1,nessuna
+30,-,12,sonetto,ABBA ABBA CDE DCE,-,11,"Ma tu, che ad onor rispetto alcuno",0,1,0,0,0,1,0,1,0,1,nessuna
+30,-,13,sonetto,ABBA ABBA CDE DCE,-,11,"non avesti giammai, del mio gran danno",0,0,1,0,0,1,0,1,0,1,nessuna
+30,-,14,sonetto,ABBA ABBA CDE DCE,-,11,"ti riderai, e io m'avrò l'offesa.",0,0,0,1,0,1,0,1,0,1,nessuna
+31,-,1,sonetto,ABBA ABBA CDE CDE,-,11,- Che fabrichi? che tenti? che limando,0,1,0,0,0,1,0,0,0,1,nessuna
+31,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"vai le catene, in che tu stesso entrasti -,",1,0,0,1,0,1,0,1,0,1,nessuna
+31,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"mi dice Amore, - e te stesso legasti",0,1,0,1,0,0,1,0,0,1,nessuna
+31,-,4,sonetto,ABBA ABBA CDE CDE,-,11,senza mio prego e senza mio comando?,1,0,0,1,0,1,0,0,0,1,nessuna
+31,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Che latebra, che fuga vai cercando",0,0,1,0,0,1,0,0,0,1,nessuna
+31,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"di drieto a me, al qual tu obligasti",0,1,0,1,0,1,0,0,0,1,nessuna
+31,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"la fede tua, allor che tu mirasti",0,1,0,1,0,1,0,0,0,1,nessuna
+31,-,8,sonetto,ABBA ABBA CDE CDE,-,11,l'angelica bellezza desiando?,0,1,0,0,0,1,0,0,0,1,nessuna
+31,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"O stolte menti, o animali sciocchi!",0,1,0,1,0,0,0,1,0,1,nessuna
+31,-,10,sonetto,ABBA ABBA CDE CDE,-,11,poi che t'avrai co' tua inganni sciolto,1,0,0,1,0,0,0,1,0,1,nessuna
+31,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"e volando sarai fuggito via,",0,0,1,0,0,1,0,1,0,1,nessuna
+31,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"una parola, un riso, un muover d'occhi,",0,0,0,1,0,1,0,1,0,1,nessuna
+31,-,13,sonetto,ABBA ABBA CDE CDE,-,11,un dimonstrarsi lieto il vago volto,0,0,0,1,0,1,0,1,0,1,nessuna
+31,-,14,sonetto,ABBA ABBA CDE CDE,-,11,farà tornarti più stretto che pria -.,0,1,0,1,0,0,1,0,0,1,nessuna
+32,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Pallido, vinto e tutto transmutato",1,0,0,1,0,1,0,0,0,1,nessuna
+32,-,2,sonetto,ABBA ABBA CDE CDE,-,11,dallo stato primier quando mi vede,0,0,1,0,0,1,1,0,0,1,nessuna
+32,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"la nemica d'amore e di mercede,",0,0,1,0,0,1,0,0,0,1,nessuna
+32,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"nelle cui reti son preso e legato,",0,0,0,1,0,0,1,0,0,1,nessuna
+32,-,5,sonetto,ABBA ABBA CDE CDE,-,11,quasi di ciò che io ho già contato,1,0,0,1,0,1,0,1,0,1,nessuna
+32,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"del suo valor, prendendo intera fede,",0,0,0,1,0,1,0,1,0,1,nessuna
+32,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"lieta più preme il cor che la possede,",1,0,1,1,0,1,0,0,0,1,nessuna
+32,-,8,sonetto,ABBA ABBA CDE CDE,-,11,indi sperando nome più pregiato.,1,0,0,1,0,1,0,0,0,1,nessuna
+32,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ond'io stimo che sia da mutar verso,",0,0,1,0,0,1,0,0,1,1,nessuna
+32,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"pur ch'Amor mel consenta, e biasimare",0,0,1,0,0,1,0,0,0,1,nessuna
+32,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ciò che io scioccamente già lodai.,1,0,1,0,0,1,0,0,1,1,nessuna
+32,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Forse diverrà bianco il color perso,",1,0,0,0,1,1,0,0,1,1,nessuna
+32,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"e per lo non ben dir potrò impetrare,",0,1,0,0,0,1,0,1,0,1,nessuna
+32,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"per avventura, fine alli mia guai.",0,0,0,1,0,1,0,0,0,1,nessuna
+33,-,1,madrigale,ABB CDD EFF GG,-,11,Come in sul fonte fu preso Narcisso,1,0,0,1,0,0,1,0,0,1,nessuna
+33,-,2,madrigale,ABB CDD EFF GG,-,11,"di sé da sé, così costei, specchiando",0,1,0,1,0,1,0,1,0,1,nessuna
+33,-,3,madrigale,ABB CDD EFF GG,-,11,"sé, sé ha preso dolcemente amando.",1,1,0,1,0,0,0,1,0,1,nessuna
+33,-,4,madrigale,ABB CDD EFF GG,-,11,"E tanto vaga se stessa vagheggia,",0,1,0,1,0,0,1,0,0,1,nessuna
+33,-,5,madrigale,ABB CDD EFF GG,-,11,"che, ingelosita della sua figura,",0,0,0,1,0,0,0,1,0,1,nessuna
+33,-,6,madrigale,ABB CDD EFF GG,-,11,"ha di chiunque la mira paura,",1,0,0,1,0,0,1,0,0,1,nessuna
+33,-,7,madrigale,ABB CDD EFF GG,-,11,temendo sé a sé non esser tolta.,0,1,0,1,0,1,0,1,0,1,nessuna
+33,-,8,madrigale,ABB CDD EFF GG,-,11,"Quel che ella di me pensi, colui",1,0,1,0,0,1,1,0,0,1,nessuna
+33,-,9,madrigale,ABB CDD EFF GG,-,11,sel pensi che in sé conosce altrui.,0,1,0,0,0,1,0,1,0,1,nessuna
+33,-,10,madrigale,ABB CDD EFF GG,-,11,"A me ne par, per quel ch'appar di fore,",0,1,0,1,0,1,0,1,0,1,nessuna
+33,-,11,madrigale,ABB CDD EFF GG,-,11,"qual fu tra Febo e Danne, odio e amore.",1,0,0,1,0,1,1,0,0,1,nessuna
+34,-,1,sonetto,ABBA ABBA CDC DCD,-,11,Quando poss'io sperar che mai conforme,1,0,0,0,0,1,0,1,0,1,nessuna
+34,-,2,sonetto,ABBA ABBA CDC DCD,-,11,divegna questa donna a' desir miei,0,1,0,1,0,1,0,0,1,1,nessuna
+34,-,3,sonetto,ABBA ABBA CDC DCD,-,11,ch'ancor con prieghi impetrar non potei,0,1,0,1,0,1,0,0,0,1,nessuna
+34,-,4,sonetto,ABBA ABBA CDC DCD,-,11,"dal sonno, monstrator di mille forme,",0,1,0,0,0,1,0,1,0,1,nessuna
+34,-,5,sonetto,ABBA ABBA CDC DCD,-,11,"ch'in sogn'almen dov'ella lascia l'orme,",0,1,0,1,0,1,0,1,0,1,nessuna
+34,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"mi dimonstrasse: e contento sarei,",0,0,0,1,0,0,1,0,0,1,nessuna
+34,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"poi ch'io non posso più riveder lei,",1,0,0,1,0,1,0,0,1,1,nessuna
+34,-,8,sonetto,ABBA ABBA CDC DCD,-,11,"che crudel cerca, lasso! in terra porme.",0,0,1,1,0,1,0,1,0,1,nessuna
+34,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Allora certo, quando torneranno",0,1,0,1,0,1,0,0,0,1,nessuna
+34,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"li fiumi a' monti, e i lupi l'agnelle",0,1,0,1,0,1,0,0,0,1,nessuna
+34,-,11,sonetto,ABBA ABBA CDC DCD,-,11,dagli ovil temorosi fuggiranno.,0,0,1,0,0,1,0,0,0,1,nessuna
+34,-,12,sonetto,ABBA ABBA CDC DCD,-,11,"Dunque uccidimi, Amore, acciò che quelle",1,0,1,0,0,1,0,1,0,1,nessuna
+34,-,13,sonetto,ABBA ABBA CDC DCD,-,11,"luci che fur principio del mio danno,",1,0,0,1,0,1,0,0,0,1,nessuna
+34,-,14,sonetto,ABBA ABBA CDC DCD,-,11,del morir mio ridendo sien più belle.,0,0,1,1,0,1,0,1,0,1,nessuna
+35,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Se quella fiamma che nel cor m'accese,0,1,0,1,0,0,0,1,0,1,nessuna
+35,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"e or mi sface in doloroso pianto,",0,1,0,1,0,0,0,1,0,1,nessuna
+35,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"fosse ver me pietosa pur alquanto,",1,0,0,1,0,1,0,0,0,1,nessuna
+35,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"e del monstrarsi un poco più cortese,",0,0,0,1,0,1,0,1,0,1,nessuna
+35,-,5,sonetto,ABBA ABBA CDE CDE,-,11,ancora spererei trovar difese,0,1,0,0,0,1,0,1,0,1,nessuna
+35,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"alla mia vita, che m'è in odio tanto,",0,0,0,1,0,0,0,1,0,1,nessuna
+35,-,7,sonetto,ABBA ABBA CDE CDE,-,11,e' sospir grevi rivolger in canto,0,0,1,1,0,0,1,0,0,1,nessuna
+35,-,8,sonetto,ABBA ABBA CDE CDE,-,11,e poter perdonar le fatte offese.,0,0,1,0,0,1,0,1,0,1,nessuna
+35,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma perché, come Febo fuggì Dane,",0,0,1,0,0,1,0,0,1,1,nessuna
+35,-,10,sonetto,ABBA ABBA CDE CDE,-,11,così costei d'ogni parte mi fugge,0,1,0,1,0,0,1,0,0,1,nessuna
+35,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"e niega agli occhi miei il suo bel lume,",0,1,0,1,0,1,0,1,0,1,nessuna
+35,-,12,sonetto,ABBA ABBA CDE CDE,-,11,troppo invescata in l'amorose pane,1,0,0,1,0,0,0,1,0,1,nessuna
+35,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"la vita mia cognosco che si strugge,",0,1,0,1,0,1,0,0,0,1,nessuna
+35,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e 'l cor diventa di lagrime fiume.,0,1,0,1,0,0,1,0,0,1,nessuna
+36,-,1,sonetto,ABBA ABBA CDE DCE,-,11,"Scrivon alcun Partenopè, sirena",1,0,0,1,0,0,0,1,0,1,nessuna
+36,-,2,sonetto,ABBA ABBA CDE DCE,-,11,"ornata di bellezze e piena d'arte,",0,1,0,0,0,1,0,1,0,1,nessuna
+36,-,3,sonetto,ABBA ABBA CDE DCE,-,11,aver sua stanza eletta in questa parte,0,1,0,1,0,1,0,1,0,1,nessuna
+36,-,4,sonetto,ABBA ABBA CDE DCE,-,11,"tra il coll'erboso e la marina rena,",0,1,0,1,0,0,0,1,0,1,nessuna
+36,-,5,sonetto,ABBA ABBA CDE DCE,-,11,e qui lasciat'ancor d'età non piena,0,1,0,1,0,1,0,1,0,1,nessuna
+36,-,6,sonetto,ABBA ABBA CDE DCE,-,11,"le membra sua, che or son cener sparte,",0,1,0,1,0,1,0,1,0,1,nessuna
+36,-,7,sonetto,ABBA ABBA CDE DCE,-,11,e il nome suo in più felice carte,0,1,0,1,0,0,0,1,0,1,nessuna
+36,-,8,sonetto,ABBA ABBA CDE DCE,-,11,e in questa terra fertile e amena.,0,1,0,1,0,1,0,0,0,1,nessuna
+36,-,9,sonetto,ABBA ABBA CDE DCE,-,11,"E com'a le' fu il ciel mite e benigno,",0,1,0,1,0,1,1,0,0,1,violaz. di schema metrico
+36,-,10,sonetto,ABBA ABBA CDE DCE,-,11,così alle poi nate par che sia:,0,1,0,0,1,1,0,1,0,1,nessuna
+36,-,11,sonetto,ABBA ABBA CDE DCE,-,11,"e io, miser a me, sovente il provo,",0,1,1,0,0,1,0,1,0,1,nessuna
+36,-,12,sonetto,ABBA ABBA CDE DCE,-,11,veggendo bella la nemica mia,0,1,0,1,0,0,0,1,0,1,nessuna
+36,-,13,sonetto,ABBA ABBA CDE DCE,-,11,"vincer ogni mia forza col suo ingegno,",1,0,1,0,0,1,0,0,0,1,violaz. di schema metrico
+36,-,14,sonetto,ABBA ABBA CDE DCE,-,11,ver me monstrando sempre sdegno novo.,0,1,0,1,0,1,0,1,0,1,nessuna
+37,-,1,sonetto,ABBA ABBA CDE DCE,-,11,"Vetro son fatti i fiumi, e i ruscelli",1,0,0,1,0,1,0,0,0,1,nessuna
+37,-,2,sonetto,ABBA ABBA CDE DCE,-,11,gli serra di fuor ora la freddura;,0,1,0,0,1,1,0,0,0,1,nessuna
+37,-,3,sonetto,ABBA ABBA CDE DCE,-,11,vestiti son i monti e la pianura,0,1,0,1,0,1,0,0,0,1,nessuna
+37,-,4,sonetto,ABBA ABBA CDE DCE,-,11,"di bianca neve e nudi gli arbuscelli,",0,1,0,1,0,1,0,0,0,1,nessuna
+37,-,5,sonetto,ABBA ABBA CDE DCE,-,11,"l'erbette morte, e non cantan gli uccelli",0,1,0,1,0,0,1,0,0,1,nessuna
+37,-,6,sonetto,ABBA ABBA CDE DCE,-,11,per la stagion contraria a lor natura;,0,0,0,1,0,1,0,0,0,1,nessuna
+37,-,7,sonetto,ABBA ABBA CDE DCE,-,11,"Borea soffia, e ogni creatura",0,1,0,1,0,1,0,0,0,1,nessuna
+37,-,8,sonetto,ABBA ABBA CDE DCE,-,11,sta chiusa per lo freddo ne' sua ostelli.,0,1,0,0,0,1,0,0,0,1,nessuna
+37,-,9,sonetto,ABBA ABBA CDE DCE,-,11,"E io, dolente, solo ardo e incendo",0,1,0,1,0,1,1,0,0,1,nessuna
+37,-,10,sonetto,ABBA ABBA CDE DCE,-,11,"in tanto foco, che quel di Vulcano",0,1,0,1,0,0,1,0,0,1,nessuna
+37,-,11,sonetto,ABBA ABBA CDE DCE,-,11,a rispetto non è una favilla;,0,0,1,0,0,1,0,0,0,1,nessuna
+37,-,12,sonetto,ABBA ABBA CDE DCE,-,11,"e giorno e notte chiero, a giunta mano,",0,1,0,1,0,1,0,1,0,1,nessuna
+37,-,13,sonetto,ABBA ABBA CDE DCE,-,11,"alquanto d'acqua al mio signor, piangendo,",0,1,0,1,0,0,0,1,0,1,nessuna
+37,-,14,sonetto,ABBA ABBA CDE DCE,-,11,né ne posso impetrar sol una stilla.,0,0,1,0,0,1,1,0,0,1,nessuna
+38,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Pervenut'è, insin nel secul nostro,",0,0,1,1,0,1,0,1,0,1,nessuna
+38,-,2,sonetto,ABBA ABBA CDE CDE,-,11,che tante volte il cuor di Prometeo,0,1,0,1,0,1,0,0,0,1,nessuna
+38,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"con l'altre parti dentro si rifeo,",0,1,0,1,0,1,0,0,0,1,nessuna
+38,-,4,sonetto,ABBA ABBA CDE CDE,-,11,di quante se ne pasce un duro rostro;,0,1,0,0,0,1,0,1,0,1,nessuna
+38,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"il che parria forse terribil mostro,",0,1,0,1,1,0,0,1,0,1,nessuna
+38,-,6,sonetto,ABBA ABBA CDE CDE,-,11,se non fesse di me simil trofeo,0,0,1,0,0,1,1,0,0,1,nessuna
+38,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"sovent'Amor, ch'a scriverlo poteo",0,1,0,1,0,1,0,0,0,1,nessuna
+38,-,8,sonetto,ABBA ABBA CDE CDE,-,11,far del mio lagrimar penna e inchiostro.,1,0,1,0,0,1,1,0,0,1,nessuna
+38,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Io piango, e sento ben che 'l cor si sface;",0,1,0,1,0,1,0,1,0,1,nessuna
+38,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"e allor, quand'egli è per venir meno,",0,1,0,1,0,1,0,0,1,1,nessuna
+38,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"debile, smunto e punto per l'affanno,",1,0,0,1,0,1,0,0,0,1,nessuna
+38,-,12,sonetto,ABBA ABBA CDE CDE,-,11,o Dio! nascoso sento che 'l riface,0,1,0,1,0,1,0,0,0,1,nessuna
+38,-,13,sonetto,ABBA ABBA CDE CDE,-,11,el mio destin: laonde eterne fieno,0,1,0,1,0,1,0,1,0,1,nessuna
+38,-,14,sonetto,ABBA ABBA CDE CDE,-,11,le pene che mi disfano e rifanno.,0,1,0,0,0,1,0,0,0,1,nessuna
+39,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Sì tosto come il sole a noi s'asconde,0,1,0,0,0,1,0,1,0,1,nessuna
+39,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"e l'ombra vien, che 'l suo lume ne toglie,",0,1,0,1,0,0,1,0,0,1,nessuna
+39,-,3,sonetto,ABBA ABBA CDE CDE,-,11,ogn'animale in terra si racoglie,0,0,0,1,0,1,0,0,0,1,nessuna
+39,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"al notturno riposo, insin che l'onde",0,0,1,0,0,1,0,1,0,1,nessuna
+39,-,5,sonetto,ABBA ABBA CDE CDE,-,11,di Gange rendon con le chiome bionde,0,1,0,1,0,0,0,1,0,1,nessuna
+39,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"al mondo l'aurora, e le lor doglie,",0,1,0,0,0,1,0,0,0,1,nessuna
+39,-,7,sonetto,ABBA ABBA CDE CDE,-,11,i duri affanni e l'amorose voglie,0,1,0,1,0,0,0,1,0,1,nessuna
+39,-,8,sonetto,ABBA ABBA CDE CDE,-,11,soave sonno allevia o le confonde.,0,1,0,1,0,1,0,0,0,1,nessuna
+39,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma io, come si fa il ciel tenebroso,",0,1,0,0,0,1,1,0,0,1,nessuna
+39,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"sì gran pianto per gli occhi mando fore,",0,0,1,0,0,1,0,1,0,1,nessuna
+39,-,11,sonetto,ABBA ABBA CDE CDE,-,11,che tant'acqua non versan dua fontane;,0,0,1,0,0,1,0,1,0,1,nessuna
+39,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"né dormir, né speranza alcun riposo",0,0,1,0,0,1,0,1,0,1,nessuna
+39,-,13,sonetto,ABBA ABBA CDE CDE,-,11,posson prestare al mio crudel dolore:,1,0,0,1,0,0,0,1,0,1,nessuna
+39,-,14,sonetto,ABBA ABBA CDE CDE,-,11,così m'affligge Amor fin la dimane.,0,1,0,1,0,1,1,0,0,1,nessuna
+40,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Chi nel suo pianger dice che ventura,1,0,0,1,0,1,0,0,0,1,nessuna
+40,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"avversa gli è al suo maggior disio,",0,1,0,1,0,0,0,1,0,1,nessuna
+40,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"e chi l'appone scioccamente a Dio,",0,1,0,1,0,0,0,1,0,1,nessuna
+40,-,4,sonetto,ABBA ABBA CDE CDE,-,11,e chi accusa Amore e chi la dura,0,1,0,1,0,1,0,1,0,1,nessuna
+40,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"condizion della donna che, pura,",0,0,0,1,0,0,1,0,0,1,nessuna
+40,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"forse non sente l'appetito rio,",1,0,0,1,0,0,0,1,0,1,nessuna
+40,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"e chi del cielo fa ramarichio,",0,1,0,1,0,1,0,0,0,1,nessuna
+40,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"non conoscendo sé, di sua sciagura.",0,0,0,1,0,1,0,1,0,1,nessuna
+40,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma io, dolente, solo agli occhi miei",0,1,0,1,0,1,0,1,0,1,nessuna
+40,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ogni mia doglia appongo, che fur porte",1,0,0,1,0,1,0,0,0,1,nessuna
+40,-,11,sonetto,ABBA ABBA CDE CDE,-,11,all'amorosa fiamma che mi sface.,0,0,0,1,0,1,0,0,0,1,nessuna
+40,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Se stati fosser chiusi, ancor potrei",0,1,0,1,0,1,0,1,0,1,nessuna
+40,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"signor di me contrastar alla morte,",0,1,0,1,0,0,1,0,0,1,nessuna
+40,-,14,sonetto,ABBA ABBA CDE CDE,-,11,la qual or chiamo per mia dolce pace.,0,1,0,1,0,0,0,1,0,1,nessuna
+41,-,1,sonetto,ABBA ABBA CDE DCE,-,11,"Cesare, poi ch'ebbe, per tradimento",1,0,0,1,1,0,0,0,0,1,nessuna
+41,-,2,sonetto,ABBA ABBA CDE DCE,-,11,"dell'egizian duttor, l'orrate chiome,",0,0,0,1,0,1,0,1,0,1,nessuna
+41,-,3,sonetto,ABBA ABBA CDE DCE,-,11,"rallegrossi nel core, e 'n vista come",0,0,1,0,0,1,0,1,0,1,nessuna
+41,-,4,sonetto,ABBA ABBA CDE DCE,-,11,si fa qual che di nuovo è discontento.,0,1,1,0,0,1,0,0,0,1,nessuna
+41,-,5,sonetto,ABBA ABBA CDE DCE,-,11,E allora ch'Annibal ebbe 'l presento,0,1,0,0,0,1,1,0,0,1,nessuna
+41,-,6,sonetto,ABBA ABBA CDE DCE,-,11,"del capo del fratel, ch'aveva nome",0,1,0,0,0,1,0,1,0,1,nessuna
+41,-,7,sonetto,ABBA ABBA CDE DCE,-,11,"Asdrubal, ricoprì suo grave some",0,1,0,0,0,1,0,1,0,1,nessuna
+41,-,8,sonetto,ABBA ABBA CDE DCE,-,11,"ridendo alla suo gente, ch'era in pianto.",0,1,0,0,0,1,0,1,0,1,violaz. di schema metrico
+41,-,9,sonetto,ABBA ABBA CDE DCE,-,11,Per somigliante ciascun uom tal volta,0,0,0,1,0,0,0,1,0,1,nessuna
+41,-,10,sonetto,ABBA ABBA CDE DCE,-,11,per atto allegro o per turbato viso,0,1,0,1,0,0,0,1,0,1,nessuna
+41,-,11,sonetto,ABBA ABBA CDE DCE,-,11,mostra 'l contrario di ciò che 'l cor sente.,1,0,0,1,0,0,1,0,1,1,nessuna
+41,-,12,sonetto,ABBA ABBA CDE DCE,-,11,"Però, s'i' canto, non dimostro riso:",0,1,0,1,0,0,0,1,0,1,nessuna
+41,-,13,sonetto,ABBA ABBA CDE DCE,-,11,fo per mostrare a chi mi mira e ascolta,1,0,0,1,0,0,0,1,0,1,nessuna
+41,-,14,sonetto,ABBA ABBA CDE DCE,-,11,ch'ai dolor gravi i' sia forte e possente.,0,0,1,1,0,0,1,0,0,1,nessuna
+42,-,1,sonetto,ABBA ABBA CDE DCE,-,11,Se zefiro omai non disacerba,0,1,0,0,0,1,0,0,0,1,nessuna
+42,-,2,sonetto,ABBA ABBA CDE DCE,-,11,"il cor aspro e feroce di costei,",0,1,1,0,0,1,0,0,0,1,nessuna
+42,-,3,sonetto,ABBA ABBA CDE DCE,-,11,"più mai non spero, per cridar omei,",0,1,0,1,0,0,0,1,0,1,nessuna
+42,-,4,sonetto,ABBA ABBA CDE DCE,-,11,trovar riposo alla mia pena acerba.,0,1,0,1,0,0,0,1,0,1,nessuna
+42,-,5,sonetto,ABBA ABBA CDE DCE,-,11,"Ma, sì com'el rinnova i fiori e l'erba",0,1,0,1,0,1,0,1,0,1,nessuna
+42,-,6,sonetto,ABBA ABBA CDE DCE,-,11,"e piante state morte mesi sei,",0,1,0,1,0,1,0,1,0,1,nessuna
+42,-,7,sonetto,ABBA ABBA CDE DCE,-,11,"così porria far dolc'e verde lei,",0,1,0,1,0,1,0,1,0,1,nessuna
+42,-,8,sonetto,ABBA ABBA CDE DCE,-,11,"pietosa in vista, in fatti men superba.",0,1,0,1,0,1,0,1,0,1,nessuna
+42,-,9,sonetto,ABBA ABBA CDE DCE,-,11,"Questa speranza sola ancor mi resta,",1,0,0,1,0,1,0,1,0,1,nessuna
+42,-,10,sonetto,ABBA ABBA CDE DCE,-,11,"per la qual vivo, ingagliardisco e tremo",0,0,1,1,0,0,0,1,0,1,nessuna
+42,-,11,sonetto,ABBA ABBA CDE DCE,-,11,dubbiando che la morte non me invole.,0,1,0,0,0,1,0,0,0,1,nessuna
+42,-,12,sonetto,ABBA ABBA CDE DCE,-,11,"Ond'io, prima che venga al punto estremo,",0,1,1,0,0,1,0,1,0,1,nessuna
+42,-,13,sonetto,ABBA ABBA CDE DCE,-,11,fortuna prego non me sia molesta,0,1,0,1,0,0,0,1,0,1,nessuna
+42,-,14,sonetto,ABBA ABBA CDE DCE,-,11,cotanto ai piacer mei quanto la suole.,0,1,0,0,1,1,1,0,0,1,nessuna
+43,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"L'alta speranza, che li mia martiri",1,0,0,1,0,0,0,1,0,1,nessuna
+43,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"soleva mitigare alcuna volta,",0,1,0,0,0,1,0,1,0,1,nessuna
+43,-,3,sonetto,ABBA ABBA CDE CDE,-,11,in noiosa fortuna ora rivolta,0,0,1,0,0,1,1,0,0,1,nessuna
+43,-,4,sonetto,ABBA ABBA CDE CDE,-,11,de' dolci mia pensier fatt'ha sospiri.,0,1,0,1,0,1,0,1,0,1,nessuna
+43,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"E gli amorosi e caldi mia desiri,",0,0,0,1,0,1,0,0,0,1,nessuna
+43,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"lacrime divenuti, la raccolta",1,0,0,0,0,1,0,0,0,1,nessuna
+43,-,7,sonetto,ABBA ABBA CDE CDE,-,11,rabbia per gli occhi fuor dal cor disciolta,1,0,0,1,0,1,0,1,0,1,nessuna
+43,-,8,sonetto,ABBA ABBA CDE CDE,-,0,[...],0,0,0,0,0,0,0,0,0,0,lacuna
+43,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Oh, s'io potesse creder di vedere,",1,0,0,1,0,1,0,0,0,1,nessuna
+43,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"canuta e crespa e pallida colei,",0,1,0,1,0,1,0,0,0,1,nessuna
+43,-,11,sonetto,ABBA ABBA CDE CDE,-,11,che con isdegno nuovo n'è cagione!,0,0,0,1,0,1,0,0,0,1,nessuna
+43,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Ch'ancor la vita mia di ritenere,",0,1,0,1,0,1,0,0,0,1,nessuna
+43,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"che fugge, a più poter m'ingegnerei,",0,1,0,0,0,1,0,0,0,1,nessuna
+43,-,14,sonetto,ABBA ABBA CDE CDE,-,11,per rider la cambiata condizione.,0,1,0,0,0,1,0,0,0,1,nessuna
+44,-,1,sonetto,ABBA ABBA CDE CDE,-,11,S'egli avvien mai che tanto gli anni miei,0,0,1,1,0,1,0,1,0,1,nessuna
+44,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"lunghi si faccin, che le chiome d'oro",1,0,0,1,0,0,0,1,0,1,nessuna
+44,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"vegga d'argento, ond'io or m'innamoro,",1,0,0,1,0,1,1,0,0,1,nessuna
+44,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"e crespo farsi il viso di costei,",0,1,0,1,0,1,0,0,0,1,nessuna
+44,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"e cispi gli occhi bei, che tanto rei",0,1,0,1,0,1,0,1,0,1,nessuna
+44,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"son per me lasso, e il caro tesoro",1,0,1,1,0,0,1,0,0,1,nessuna
+44,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"del sen ritrarsi, e il suo canto sonoro",0,1,0,1,0,0,1,0,0,1,nessuna
+44,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"divenir roco, sì com'io vorrei:",0,0,1,1,0,0,0,1,0,1,nessuna
+44,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"ogni mio spirto, ogni dolore e pianto",1,0,0,1,1,0,0,1,0,1,nessuna
+44,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"si farà riso, e pur sarò sì pronto,",0,0,1,1,0,1,0,1,0,1,nessuna
+44,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"ch'io dirò: - Donna, Amor non t'ha più cara",0,0,1,1,0,1,0,0,1,1,nessuna
+44,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"più non adesca il tuo soave canto,",1,0,0,1,0,0,0,1,0,1,nessuna
+44,-,13,sonetto,ABBA ABBA CDE CDE,-,11,pallid'e vizza non sei più in conto:,1,0,0,1,0,0,0,1,0,1,nessuna
+44,-,14,sonetto,ABBA ABBA CDE CDE,-,11,ma pianger poi l'essere stata avara -.,0,1,0,1,1,0,0,1,0,1,nessuna
+45,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"- O iniquo uomo, o servo disleale,",0,1,0,1,0,1,0,0,0,1,nessuna
+45,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"di che ti duol, di che vai lagrimando?",0,1,0,1,0,1,1,0,0,1,nessuna
+45,-,3,sonetto,ABBA ABBA CDC DCD,-,11,di che Amor e me vai biasimando,0,1,0,1,0,1,1,0,0,1,nessuna
+45,-,4,sonetto,ABBA ABBA CDC DCD,-,11,quasi cagion del tuo noioso male?,1,0,0,1,0,0,0,1,0,1,nessuna
+45,-,5,sonetto,ABBA ABBA CDC DCD,-,11,"Qual arco apers'io mai, o quale strale",0,1,0,1,0,1,0,1,0,1,nessuna
+45,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"ti saettai? quai prieghi, o dove, o quando",0,0,0,1,0,1,0,1,0,1,nessuna
+45,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"ti fur fatti per me, che, me amando,",0,0,1,0,0,1,0,1,0,1,nessuna
+45,-,8,sonetto,ABBA ABBA CDC DCD,-,11,"mi dessi il cor, di cui sì or ti cale?",0,1,0,1,0,1,0,1,0,1,nessuna
+45,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Pregastu me, e sconiurasti Amore",0,1,0,1,0,0,0,1,0,1,nessuna
+45,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"ch'io t'avessi per mio: qual dunque inganno,",0,0,1,0,0,1,0,1,0,1,nessuna
+45,-,11,sonetto,ABBA ABBA CDC DCD,-,11,qual crudeltà t'è fatta? del mio onore,1,0,0,1,0,1,0,0,0,1,nessuna
+45,-,12,sonetto,ABBA ABBA CDC DCD,-,11,mi cal più troppo che del tuo affanno -.,0,1,0,1,0,0,0,1,0,1,nessuna
+45,-,13,sonetto,ABBA ABBA CDC DCD,-,11,Così Fiammetta par talor nel core,0,1,0,1,0,0,0,1,0,1,nessuna
+45,-,14,sonetto,ABBA ABBA CDC DCD,-,11,mi dica; ond'io mi doglio e hommi il danno.,0,1,0,1,0,1,0,1,0,1,nessuna
+46,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Quante fiate indrieto mi rimiro,1,0,0,1,0,1,0,0,0,1,nessuna
+46,-,2,sonetto,ABBA ABBA CDE CDE,-,11,e veggio l'ore e i giorni e i mesi e gli anni,0,1,0,1,0,1,0,1,0,1,nessuna
+46,-,3,sonetto,ABBA ABBA CDE CDE,-,11,ch'io ho perduto seguendo gl'inganni,0,0,0,1,0,0,1,0,0,1,nessuna
+46,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"della folle speranza e del desiro,",0,0,1,0,0,1,0,0,0,1,nessuna
+46,-,5,sonetto,ABBA ABBA CDE CDE,-,11,veggio il pericol corso e il martiro,1,0,0,1,0,1,0,0,0,1,nessuna
+46,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"sofferto invan in gli amorosi affanni,",0,1,0,1,0,0,0,1,0,1,nessuna
+46,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"né trovar credo chi di ciò mi sganni,",0,0,1,1,0,0,0,1,0,1,nessuna
+46,-,8,sonetto,ABBA ABBA CDE CDE,-,11,tanto ne piango e contro a me m'adiro.,1,0,0,1,0,1,0,1,0,1,nessuna
+46,-,9,sonetto,ABBA ABBA CDE CDE,-,11,E maledico il dì che prima vidi,0,0,0,1,0,1,0,1,0,1,nessuna
+46,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"gli occhi spietati, che Amor guidaro",1,0,0,1,0,0,0,1,0,1,nessuna
+46,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"pe' miei nel cor, che lasso e vinto giace.",0,1,0,1,0,1,0,1,0,1,nessuna
+46,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"O crudel morte, perché non m'uccidi?",0,0,1,1,0,0,1,0,0,1,nessuna
+46,-,13,sonetto,ABBA ABBA CDE CDE,-,11,Tu sola puoi il mio dolor amaro,0,1,0,1,0,1,0,1,0,1,nessuna
+46,-,14,sonetto,ABBA ABBA CDE CDE,-,11,finire e pormi forse in lieta pace.,0,1,0,1,0,1,0,1,0,1,nessuna
+47,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Se io potessi creder ch'in cinqu'anni,",0,0,0,1,0,1,0,0,1,1,nessuna
+47,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"ch'egli è che vostro fui, tanto caluto",0,1,0,1,0,1,1,0,0,1,nessuna
+47,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"di me vi fosse, che aver saputo",0,1,0,1,0,0,0,1,0,1,nessuna
+47,-,4,sonetto,ABBA ABBA CDE CDE,-,11,il nome mio voleste de' mia danni,0,1,0,1,0,1,0,0,0,1,nessuna
+47,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"per ristorato avermi, de' mia affanni",0,0,0,1,0,1,0,0,0,1,nessuna
+47,-,6,sonetto,ABBA ABBA CDE CDE,-,11,potrei forse sperare ancora aiuto;,0,1,1,0,0,1,0,1,0,1,nessuna
+47,-,7,sonetto,ABBA ABBA CDE CDE,-,11,né mi parrebbe il tempo aver perduto,1,0,0,1,0,1,0,1,0,1,nessuna
+47,-,8,sonetto,ABBA ABBA CDE CDE,-,11,a condolermi de' mia stessi inganni.,0,0,0,1,0,0,0,1,0,1,nessuna
+47,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma poi che gli è così, come sperare",0,1,0,1,0,1,1,0,0,1,nessuna
+47,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"posso merzé? come fin all'ardore,",1,0,0,1,1,0,1,0,0,1,nessuna
+47,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"che, quanto meno spero, è più cocente?",0,1,0,1,0,1,0,0,0,1,nessuna
+47,-,12,sonetto,ABBA ABBA CDE CDE,-,11,So si dovria cotal amor lasciare;,1,0,0,1,0,1,0,1,0,1,nessuna
+47,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"ma, non potendo, moro di dolore,",0,0,0,1,0,1,0,0,0,1,nessuna
+47,-,14,sonetto,ABBA ABBA CDE CDE,-,11,cagion essendo voi del fin dolente.,0,1,0,1,0,1,0,1,0,1,nessuna
+48,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Dice con meco l'anima tal volta:,1,0,0,1,0,1,0,0,0,1,nessuna
+48,-,2,sonetto,ABBA ABBA CDE CDE,-,11,- Come potevi tu già mai sperare,1,0,0,1,0,1,0,1,0,1,nessuna
+48,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"che dove Bacco può quel che vuol fare,",0,1,0,1,0,1,1,0,1,1,nessuna
+48,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"e Cerere v'abbonda in copia molta,",0,1,0,0,0,1,0,1,0,1,nessuna
+48,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"e dove fu Partenopè sepolta,",0,1,0,1,0,0,0,1,0,1,nessuna
+48,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"ov'ancor le sirene uson cantare,",0,0,1,0,0,1,1,0,0,1,nessuna
+48,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"amor, fede, onestà potesse stare",0,1,1,0,0,1,0,1,0,1,nessuna
+48,-,8,sonetto,ABBA ABBA CDE CDE,-,11,o fosse alcuna sanità raccolta?,0,1,0,1,0,0,0,1,0,1,nessuna
+48,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E s' tu 'l vedevi, come t'occuparo",0,1,0,1,0,1,0,0,0,1,nessuna
+48,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"i fals'occhi di questa, che non t'ama,",0,1,1,0,0,1,0,0,0,1,nessuna
+48,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e la qual tu con tanta fede segui?,0,0,1,1,0,1,0,1,0,1,nessuna
+48,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Destati omai, e fuggi il lito avaro,",1,0,0,1,0,1,0,1,0,1,nessuna
+48,-,13,sonetto,ABBA ABBA CDE CDE,-,11,fuggi colei che la tua morte brama.,1,0,0,1,0,0,0,1,0,1,nessuna
+48,-,14,sonetto,ABBA ABBA CDE CDE,-,11,Che fai? che pensi? ché non ti dilegui? -.,0,1,0,1,0,1,0,0,0,1,nessuna
+49,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Son certi augei sì vaghi della luce,",0,1,0,1,0,1,0,0,0,1,nessuna
+49,-,2,sonetto,ABBA ABBA CDE CDE,-,11,ch'avendogli la notte già riposti,0,1,0,0,0,1,0,1,0,1,nessuna
+49,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"nel lor albergo e dentro a sé nascosti,",0,0,0,1,0,1,0,1,0,1,nessuna
+49,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"desti da picciol suono, ove traluce",1,0,0,1,0,1,1,0,0,1,nessuna
+49,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"quantunque picciol lume, gli conduce",0,1,0,1,0,1,0,0,0,1,nessuna
+49,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"il desio d'esso; al qual seguir disposti,",0,0,1,1,0,1,0,1,0,1,nessuna
+49,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"dove diletto cercan, ne' sopposti",1,0,0,1,0,1,0,0,0,1,nessuna
+49,-,8,sonetto,ABBA ABBA CDE CDE,-,11,lacci sottentron drieto al falso duce.,1,0,0,1,0,1,0,1,0,1,nessuna
+49,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Lasso, così sovente m'addiviene,",1,0,0,1,0,1,0,0,0,1,nessuna
+49,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ché, dove io sento dal voler chiamarmi",0,1,0,1,0,0,0,1,0,1,nessuna
+49,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"drieto a' begli occhi e falsi di costei,",1,0,0,1,0,1,0,0,0,1,nessuna
+49,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"presto vi corro, e da nuove catene",1,0,0,1,0,0,1,0,0,1,nessuna
+49,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"legar mi veggio onde di scaprestarmi,",0,1,0,1,1,0,0,0,0,1,nessuna
+49,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"stolto, speravo per rimirar lei.",1,0,0,1,0,0,0,0,1,1,nessuna
+50,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"L'obscure fami e i pelagi tirreni,",0,1,0,1,0,0,1,0,0,1,nessuna
+50,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"e pigri stagni e li fiumi correnti,",0,1,0,1,0,0,1,0,0,1,nessuna
+50,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"mille coltella e gl'incendi cocenti,",1,0,0,1,0,0,1,0,0,1,nessuna
+50,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"le travi e i lacci e' 'nfiniti veneni,",0,1,0,1,0,0,1,0,0,1,nessuna
+50,-,5,sonetto,ABBA ABBA CDE CDE,-,11,l'orribil rupi e' massi e' boschi pieni,0,1,0,1,0,1,0,1,0,1,nessuna
+50,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"di crude fere e di malvagie genti,",0,1,0,1,0,0,0,1,0,1,nessuna
+50,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"vegnon, chiamate da' sospir dolenti,",1,0,0,1,0,0,0,1,0,1,nessuna
+50,-,8,sonetto,ABBA ABBA CDE CDE,-,11,e mille modi da morire obsceni.,0,1,0,1,0,0,0,1,0,1,nessuna
+50,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E par ciascun mi dica: - Vienne, ch'io",0,1,0,1,0,1,0,1,0,1,nessuna
+50,-,10,sonetto,ABBA ABBA CDE CDE,-,11,son per iscaprestarti in un momento,1,0,0,0,0,1,0,0,0,1,nessuna
+50,-,11,sonetto,ABBA ABBA CDE CDE,-,11,da quel dolor nel quale Amor t'invischia -.,0,1,0,1,0,1,0,1,0,1,nessuna
+50,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Ond'io a molti incontro col desio,0,1,0,1,0,1,0,0,0,1,nessuna
+50,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"talor mi fo, com'uom che n'ho talento;",0,1,0,1,0,1,0,1,0,1,nessuna
+50,-,14,sonetto,ABBA ABBA CDE CDE,-,11,ma poi la vita trista non s'arrischia.,0,1,0,1,0,1,0,0,0,1,nessuna
+51,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Le lagrime e i sospiri e il non sperare,0,1,0,0,0,1,0,1,0,1,nessuna
+51,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"a quelle fine m'han sì sbigottito,",0,1,0,1,0,0,1,0,0,1,nessuna
+51,-,3,sonetto,ABBA ABBA CDE CDE,-,11,ch'io me ne vo per via com'uom smarrito:,1,0,0,1,0,1,0,1,0,1,nessuna
+51,-,4,sonetto,ABBA ABBA CDE CDE,-,11,non so che dire e molto men che fare.,0,1,0,1,0,1,0,1,0,1,nessuna
+51,-,5,sonetto,ABBA ABBA CDE CDE,-,11,E quand'avvien che talor ragionare,0,1,0,1,0,0,1,0,0,1,nessuna
+51,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"oda di me (che n'ho tal volta udito),",1,0,0,1,0,1,0,1,0,1,nessuna
+51,-,7,sonetto,ABBA ABBA CDE CDE,-,11,del pallido color e del partito,0,1,0,0,0,1,0,0,0,1,nessuna
+51,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"vigore e del dolor che di fuor pare,",0,1,0,0,0,1,0,0,1,1,nessuna
+51,-,9,sonetto,ABBA ABBA CDE CDE,-,11,una pietà di me stesso mi viene,0,0,0,1,0,0,1,0,0,1,nessuna
+51,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"sì grande, ch'io desio di dir piangendo",0,1,0,0,0,1,0,1,0,1,nessuna
+51,-,11,sonetto,ABBA ABBA CDE CDE,-,11,chi sia cagion di tanto mio martiro.,0,1,0,1,0,1,0,0,0,1,nessuna
+51,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Ma poi, temendo non aggiugner pene",0,1,0,1,0,0,0,1,0,1,nessuna
+51,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"alle mia noie, tanto mi difendo,",0,0,0,1,0,1,0,0,0,1,nessuna
+51,-,14,sonetto,ABBA ABBA CDE CDE,-,11,ch'io passo in compagnia d'alcun sospiro.,0,1,0,0,0,1,0,1,0,1,nessuna
+52,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Se mi bastasse allo scriver l'ingegno,0,0,0,1,0,0,1,0,0,1,nessuna
+52,-,2,sonetto,ABBA ABBA CDE CDE,-,11,la mirabil bellezza e 'l gran valore,0,0,1,0,0,1,0,1,0,1,nessuna
+52,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"di quella donna, a cui diede il mio core",0,1,0,1,0,1,1,0,0,1,nessuna
+52,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"Amor, della mia fede eterno pegno,",0,1,0,0,0,1,0,1,0,1,nessuna
+52,-,5,sonetto,ABBA ABBA CDE CDE,-,11,e ancora l'angoscia ch'io sostegno,0,0,1,0,0,1,0,0,0,1,nessuna
+52,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"o per lo suo o per lo mio errore,",1,0,0,1,0,0,0,1,0,1,nessuna
+52,-,7,sonetto,ABBA ABBA CDE CDE,-,11,veggendo me della sua grazia fore,0,1,0,1,0,0,0,1,0,1,nessuna
+52,-,8,sonetto,ABBA ABBA CDE CDE,-,11,esser sospinto da crudele sdegno:,1,0,0,1,0,0,0,1,0,1,nessuna
+52,-,9,sonetto,ABBA ABBA CDE CDE,-,11,io mostrerrei assai chiaro e aperto,0,0,0,1,0,0,1,0,0,1,nessuna
+52,-,10,sonetto,ABBA ABBA CDE CDE,-,11,che 'l pianger mio e 'l mio esser ismorto,0,1,0,1,0,0,1,0,0,1,nessuna
+52,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"maraviglia non sia, ma ch'io sia vivo.",0,0,1,0,0,1,0,1,0,1,nessuna
+52,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Ma poi non posso, ciaschedun sia certo",0,1,0,1,0,0,0,1,0,1,nessuna
+52,-,13,sonetto,ABBA ABBA CDE CDE,-,11,ch'egli è assai maggiore il duol ch'io porto,0,1,0,1,0,1,0,1,0,1,nessuna
+52,-,14,sonetto,ABBA ABBA CDE CDE,-,11,che 'l mio viso non monstra e ch'io non scrivo,0,0,1,0,0,1,0,1,0,1,nessuna
+54,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"Così ben fusse inteso il mio parlare,",0,0,1,0,0,1,0,1,0,1,nessuna
+54,-,2,sonetto,ABBA ABBA CDC DCD,-,11,come l'intende i caldi sospir mei;,0,0,0,1,0,1,0,0,1,1,nessuna
+54,-,3,sonetto,ABBA ABBA CDC DCD,-,11,"ché, ben ch'io viva in pianti acerbi e rei,",0,1,0,1,0,1,0,1,0,1,nessuna
+54,-,4,sonetto,ABBA ABBA CDC DCD,-,11,un gioco mi parrebbe a lacrimare.,0,1,0,0,0,1,0,0,0,1,nessuna
+54,-,5,sonetto,ABBA ABBA CDC DCD,-,11,Ma s'io potesse alquanto dichiarare,0,0,0,1,0,1,0,0,0,1,nessuna
+54,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"l'animo mio doglioso a chi vorrei,",1,0,0,1,0,1,0,1,0,1,nessuna
+54,-,7,sonetto,ABBA ABBA CDC DCD,-,11,son certo che poche ore viverei,0,1,0,0,1,1,0,0,0,1,nessuna
+54,-,8,sonetto,ABBA ABBA CDC DCD,-,11,fra tante angosce e tante pene amare.,0,1,0,1,0,1,0,1,0,1,nessuna
+54,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Io farei quei begli occhi pietosi,",0,0,1,0,0,1,0,0,0,1,nessuna
+54,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"che, quando lacrimando a lor m'inchino,",0,1,0,0,0,1,0,1,0,1,nessuna
+54,-,11,sonetto,ABBA ABBA CDC DCD,-,11,non mi sarebbon fieri e disdegnosi.,0,0,0,1,0,1,0,0,0,1,nessuna
+54,-,12,sonetto,ABBA ABBA CDC DCD,-,11,Ond'io prego il mio fato e il mio destino,0,0,1,0,0,1,0,0,0,1,nessuna
+54,-,13,sonetto,ABBA ABBA CDC DCD,-,11,che porgan qualche luce a' tenebrosi,0,1,0,0,0,1,0,0,0,1,nessuna
+54,-,14,sonetto,ABBA ABBA CDC DCD,-,11,spirti che hanno a far sì alto camino.,1,0,0,0,0,1,1,0,0,1,nessuna
+55,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Fuggano i sospir miei, fuggasi il pianto,",1,0,0,0,0,1,1,0,0,1,nessuna
+55,-,2,sonetto,ABBA ABBA CDE CDE,-,11,fugga l'angoscia e fuggasi el disio,1,0,0,1,0,1,0,0,0,1,nessuna
+55,-,3,sonetto,ABBA ABBA CDE CDE,-,11,che auto ho di morir; vada in oblio,0,1,1,0,0,1,1,0,0,1,nessuna
+55,-,4,sonetto,ABBA ABBA CDE CDE,-,11,ciò che contra ad Amor già pensai tanto;,1,0,1,0,0,1,1,0,1,1,nessuna
+55,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"torni la festa, torni el riso e 'l canto,",1,0,0,1,0,1,0,1,0,1,nessuna
+55,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"torni gli onor devuti al signor mio,",1,0,0,1,0,1,0,0,1,1,nessuna
+55,-,7,sonetto,ABBA ABBA CDE CDE,-,11,li meriti del qual han fatto ch'io,0,1,0,0,0,1,0,1,0,1,nessuna
+55,-,8,sonetto,ABBA ABBA CDE CDE,-,11,aggia la grazia bramata cotanto.,1,0,0,1,0,0,1,0,0,1,nessuna
+55,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Lo sdegno, el qual a torto me negava",0,1,0,1,0,1,0,0,0,1,nessuna
+55,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"el vago sguardo degli occhi lucenti,",0,1,0,1,0,0,1,0,0,1,nessuna
+55,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"coi qual Amor mi prese, è tolto via;",0,1,0,1,0,1,0,1,0,1,nessuna
+55,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"e quel saluto, ch'io più desiava,",0,0,0,1,0,0,1,0,0,1,nessuna
+55,-,13,sonetto,ABBA ABBA CDE CDE,-,11,con umil voce e con atti piacenti,0,1,0,1,0,0,1,0,0,1,nessuna
+55,-,14,sonetto,ABBA ABBA CDE CDE,-,11,pur testé mi rendé la donna mia.,1,0,1,0,0,1,0,1,0,1,nessuna
+56,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Se quel serpente che guarda il tesoro,",0,0,0,1,0,0,1,0,0,1,nessuna
+56,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"del qual m'ha fatto Amor tanto bramoso,",0,1,0,1,0,1,1,0,0,1,nessuna
+56,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"ponesse pur un poco el capo gioso,",0,1,0,1,0,1,0,1,0,1,nessuna
+56,-,4,sonetto,ABBA ABBA CDE CDE,-,11,io crederrei con un sottil lavoro,0,0,0,1,0,0,0,1,0,1,nessuna
+56,-,5,sonetto,ABBA ABBA CDE CDE,-,11,trovar al pianto mio alcun ristoro:,0,1,0,1,0,1,0,0,0,1,nessuna
+56,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"né in ciò sarebbe il mio cor temoroso,",0,1,0,1,0,0,1,0,0,1,nessuna
+56,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"come che già, in punto assai dubbioso,",1,0,0,1,0,1,0,1,0,1,nessuna
+56,-,8,sonetto,ABBA ABBA CDE CDE,-,11,già mi negasse il promess'adiutoro.,1,0,0,1,0,0,1,0,0,1,nessuna
+56,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Ma pria Mercurio chiuderà que' d'Argo,0,1,0,1,0,0,0,1,0,1,nessuna
+56,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"cantando di Siringa, che 'n que' due",0,1,0,0,0,1,0,0,0,1,nessuna
+56,-,11,sonetto,ABBA ABBA CDE CDE,-,11,io possa metter sonno col mio verso;,0,1,0,1,0,1,0,0,0,1,nessuna
+56,-,12,sonetto,ABBA ABBA CDE CDE,-,11,e prima nelle lagrime ch'io spargo,0,1,0,0,0,1,0,0,0,1,nessuna
+56,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"morendo adempierò le voglie tue,",0,1,0,0,0,1,0,1,0,1,nessuna
+56,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"crudel Amor, ver me fiero e perverso!",0,1,0,1,0,1,1,0,0,1,nessuna
+57,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Qualor mi mena Amor dov'io vi veggia,",0,1,0,1,0,1,0,0,0,1,nessuna
+57,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"ch'assai di rado avvien, sì cara siete,",0,1,0,1,0,1,0,1,0,1,nessuna
+57,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"l'anima, piena d'amorosa sete,",1,0,0,1,0,0,0,1,0,1,nessuna
+57,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"come la luce vede, che lampeggia",0,0,0,1,0,1,0,0,0,1,nessuna
+57,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"da' bei vostri occhi, nel pensier vaneggia,",0,1,0,1,0,0,0,1,0,1,nessuna
+57,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"quello sperando ch'ancor non volete,",1,0,0,1,0,0,1,0,0,1,nessuna
+57,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"- ciò è saziarsi, come voi vedete,",0,1,0,1,0,1,0,1,0,1,nessuna
+57,-,8,sonetto,ABBA ABBA CDE CDE,-,11,di mirarvi - focosa vi vagheggia.,0,0,1,0,0,1,0,0,0,1,nessuna
+57,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E, com'è stolto il mio vago pensiero,",0,0,0,1,0,0,1,0,0,1,nessuna
+57,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"là ond'io credo refrigerio avere,",1,0,0,1,0,0,0,1,0,1,nessuna
+57,-,11,sonetto,ABBA ABBA CDE CDE,-,11,accese fiamme attingo a mill'a mille;,0,1,0,1,0,1,0,1,0,1,nessuna
+57,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"ma come cuocan non sento, nel vero,",0,1,0,1,0,0,1,0,0,1,nessuna
+57,-,13,sonetto,ABBA ABBA CDE CDE,-,11,mentre egli avvien ch'io vi possa vedere:,1,0,0,1,0,0,1,0,0,1,nessuna
+57,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"ma poi, partito, m'ardon le faville.",0,1,0,1,0,1,0,0,0,1,nessuna
+58,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"Amor, se questa donna non s'infinge,",0,1,0,1,0,1,0,0,0,1,nessuna
+58,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"la mia speranza al suo termine viene,",0,0,0,1,0,0,1,0,0,1,nessuna
+58,-,3,sonetto,ABBA ABBA CDC DCD,-,11,perciò che ogni volta ch'egli avviene,0,1,0,0,0,1,0,0,0,1,nessuna
+58,-,4,sonetto,ABBA ABBA CDC DCD,-,11,che tu o forza di destin mi spinge,0,1,0,1,0,0,0,1,0,1,nessuna
+58,-,5,sonetto,ABBA ABBA CDC DCD,-,11,"dov'ella sia, così 'l viso dipinge",0,1,0,1,0,1,1,0,0,1,nessuna
+58,-,6,sonetto,ABBA ABBA CDC DCD,-,11,di pallidezza subita e non tiene,0,0,0,1,0,1,0,0,0,1,nessuna
+58,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"le luci ferme, ma di desio piene",0,1,0,1,0,0,0,0,1,1,nessuna
+58,-,8,sonetto,ABBA ABBA CDC DCD,-,11,ora ver me l'allarga e or le stringe;,1,0,0,1,0,1,0,1,0,1,nessuna
+58,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"e sì vinta si monstra dai sospiri,",0,0,1,0,0,1,0,0,0,1,nessuna
+58,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"che 'n vista par che sol prieghi per pace,",0,1,0,1,0,1,1,0,0,1,nessuna
+58,-,11,sonetto,ABBA ABBA CDC DCD,-,11,contenta ch'io in tale atto la miri.,0,1,0,1,0,0,1,0,0,1,nessuna
+58,-,12,sonetto,ABBA ABBA CDC DCD,-,11,"Io che farò, che nella tua fornace",1,0,0,1,0,0,0,1,0,1,nessuna
+58,-,13,sonetto,ABBA ABBA CDC DCD,-,11,"ardo, premuto da mille desiri?",1,0,0,1,0,0,1,0,0,1,nessuna
+58,-,14,sonetto,ABBA ABBA CDC DCD,-,11,"Non arderò, poi veggio che le piace?",0,0,0,1,0,1,0,0,0,1,nessuna
+59,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Non deve alcuno, per pena soffrire,",0,1,0,1,0,0,1,0,0,1,nessuna
+59,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"quanto che 'l tempo paia longo o sia,",1,0,0,1,0,1,0,1,0,1,nessuna
+59,-,3,sonetto,ABBA ABBA CDE CDE,-,11,gittar del tutto la speranza via,0,1,0,1,0,0,0,1,0,1,nessuna
+59,-,4,sonetto,ABBA ABBA CDE CDE,-,11,o stoltamente cercar di morire:,0,0,0,1,0,0,1,0,0,1,nessuna
+59,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"ché un'ora sola può sopravenire,",0,1,0,1,0,1,0,0,0,1,nessuna
+59,-,6,sonetto,ABBA ABBA CDE CDE,-,11,la qual discaccia onne fortuna ria,0,1,0,1,1,0,0,1,0,1,nessuna
+59,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"e sì consola altrui, che l'omo oblia",0,1,0,1,0,1,0,1,0,1,nessuna
+59,-,8,sonetto,ABBA ABBA CDE CDE,-,11,danno e dolor e fatica e martire.,1,0,0,1,0,0,1,0,0,1,nessuna
+59,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E io el so, el qual già longamente",0,1,0,1,0,1,1,0,0,1,nessuna
+59,-,10,sonetto,ABBA ABBA CDE CDE,-,11,chiesi mercé con doloroso pianto,1,0,0,1,0,0,0,1,0,1,nessuna
+59,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"agli occhi bei, che già fur dispiatati;",0,1,0,1,0,1,1,0,0,1,nessuna
+59,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"e, non sperando ciò, subitamente",0,0,0,1,0,1,0,0,0,1,nessuna
+59,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"Amor i mie' suspir rivolse in canto,",0,1,0,0,0,1,0,1,0,1,nessuna
+59,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e sento la letizia di beati.,0,1,0,0,0,1,0,0,0,1,nessuna
+60,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Chi che s'aspetti con piacer i fiori,1,0,0,1,0,0,0,1,0,1,nessuna
+60,-,2,sonetto,ABBA ABBA CDE CDE,-,11,e di verde le piante rivestire,0,0,1,0,0,1,0,0,0,1,nessuna
+60,-,3,sonetto,ABBA ABBA CDE CDE,-,11,e per le selve gli uccelletti udire,0,0,0,1,0,0,0,1,0,1,nessuna
+60,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"cantando forse i lor più caldi amori,",0,1,0,1,0,1,0,1,0,1,nessuna
+60,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"io non son quel; ma, com'io sento fuori",0,0,1,1,0,1,0,1,0,1,nessuna
+60,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"zefiro e veggio il bel tempo venire,",1,0,0,1,0,0,1,0,0,1,nessuna
+60,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"così m'attristo, e parmi allor sentire",0,1,0,1,0,1,0,1,0,1,nessuna
+60,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"nel petto un duol, il qual par che m'accuori",0,1,0,1,0,1,1,0,0,1,nessuna
+60,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E è di questo Baia la cagione,",0,1,0,1,0,1,0,0,0,1,nessuna
+60,-,10,sonetto,ABBA ABBA CDE CDE,-,11,la qual invita sì col suo diletto,0,1,0,1,0,1,0,0,0,1,nessuna
+60,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"colei che là s'emporta la mia pace,",0,1,0,1,0,1,0,0,0,1,nessuna
+60,-,12,sonetto,ABBA ABBA CDE CDE,-,11,che non mel fa alcun'altra stagione;,0,0,0,1,0,0,1,0,0,1,nessuna
+60,-,13,sonetto,ABBA ABBA CDE CDE,-,11,e che io vadia là mi è interdetto,0,0,0,1,0,1,0,1,0,1,nessuna
+60,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"da lei, che può di me quel che le piace.",0,1,0,1,0,1,1,0,0,1,nessuna
+61,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Intra 'l Barbaro monte e 'l mar Tirreno,1,0,1,0,0,1,0,1,0,1,nessuna
+61,-,2,sonetto,ABBA ABBA CDE CDE,-,11,sied'il lago d'Averno intorniato,1,0,1,0,0,1,0,0,0,1,nessuna
+61,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"da calde fonti, e dal sinistro lato",0,1,0,1,0,0,0,1,0,1,nessuna
+61,-,4,sonetto,ABBA ABBA CDE CDE,-,11,gli sta Pozzuolo e a destro Miseno;,0,1,0,1,0,0,1,0,0,1,nessuna
+61,-,5,sonetto,ABBA ABBA CDE CDE,-,11,il qual sent'ora ogni suo grembo pieno,0,1,0,1,1,0,0,1,0,1,nessuna
+61,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"di belle donne, avendo racquistato",0,1,0,1,0,1,0,0,0,1,nessuna
+61,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"le frondi, la verdura e 'l tempo ornato",0,1,0,0,0,1,0,1,0,1,nessuna
+61,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"di feste, di diletto e di sereno.",0,1,0,0,0,1,0,0,0,1,nessuna
+61,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Questi con la bellezza sua mi spoglia,1,0,0,0,0,1,0,1,0,1,nessuna
+61,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ogn'anno, nella più lieta stagione,",0,1,0,0,0,0,1,0,0,1,nessuna
+61,-,11,sonetto,ABBA ABBA CDE CDE,-,11,di quella donna ch'è sol mio desire.,0,1,0,1,0,0,1,0,0,1,nessuna
+61,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"A sé la chiama, e io, contra mia voglia,",0,1,0,1,0,1,1,0,0,1,nessuna
+61,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"rimango senza il cuore, in gran quistione",0,1,0,1,0,1,0,1,0,1,nessuna
+61,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"qual men dorriemi, il viver o 'l morire.",0,1,0,1,0,1,0,0,0,1,nessuna
+62,-,1,sonetto,ABBA ABBA CDD DCC,-,11,Toccami 'l viso zefiro tal volta,1,0,0,1,0,1,0,0,0,1,nessuna
+62,-,2,sonetto,ABBA ABBA CDD DCC,-,11,"più che l'usato alquanto impetuoso,",1,0,0,1,0,1,0,0,0,1,violaz. di schema metrico
+62,-,3,sonetto,ABBA ABBA CDD DCC,-,11,quasi se stesso allora avesse schiuso,1,0,0,1,0,1,0,1,0,1,nessuna
+62,-,4,sonetto,ABBA ABBA CDD DCC,-,11,"dal cuoi' d'Ulisse, e la catena sciolta.",0,1,0,1,0,0,0,1,0,1,nessuna
+62,-,5,sonetto,ABBA ABBA CDD DCC,-,11,"E poi ch'è l'alma tutta in sé raccolta,",0,1,0,1,0,1,0,1,0,1,nessuna
+62,-,6,sonetto,ABBA ABBA CDD DCC,-,11,par ch'e' mi dica: - Leva il volto suso;,1,0,0,1,0,1,0,1,0,1,nessuna
+62,-,7,sonetto,ABBA ABBA CDD DCC,-,11,"mira la gioia ch'io, da Baia effuso,",1,0,0,1,0,1,0,1,0,1,nessuna
+62,-,8,sonetto,ABBA ABBA CDD DCC,-,11,ti porto in questa nuvola rinvolta -.,0,1,0,1,0,1,0,0,0,1,nessuna
+62,-,9,sonetto,ABBA ABBA CDD DCC,-,11,"Io lievo gli occhi, e parmi tanto bella",0,1,0,1,0,1,0,1,0,1,nessuna
+62,-,10,sonetto,ABBA ABBA CDD DCC,-,11,"veder madonna entr'a quell'aura starse,",0,1,0,1,0,0,0,1,0,1,nessuna
+62,-,11,sonetto,ABBA ABBA CDD DCC,-,11,che 'l cor vien men sol nel maravigliarse.,0,1,0,1,1,0,0,0,0,1,nessuna
+62,-,12,sonetto,ABBA ABBA CDD DCC,-,11,"E, com'io veggio lei più presso farse,",0,1,0,1,0,1,0,1,0,1,nessuna
+62,-,13,sonetto,ABBA ABBA CDD DCC,-,11,lievomi per pigliarla e per tenella:,1,0,0,0,0,1,0,0,0,1,nessuna
+62,-,14,sonetto,ABBA ABBA CDD DCC,-,11,"e 'l vento fugge, e essa spare in quella.",0,1,0,1,0,1,0,1,0,1,nessuna
+63,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"E Cinzio e Caucaso, Ida e Sigeo,",0,1,0,0,0,1,1,0,0,1,nessuna
+63,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"Libano, Sena, Carmelo e Ermone,",1,0,0,1,0,0,1,0,0,1,nessuna
+63,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"Athos, Olimpo, Pindar, Citerone,",1,0,0,1,0,0,1,0,0,1,nessuna
+63,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"Aracinto, Menalo, Ismo e Rifeo,",0,0,1,0,0,1,1,0,0,1,nessuna
+63,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Etna, Pachin, Peloro e Lilibeo,",1,0,0,1,0,1,0,0,0,1,nessuna
+63,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"Vesevo, Gaur, Massich'e Caulone,",1,0,0,1,0,1,0,0,0,1,nessuna
+63,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"Apennin, l'Alpi, Balbo e Borione,",0,0,1,1,0,1,0,0,0,1,nessuna
+63,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"Atlante, Abila, Calpe e Pireneo,",0,1,1,0,0,1,0,0,0,1,nessuna
+63,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"o qualunqu'altro monte, ombre giammai",0,0,0,1,0,1,1,0,0,1,nessuna
+63,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ebber cotanto grate a' lor pastori,",1,0,0,1,0,1,0,1,0,1,nessuna
+63,-,11,sonetto,ABBA ABBA CDE CDE,-,11,quant'a me furon quelle di Miseno:,1,0,1,1,0,1,0,0,0,1,nessuna
+63,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"nelle quai sì benigno Amor trovai,",0,0,1,0,0,1,0,1,0,1,nessuna
+63,-,13,sonetto,ABBA ABBA CDE CDE,-,11,che refrigerio diede a' mia ardori,0,0,0,1,0,1,0,1,0,1,nessuna
+63,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e ad ogni mia noia pose freno.,0,0,1,0,0,1,0,1,0,1,nessuna
+64,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Colui per cui, Misen, primieramente",0,1,0,1,0,1,0,0,0,1,nessuna
+64,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"foste nomato, cui cenere ancora",1,0,0,1,0,1,1,0,0,1,nessuna
+64,-,3,sonetto,ABBA ABBA CDE CDE,-,11,sparte nella tua terra fan dimora,1,0,0,0,0,1,0,1,0,1,nessuna
+64,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"e faran, credo, perpetualmente,",0,0,1,1,0,0,1,0,0,1,nessuna
+64,-,5,sonetto,ABBA ABBA CDE CDE,-,11,facea trombando inanimar la gente,0,1,0,1,0,0,0,1,0,1,nessuna
+64,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"e ad arme e a guerra, d'ora in ora,",0,0,1,0,0,1,0,0,0,1,nessuna
+64,-,7,sonetto,ABBA ABBA CDE CDE,-,11,e de' legni d'Enea di poppa in prora,0,0,1,0,0,1,0,1,0,1,nessuna
+64,-,8,sonetto,ABBA ABBA CDE CDE,-,11,batter il mar co' remi virilmente.,1,0,0,1,0,1,0,0,0,1,nessuna
+64,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Ma tu di pace e d'amor e di gioia,0,1,0,1,0,0,1,0,0,1,nessuna
+64,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"sei fatto grembo e dilettoso seno,",0,1,0,1,0,0,0,1,0,1,nessuna
+64,-,11,sonetto,ABBA ABBA CDE CDE,-,11,degno d'eterno nome e di memoria.,1,0,0,1,0,1,0,0,0,1,nessuna
+64,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Ben lo so io, ch'in te ogni mia noia",1,0,1,1,0,1,1,0,0,1,nessuna
+64,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"lasciai, e femmi d'allegrezza pieno",0,1,0,1,0,0,0,1,0,1,nessuna
+64,-,14,sonetto,ABBA ABBA CDE CDE,-,11,colui ch'è sire e re d'ogni mia gloria.,0,1,0,1,0,1,1,0,0,1,nessuna
+65,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Se io temo di Baia e il cielo e il mare,",0,0,1,0,0,1,0,1,0,1,nessuna
+65,-,2,sonetto,ABBA ABBA CDE CDE,-,11,la terra e l'onde e i laghi e le fontane,0,1,0,1,0,1,0,0,0,1,nessuna
+65,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"e le parti domestiche e le strane,",0,0,1,0,0,1,0,0,0,1,nessuna
+65,-,4,sonetto,ABBA ABBA CDE CDE,-,11,alcun non se ne dee maravigliare.,0,1,0,0,0,1,0,0,0,1,nessuna
+65,-,5,sonetto,ABBA ABBA CDE CDE,-,11,Quivi s'attende solo a festeggiare,1,0,0,1,0,1,0,0,0,1,nessuna
+65,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"con suoni e canti, e con parole vane",0,1,0,1,0,0,0,1,0,1,nessuna
+65,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"ad inveschiar le menti non ben sane,",0,0,0,1,0,1,0,0,1,1,nessuna
+65,-,8,sonetto,ABBA ABBA CDE CDE,-,11,o d'amor le vittorie a ragionare.,0,0,1,0,0,1,0,0,0,1,nessuna
+65,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ed havvi Vener sì piena licenza,",0,1,0,1,0,0,1,0,0,1,nessuna
+65,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"che spess'avvien che tal Lucrezia vienvi,",0,1,0,1,0,1,0,1,0,1,nessuna
+65,-,11,sonetto,ABBA ABBA CDE CDE,-,11,che torna Cleopatra allo suo ostello.,0,1,0,0,0,1,0,0,0,1,nessuna
+65,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"E io lo so, e di quinci ho temenza,",0,1,0,1,0,0,1,0,0,1,nessuna
+65,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"non con la donna mia sì fatti sienvi,",1,0,0,1,0,1,0,1,0,1,nessuna
+65,-,14,sonetto,ABBA ABBA CDE CDE,-,11,che 'l petto l'aprino e intrinsi in quello.,0,1,0,1,0,0,0,1,0,1,nessuna
+66,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Ben che si fosse, per la tuo partita,",1,0,0,1,0,0,0,1,0,1,nessuna
+66,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"l'alta speranza, la qual io prendea",1,0,0,1,0,0,1,0,0,1,nessuna
+66,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"de' tuo' vaghi occhi, qualor gli vedea,",0,1,0,1,0,0,1,0,0,1,nessuna
+66,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"giovine bella, quasi che fuggita,",1,0,0,1,0,1,0,0,0,1,nessuna
+66,-,5,sonetto,ABBA ABBA CDE CDE,-,11,pur sostenea la deboletta vita,1,0,0,1,0,0,0,1,0,1,nessuna
+66,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"un soave pensier, che mi dicea,",0,0,1,0,0,1,0,0,0,1,nessuna
+66,-,7,sonetto,ABBA ABBA CDE CDE,-,11,quando di ciò co' meco mi dolea:,1,0,0,1,0,1,0,0,0,1,nessuna
+66,-,8,sonetto,ABBA ABBA CDE CDE,-,11,- Tosto sarà omai la suo reddita! -,1,0,0,1,0,1,0,1,0,1,nessuna
+66,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma ciò mai non avene, e me partire",0,1,1,0,0,1,0,1,0,1,nessuna
+66,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"or convien contra grado, né speranza",1,0,1,0,0,1,0,0,0,1,nessuna
+66,-,11,sonetto,ABBA ABBA CDE CDE,-,11,di mai vederti mi rimane alcuna.,0,1,0,1,0,0,0,1,0,1,nessuna
+66,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Onde morrommi, caro mio disire,",1,0,0,1,0,1,0,1,0,1,nessuna
+66,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"e piangerò, il tempo che mi avanza,",0,0,0,1,0,1,0,0,0,1,nessuna
+66,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"lontano a te, la mie' crudel fortuna.",0,1,0,1,0,0,0,1,0,1,nessuna
+67,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Poscia che gli occhi mia la vaga vista,1,0,0,1,0,1,0,1,0,1,nessuna
+67,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"hanno perduta, il cui lieto splendore",0,0,0,1,0,1,1,0,0,1,nessuna
+67,-,3,sonetto,ABBA ABBA CDE CDE,-,11,ciaschedun mio desir caldo d'amore,0,0,1,0,0,1,1,0,0,1,nessuna
+67,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"facea contento in questa valle trista,",0,1,0,1,0,1,0,1,0,1,nessuna
+67,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"dove più noia chi più vive acquista,",1,0,0,1,0,0,0,1,0,1,nessuna
+67,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"non curo omai se del dolente core,",0,1,0,1,0,0,0,1,0,1,nessuna
+67,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"alma, ten vai, perciò che 'l mio dolore",1,0,0,1,0,1,0,0,0,1,nessuna
+67,-,8,sonetto,ABBA ABBA CDE CDE,-,11,non regolerà mai discreto artista.,0,0,0,0,1,1,0,1,0,1,nessuna
+67,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Anzi ten va, ch'io, che solea cantare,",1,0,0,1,1,0,0,1,0,1,nessuna
+67,-,10,sonetto,ABBA ABBA CDE CDE,-,11,non vo' pascer l'invidia di coloro,0,1,1,0,0,1,0,0,0,1,nessuna
+67,-,11,sonetto,ABBA ABBA CDE CDE,-,11,a' quai doler solea la mia letizia.,0,1,0,1,0,1,0,0,0,1,nessuna
+67,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Vatten adunque omai, non aspettare",1,0,0,1,0,1,0,0,0,1,nessuna
+67,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"d'esser cacciata, e altrove ristoro",1,0,0,1,0,0,1,0,0,1,nessuna
+67,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"prendi, se puoi, di questa mia trestizia.",1,0,0,1,0,1,0,1,0,1,nessuna
+68,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Deh, quanto è greve la mie sventura",0,1,0,1,0,0,1,0,0,1,nessuna
+68,-,2,sonetto,ABBA ABBA CDE CDE,-,11,e mobile più ch'altro il viver mio!,0,1,0,0,0,1,0,1,0,1,nessuna
+68,-,3,sonetto,ABBA ABBA CDE CDE,-,11,Io piango spesso con tanto disio,0,1,0,1,0,0,1,0,0,1,nessuna
+68,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"quant'alcun rida: e mentre il pianto dura,",0,0,1,1,0,1,0,1,0,1,nessuna
+68,-,5,sonetto,ABBA ABBA CDE CDE,-,11,vien nella mente mia quella figura,1,0,0,1,0,1,0,0,0,1,nessuna
+68,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"che più ch'altro mi piace, sallo Iddio.",0,1,1,0,0,1,0,1,0,1,nessuna
+68,-,7,sonetto,ABBA ABBA CDE CDE,-,11,Quivi col lieto aspetto vago e pio,1,0,0,1,0,1,0,1,0,1,nessuna
+68,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"conforta 'l core e l'alma rassicura,",0,1,0,1,0,1,0,0,0,1,nessuna
+68,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"dicendo cose, ch'ogni spiritello",0,1,0,1,0,1,0,0,0,1,nessuna
+68,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"smarrito surge lieto e pien d'amore,",0,1,0,1,0,1,0,1,0,1,nessuna
+68,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e me fan più ch'alcun altro contento.,0,1,1,0,0,1,1,0,0,1,nessuna
+68,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Di quinci nasce chi dal viso bello,0,1,0,1,0,1,0,1,0,1,nessuna
+68,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"mi mostra esser lontano, onde 'l dolore",0,1,1,0,0,1,1,0,0,1,nessuna
+68,-,14,sonetto,ABBA ABBA CDE CDE,-,11,torna più fier che prima per un cento.,1,0,0,1,0,1,0,0,0,1,nessuna
+69,-,1,terzina,-,-,11,"Contento quasi ne' pensier d'amore,",0,1,0,1,0,0,0,1,0,1,nessuna
+69,-,2,terzina,-,-,11,"soletto un giorno in essi dimorava,",0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,3,terzina,-,-,11,imaginando il suo alto valore;,0,0,0,1,0,0,1,0,0,1,nessuna
+69,-,4,terzina,-,-,11,"e, mentre dolcemente più pensava,",0,1,0,0,0,1,0,1,0,1,nessuna
+69,-,5,terzina,-,-,11,"Amor m'apparve con gioioso aspetto,",0,1,0,1,0,0,0,1,0,1,nessuna
+69,-,6,terzina,-,-,11,ver me dicendo: - Qual pensier ti grava?,0,1,0,1,0,1,0,1,0,1,nessuna
+69,-,7,terzina,-,-,11,"Non istar qui, ch'amoroso diletto",0,0,1,1,0,0,1,0,0,1,nessuna
+69,-,8,terzina,-,-,11,"ti mosterrò, se tu mi seguirai,",0,0,0,1,0,1,0,0,0,1,nessuna
+69,-,9,terzina,-,-,11,di belle donne in fresco giardinetto -.,0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,10,terzina,-,-,11,"Allora in piedi ritto mi levai,",0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,11,terzina,-,-,11,"seguendo lui, che diritto sen gio",0,1,0,1,0,0,1,0,0,1,nessuna
+69,-,12,terzina,-,-,11,in un giardin dilettevole assai.,0,0,0,1,0,0,1,0,0,1,nessuna
+69,-,13,terzina,-,-,11,"Lasciommi quivi, e disse: - Mentre ch'io",0,1,0,1,0,1,0,1,0,1,nessuna
+69,-,14,terzina,-,-,11,"a tornar penerò, fa che m'aspetti -;",0,0,1,0,0,1,1,0,0,1,nessuna
+69,-,15,terzina,-,-,11,e volando da me si dipartio.,0,0,1,0,0,1,0,0,0,1,nessuna
+69,-,16,terzina,-,-,11,"Ma e' non stette guari, ch'io vedetti",0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,17,terzina,-,-,11,lui ritornar con dodici donzelle,1,0,0,1,0,1,0,0,0,1,nessuna
+69,-,18,terzina,-,-,11,"gaie, leggiadre e con gentili aspetti.",1,0,0,1,0,0,0,1,0,1,nessuna
+69,-,19,terzina,-,-,11,"Tutte eran fresche, dilicate e belle,",1,1,0,1,0,0,0,1,0,1,nessuna
+69,-,20,terzina,-,-,11,"d'erbe e di frondi verdi coronate,",1,0,0,1,0,1,0,0,0,1,nessuna
+69,-,21,terzina,-,-,11,negli occhi lor lucenti più che stelle.,0,1,0,1,0,1,0,1,0,1,nessuna
+69,-,22,terzina,-,-,11,Tutte danzando venieno ordinate,1,0,0,1,0,0,1,0,0,1,nessuna
+69,-,23,terzina,-,-,11,"su un bello prato d'erbette e di fiori,",0,1,0,1,0,0,1,0,0,1,nessuna
+69,-,24,terzina,-,-,11,nel qual danzando Amor l'avea menate.,0,1,0,1,0,1,0,1,0,1,nessuna
+69,-,25,terzina,-,-,11,"Fessi ver me Amor: - Tu, che di fori",1,0,0,1,0,1,1,0,0,1,nessuna
+69,-,26,terzina,-,-,11,"della danza dimori, riguardando",0,0,1,0,0,1,0,0,0,1,nessuna
+69,-,27,terzina,-,-,11,"ne' belli occhi a costoro i miei ardori,",0,0,1,0,0,1,0,1,0,1,nessuna
+69,-,28,terzina,-,-,11,"odile nominare, sì che quando",1,0,0,0,0,1,0,0,0,1,nessuna
+69,-,29,terzina,-,-,11,"forse sarai di fuor da questo loco,",1,0,0,1,0,1,0,1,0,1,nessuna
+69,-,30,terzina,-,-,11,d'onorarle disii per mio comando.,0,0,1,0,0,1,0,0,0,1,nessuna
+69,-,31,terzina,-,-,11,"Tra l'altre, che più guarda il nostro foco",0,1,0,0,1,1,0,1,0,1,nessuna
+69,-,32,terzina,-,-,11,"con senno e con virtù, costei è quella,",0,1,0,0,0,1,0,1,0,1,nessuna
+69,-,33,terzina,-,-,11,allato a cui con allegrezza gioco.,0,1,0,1,0,0,0,1,0,1,nessuna
+69,-,34,terzina,-,-,11,"Di Giachinotto monna Itta s'appella,",0,0,0,1,0,1,1,0,0,1,nessuna
+69,-,35,terzina,-,-,11,"de' Tornaquinci, e Meliana è colei,",0,0,0,1,0,0,1,0,0,1,nessuna
+69,-,36,terzina,-,-,11,"di Giovanni di Nello, ch'è dop'ella.",0,0,1,0,0,1,0,1,0,1,nessuna
+69,-,37,terzina,-,-,11,"E la Lisa e la Pechia, che con lei",0,0,1,0,0,1,0,0,0,1,nessuna
+69,-,38,terzina,-,-,11,"vengono appresso, amendune figliuole",1,0,0,1,0,0,1,0,0,1,nessuna
+69,-,39,terzina,-,-,11,di Rinier Marignan son saper dei.,0,0,1,0,0,1,1,0,1,1,nessuna
+69,-,40,terzina,-,-,11,"A nostra danza quinta è il tuo sole,",0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,41,terzina,-,-,11,cioè quella Fiammetta che ti diede,0,1,1,0,0,1,0,0,0,1,nessuna
+69,-,42,terzina,-,-,11,"con la saetta al cor, ch'ancor ti dole.",0,0,0,1,0,1,0,1,0,1,nessuna
+69,-,43,terzina,-,-,11,"Ell'è più bella ch'altra, ma nol crede",0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,44,terzina,-,-,11,"chi non riguarda lei con gli occhi tuoi,",1,0,0,1,0,1,0,1,0,1,nessuna
+69,-,45,terzina,-,-,11,però che tanto avanti alcun non vede.,0,1,0,1,0,1,0,1,0,1,nessuna
+69,-,46,terzina,-,-,11,"E la bella lombarda segue poi,",0,0,1,0,0,1,0,1,0,1,nessuna
+69,-,47,terzina,-,-,11,"monna Vanna chiamata, e, se tu guardi,",1,0,1,0,0,1,0,0,0,1,nessuna
+69,-,48,terzina,-,-,11,nulla più bella n'è con essonoi.,1,0,0,1,0,1,0,0,0,1,nessuna
+69,-,49,terzina,-,-,11,Di Filippozzo Filippa de' Bardi,0,0,0,1,0,0,1,0,0,1,nessuna
+69,-,50,terzina,-,-,11,"seguita bella, e poi monna Lottiera",1,0,0,1,0,1,1,0,0,1,nessuna
+69,-,51,terzina,-,-,11,di Neron Nigi con soavi sguardi.,0,0,1,1,0,0,0,1,0,1,nessuna
+69,-,52,terzina,-,-,11,"La Vanna di Filippo, Primavera",0,1,0,0,0,1,0,0,0,1,nessuna
+69,-,53,terzina,-,-,11,"da tal conosci tu degna chiamata,",0,1,0,1,0,1,1,0,0,1,nessuna
+69,-,54,terzina,-,-,11,vedila poi seguir nostra bandiera.,0,0,0,1,0,1,1,0,0,1,nessuna
+69,-,55,terzina,-,-,11,Allato allato a lei vedi onorata,0,1,0,1,0,1,1,0,0,1,nessuna
+69,-,56,terzina,-,-,11,"Sismonda di Francesco Baroncelli,",0,1,0,0,0,1,0,0,0,1,nessuna
+69,-,57,terzina,-,-,11,"e poi, appresso lei, accompagnata",0,1,0,0,0,1,0,0,0,1,nessuna
+69,-,58,terzina,-,-,11,Niccolosa è di Tedice Manoelli,0,0,1,1,0,0,1,0,0,1,nessuna
+69,-,59,terzina,-,-,11,insieme appresso con Bartolomea,0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,60,terzina,-,-,11,di Giovanni: Beatrice cre' s'appelli.,0,0,1,0,0,1,0,1,0,1,nessuna
+69,-,61,terzina,-,-,11,"E ben che 'n fine della danza stea,",0,0,1,1,0,0,0,1,0,1,nessuna
+69,-,62,terzina,-,-,11,"non è men bella, ma vien per riscossa,",0,1,0,1,0,0,1,0,0,1,nessuna
+69,-,63,terzina,-,-,11,come tu vedi -; ed io ben lo vedea.,1,0,0,1,0,0,1,0,0,1,nessuna
+69,-,64,terzina,-,-,11,"Tacquesi allora, e la danza fu mossa",1,0,0,1,0,0,1,0,0,1,nessuna
+69,-,65,terzina,-,-,11,"sopra bei fiori e sotto verde fronda,",1,0,0,1,0,1,0,1,0,1,nessuna
+69,-,66,terzina,-,-,11,che a' raggi solar toglieva possa.,0,0,1,0,0,1,0,1,0,1,nessuna
+69,-,67,terzina,-,-,11,Onde ciascuna di quella gioconda,1,0,0,1,0,0,1,0,0,1,nessuna
+69,-,68,terzina,-,-,11,"e bella danza, gaia e leggiadretta,",0,1,0,1,0,1,0,0,0,1,nessuna
+69,-,69,terzina,-,-,11,"a cantar cominciò, come seconda,",0,0,1,0,0,1,1,0,0,1,nessuna
+69,-,70,terzina,-,-,11,questa leggiadra e bella canzonetta:,1,0,0,1,0,1,0,0,0,1,nessuna
+70,-,1,ballata,xxY AbAbbcY,-,7,"- Amor, dolce signore,",0,1,1,0,0,1,0,0,0,0,nessuna
+70,-,2,ballata,xxY AbAbbcY,-,7,che hai il nostro core,0,1,0,1,0,1,0,0,0,0,nessuna
+70,-,3,ballata,xxY AbAbbcY,-,11,"in tua balia, per Dio, fanne contente.",0,0,0,1,0,1,1,0,0,1,nessuna
+70,-,4,ballata,xxY AbAbbcY,-,11,"Tu se' nostro signor caro e verace,",0,1,1,0,0,1,1,0,0,1,nessuna
+70,-,5,ballata,xxY AbAbbcY,-,7,e noi così volemo;,0,1,0,1,0,1,0,0,0,0,nessuna
+70,-,6,ballata,xxY AbAbbcY,-,11,tu se' colui che ne può render pace,0,1,0,1,0,0,0,1,0,1,nessuna
+70,-,7,ballata,xxY AbAbbcY,-,7,nel gran disio ch'avemo:,0,1,0,1,0,1,0,0,0,0,nessuna
+70,-,8,ballata,xxY AbAbbcY,-,7,però quanto potemo,0,1,1,0,0,1,0,0,0,0,nessuna
+70,-,9,ballata,xxY AbAbbcY,-,7,preghian tua signoria,0,1,0,0,0,1,0,0,0,0,nessuna
+70,-,10,ballata,xxY AbAbbcY,-,11,che 'nver di noi si porti umilemente.,0,1,0,1,0,1,0,0,0,1,nessuna
+70,-,11,ballata,xxY AbAbbcY,-,11,"Noi siam qui giovinette, e tu 'l ti sai,",0,1,1,0,0,1,0,1,0,1,nessuna
+70,-,12,ballata,xxY AbAbbcY,-,7,"che poca di grevezza,",0,1,0,0,0,1,0,0,0,0,nessuna
+70,-,13,ballata,xxY AbAbbcY,-,11,"che noi sentiam, ci par sentire assai;",0,1,0,1,0,1,0,1,0,1,nessuna
+70,-,14,ballata,xxY AbAbbcY,-,7,però la tua grandezza,0,1,0,0,0,1,0,0,0,0,nessuna
+70,-,15,ballata,xxY AbAbbcY,-,7,"a chiunque la sprezza,",0,0,1,0,0,1,0,0,0,0,nessuna
+70,-,16,ballata,xxY AbAbbcY,-,7,"signor, falla sentire,",0,1,1,0,0,1,0,0,0,0,nessuna
+70,-,17,ballata,xxY AbAbbcY,-,11,"ch'a noi non cal, che siam tue veramente.",0,1,0,1,0,0,1,0,0,1,nessuna
+70,-,18,ballata,xxY AbAbbcY,-,11,"Fa sentire a coloro il tuo valore,",0,0,1,0,0,1,0,0,0,1,nessuna
+70,-,19,ballata,xxY AbAbbcY,-,7,che si fanno chiamare,0,0,1,0,0,1,0,0,0,0,nessuna
+70,-,20,ballata,xxY AbAbbcY,-,11,inamorati sanza farti onore:,0,0,0,1,0,1,0,1,0,1,nessuna
+70,-,21,ballata,xxY AbAbbcY,-,7,"ché, se tu fai provare",0,0,1,0,0,1,0,0,0,0,nessuna
+70,-,22,ballata,xxY AbAbbcY,-,7,"lor quanto tu puoi fare,",1,1,0,1,0,1,0,0,0,0,nessuna
+70,-,23,ballata,xxY AbAbbcY,-,7,"saranno inamorati,",0,1,0,0,0,1,0,0,0,0,nessuna
+70,-,24,ballata,xxY AbAbbcY,-,11,e noi ti loderem più degnamente.,0,1,0,0,0,1,1,0,0,1,nessuna
+70,-,25,ballata,xxY AbAbbcY,-,11,Noi ardiam tutte per la tua virtute,1,0,1,1,0,0,0,1,0,1,nessuna
+70,-,26,ballata,xxY AbAbbcY,-,7,nel tuo cocente foco.,0,1,0,1,0,1,0,0,0,0,nessuna
+70,-,27,ballata,xxY AbAbbcY,-,11,"Per Dio, mercé; deh, donaci salute",0,1,0,1,0,1,0,0,0,1,nessuna
+70,-,28,ballata,xxY AbAbbcY,-,7,"anzi che mutiam loco,",1,0,0,0,1,1,0,0,0,0,nessuna
+70,-,29,ballata,xxY AbAbbcY,-,7,ché già a poco a poco,0,1,0,1,0,1,0,0,0,0,nessuna
+70,-,30,ballata,xxY AbAbbcY,-,7,"per te ci consumiamo,",0,1,0,0,0,1,0,0,0,0,nessuna
+70,-,31,ballata,xxY AbAbbcY,-,11,se tu non ci soccorri tostamente.,0,1,0,0,0,1,0,0,0,1,nessuna
+70,-,32,ballata,xxY AbAbbcY,-,11,"Fa, signor nostro, gli animi pietosi",1,0,1,1,0,1,0,0,0,1,nessuna
+70,-,33,ballata,xxY AbAbbcY,-,7,degli nostri amadori;,0,0,1,0,0,1,0,0,0,0,nessuna
+70,-,34,ballata,xxY AbAbbcY,-,11,raffrena alquanto i lor atti orgogliosi,0,1,0,1,0,0,1,0,0,1,nessuna
+70,-,35,ballata,xxY AbAbbcY,-,7,"con più aspri dolori,",0,1,1,0,0,1,0,0,0,0,nessuna
+70,-,36,ballata,xxY AbAbbcY,-,7,"che non hanno ne' cori,",0,0,1,0,0,1,0,0,0,0,nessuna
+70,-,37,ballata,xxY AbAbbcY,-,7,sì che la nostra pena,0,1,0,1,0,1,0,0,0,0,nessuna
+70,-,38,ballata,xxY AbAbbcY,-,11,e' provi come noi chi non la sente.,0,1,0,1,0,1,1,0,0,1,nessuna
+70,-,39,ballata,xxY AbAbbcY,-,11,"Entra en gli orecchi qui, ballata, avanti",1,0,0,1,0,1,0,1,0,1,nessuna
+70,-,40,ballata,xxY AbAbbcY,-,7,"ad Amor nostro siri,",0,0,1,1,0,1,0,0,0,0,nessuna
+70,-,41,ballata,xxY AbAbbcY,-,11,"e, come tu pietosamente canti",0,1,0,1,0,0,0,1,0,1,nessuna
+70,-,42,ballata,xxY AbAbbcY,-,7,"i nostri aspri martiri,",0,1,1,0,0,1,0,0,0,0,nessuna
+70,-,43,ballata,xxY AbAbbcY,-,7,fa che pregando il giri,1,0,0,1,0,1,0,0,0,0,nessuna
+70,-,44,ballata,xxY AbAbbcY,-,7,"a darci tosto gioia,",0,1,0,1,0,1,0,0,0,0,nessuna
+70,-,45,ballata,xxY AbAbbcY,-,11,prima che ei n'uccida crudelmente -.,1,0,0,1,0,1,0,0,0,1,nessuna
+71,-,1,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"L'aspre montagne e le valli profonde,",1,0,0,1,0,0,1,0,0,1,nessuna
+71,-,2,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,i folti boschi e l'acqua e 'l ghiaccio e 'l vento,0,1,0,1,0,1,0,1,0,1,nessuna
+71,-,3,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"l'alpi selvagge e piene di spavento,",1,0,0,1,0,1,0,0,0,1,nessuna
+71,-,4,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"e de' fiumi e de' mar le torbid'onde,",0,0,1,0,0,1,0,1,0,1,nessuna
+71,-,5,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,e qualunqu'altra cosa più confonde,0,0,0,1,0,1,0,1,0,1,nessuna
+71,-,6,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"il pover peregrin, che mal contento",0,1,0,0,0,1,0,1,0,1,nessuna
+71,-,7,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"da' sua s'allunga, non ch'alcun tormento",0,1,0,1,0,1,0,1,0,1,nessuna
+71,-,8,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"mi desser, tornand'io, ma fur gioconde:",0,1,0,0,1,1,0,1,0,1,nessuna
+71,-,9,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"tanta dolce speranza mi recava,",1,0,1,0,0,1,0,0,0,1,nessuna
+71,-,10,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,spronato dal desio di rivederti,0,1,0,0,0,1,0,0,0,1,nessuna
+71,-,11,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"qual ver me ti lasciai, donna, pietosa.",1,0,1,0,0,1,1,0,0,1,nessuna
+71,-,12,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"Or, oltra quel che io, lasso, stimava,",1,0,0,1,0,1,1,0,0,1,nessuna
+71,-,13,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"truovo mi sdegni, e non so per quai merti:",1,0,0,1,0,0,1,0,1,1,nessuna
+71,-,14,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,per che piange nel cor l'alma dogliosa.,0,0,1,0,0,1,1,0,0,1,nessuna
+71,-,15,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,"E maledico i monti, l'alpi e 'l mare,",0,0,1,0,0,1,0,1,0,1,nessuna
+71,-,16,sonetto ritornellato,ABBA ABBA CDE CDE FF,-,11,che mai mi ci lasciaron ritornare.,0,1,0,0,0,1,0,0,0,1,nessuna
+72,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Perir possa il tuo nome, Baia, e il loco,",0,1,1,0,0,1,0,1,0,1,nessuna
+72,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"boschi selvaggi le tua piagge sieno,",1,0,0,1,0,0,0,1,0,1,nessuna
+72,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"e le tue fonti diventin veneno,",0,0,0,1,0,0,1,0,0,1,nessuna
+72,-,4,sonetto,ABBA ABBA CDE CDE,-,11,né vi si bagni alcun molto né poco:,1,0,0,1,0,1,1,0,0,1,nessuna
+72,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"in pianto si converta ogni tuo gioco,",0,1,0,0,0,1,1,0,0,1,nessuna
+72,-,6,sonetto,ABBA ABBA CDE CDE,-,11,e suspetto diventi el tuo bel seno,0,0,1,0,0,1,0,1,0,1,nessuna
+72,-,7,sonetto,ABBA ABBA CDE CDE,-,11,a' naviganti: il nuvolo e 'l sereno,0,0,0,1,0,1,0,0,0,1,nessuna
+72,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"in te riversin fumo, solfo e fuoco;",0,1,0,1,0,1,0,1,0,1,nessuna
+72,-,9,sonetto,ABBA ABBA CDE CDE,-,11,ché hai corrotto la più casta mente,0,0,0,1,0,0,0,1,0,1,nessuna
+72,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"che fosse 'n donna, con la tua licenza,",0,1,0,1,0,0,0,1,0,1,nessuna
+72,-,11,sonetto,ABBA ABBA CDE CDE,-,11,se 'l ver mi disser gli occhi non è guari;,0,1,0,1,0,1,0,0,0,1,nessuna
+72,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"laond'io sempre viverò dolente,",0,1,0,1,0,0,0,1,0,1,nessuna
+72,-,13,sonetto,ABBA ABBA CDE CDE,-,11,come ingannato da folle credenza:,1,0,0,1,0,0,1,0,0,1,nessuna
+72,-,14,sonetto,ABBA ABBA CDE CDE,-,11,or foss'io stato cieco non ha guari!,1,0,0,1,0,1,0,0,0,1,nessuna
+73,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"O miseri occhi miei più ch'altra cosa,",0,1,0,1,0,1,0,1,0,1,nessuna
+73,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"piangete omai, piangete, e non restate:",0,1,0,1,0,1,0,0,0,1,nessuna
+73,-,3,sonetto,ABBA ABBA CDE CDE,-,11,voi di colei le luci dispietate,1,0,0,1,0,1,0,0,0,1,nessuna
+73,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"menasti pria nell'anima angosciosa,",0,1,0,1,0,1,0,0,0,1,nessuna
+73,-,5,sonetto,ABBA ABBA CDE CDE,-,11,ch'ora disprezza; voi nell'amorosa,1,0,0,1,0,1,0,0,0,1,nessuna
+73,-,6,sonetto,ABBA ABBA CDE CDE,-,11,pregion legaste la mia libertate;,0,1,0,1,0,0,1,0,0,1,nessuna
+73,-,7,sonetto,ABBA ABBA CDE CDE,-,11,voi col mirarla più raccendavate,1,0,0,1,0,1,0,0,0,1,nessuna
+73,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"il cor dolente, ch'or non truova posa.",0,1,0,1,0,1,0,1,0,1,nessuna
+73,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Dunque piangete, e la nemica vista",1,0,0,1,0,0,0,1,0,1,nessuna
+73,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"di voi spingete col pianger più forte,",0,1,0,1,0,0,1,0,0,1,nessuna
+73,-,11,sonetto,ABBA ABBA CDE CDE,-,11,sì ch'altro amor non possa più tradirvi.,0,1,0,1,0,1,0,1,0,1,nessuna
+73,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Questo desia e vuol l'anima trista,",1,0,0,1,0,1,1,0,0,1,nessuna
+73,-,13,sonetto,ABBA ABBA CDE CDE,-,11,perciò che cose grave più che morte,0,1,0,1,0,1,0,1,0,1,nessuna
+73,-,14,sonetto,ABBA ABBA CDE CDE,-,11,l'ordisti già incontro nel seguirvi.,0,1,0,1,0,1,0,0,0,1,nessuna
+74,-,1,sonetto,ABBA ABBA CDE DCE,-,11,"Cader postù in que' legami, Amore,",0,1,0,1,0,0,0,1,0,1,nessuna
+74,-,2,sonetto,ABBA ABBA CDE DCE,-,11,ne' quai tu n'hai già molti aviluppati;,0,1,0,1,0,1,0,0,0,1,nessuna
+74,-,3,sonetto,ABBA ABBA CDE DCE,-,11,"rotte ti sien le braccia, e ispuntati",1,0,0,1,0,1,0,0,0,1,nessuna
+74,-,4,sonetto,ABBA ABBA CDE DCE,-,11,gli artigli e l'ali spennate e 'l vigore,0,1,0,1,0,0,1,0,0,1,nessuna
+74,-,5,sonetto,ABBA ABBA CDE DCE,-,11,"tolto, e la deità tua sia 'n orrore",1,0,0,0,0,1,1,0,0,1,nessuna
+74,-,6,sonetto,ABBA ABBA CDE DCE,-,11,"a quei che nasceran e che son nati,",0,1,0,0,0,1,0,0,0,1,nessuna
+74,-,7,sonetto,ABBA ABBA CDE DCE,-,11,"e sianti l'arco e gli strali spezzati,",0,1,0,1,0,0,1,0,0,1,nessuna
+74,-,8,sonetto,ABBA ABBA CDE DCE,-,11,e il tuo nome sia sempre Dolore:,0,0,0,1,0,0,1,0,0,1,nessuna
+74,-,9,sonetto,ABBA ABBA CDE DCE,-,11,"bugiardo, traditore e disleale,",0,1,0,0,0,1,0,0,0,1,nessuna
+74,-,10,sonetto,ABBA ABBA CDE DCE,-,11,"frodolente, assassin, ladro, scherano,",0,0,1,0,0,1,1,0,0,1,nessuna
+74,-,11,sonetto,ABBA ABBA CDE DCE,-,11,"crudel tiranno, spergiuro, omicida;",0,1,0,1,0,0,1,0,0,1,nessuna
+74,-,12,sonetto,ABBA ABBA CDE DCE,-,11,ché dopo il mio lungo servire invano,0,1,0,1,1,0,0,1,0,1,nessuna
+74,-,13,sonetto,ABBA ABBA CDE DCE,-,11,"mi proponesti tal, ch'assai men vale:",0,0,0,1,0,1,0,1,0,1,nessuna
+74,-,14,sonetto,ABBA ABBA CDE DCE,-,11,caggia dal ciel saetta che t'occida.,1,0,0,1,0,1,0,0,0,1,nessuna
+75,-,1,ballata,XyY AbCAbCCyY,-,11,I' non ardisco di levar più gli occhi,0,0,0,1,0,0,0,1,0,1,nessuna
+75,-,2,ballata,XyY AbCAbCCyY,-,7,"inverso donna alcuna,",0,1,0,1,0,1,0,0,0,0,nessuna
+75,-,3,ballata,XyY AbCAbCCyY,-,11,qualora i' penso quel che m'ha fatt'una.,0,1,0,1,0,1,0,0,1,1,nessuna
+75,-,4,ballata,XyY AbCAbCCyY,-,11,Nissuno amante mai con fermo core,0,1,0,1,0,1,0,1,0,1,nessuna
+75,-,5,ballata,XyY AbCAbCCyY,-,7,o con puro volere,0,0,1,0,0,1,0,0,0,0,nessuna
+75,-,6,ballata,XyY AbCAbCCyY,-,11,"donna servì, com'io servia costei;",1,0,0,1,0,1,0,1,0,1,nessuna
+75,-,7,ballata,XyY AbCAbCCyY,-,11,e quando più fedele al suo valore,0,1,0,1,0,1,0,0,0,1,nessuna
+75,-,8,ballata,XyY AbCAbCCyY,-,7,"credia merito avere,",0,1,1,0,0,1,0,0,0,0,nessuna
+75,-,9,ballata,XyY AbCAbCCyY,-,11,giovane novo fé signor di lei.,1,0,0,1,0,1,0,1,0,1,nessuna
+75,-,10,ballata,XyY AbCAbCCyY,-,11,Ond'io bassando gli occhi dico: - Omei!,0,1,0,1,0,1,0,1,0,1,nessuna
+75,-,11,ballata,XyY AbCAbCCyY,-,7,"Non ne mirar nissuna,",0,0,0,1,0,1,0,0,0,0,nessuna
+75,-,12,ballata,XyY AbCAbCCyY,-,11,ché come questa forse inganna ognuna -.,0,1,0,1,0,1,0,1,0,1,nessuna
+76,-,1,ballata,xX ABBAaX,-,7,"Non so qual i' mi voglia,",0,1,0,1,0,1,0,0,0,0,nessuna
+76,-,2,ballata,xX ABBAaX,-,11,"o viver o morir, per minor doglia.",0,1,0,0,0,1,0,0,1,1,nessuna
+76,-,3,ballata,xX ABBAaX,-,11,"Morir vorre', ché 'l viver m'è gravoso,",0,1,0,1,0,1,0,0,0,1,nessuna
+76,-,4,ballata,xX ABBAaX,-,11,veggendomi per altri esser lasciato;,0,1,0,0,0,1,1,0,0,1,nessuna
+76,-,5,ballata,xX ABBAaX,-,11,"e morte non vorre', ché, trapassato,",0,1,0,0,0,1,1,0,0,1,nessuna
+76,-,6,ballata,xX ABBAaX,-,11,"più non vedrei 'l bel vis'amoroso,",1,0,0,1,0,0,1,0,0,1,nessuna
+76,-,7,ballata,xX ABBAaX,-,7,"per cui piango, invidioso",0,1,1,0,0,1,0,0,0,0,nessuna
+76,-,8,ballata,xX ABBAaX,-,11,di chi l'ha fatto suo e me ne spoglia.,0,1,0,1,0,1,0,0,0,1,nessuna
+77,-,1,ballata,xX aBaBbX,-,7,"Il fior, che 'l valor perde",0,1,0,0,1,1,0,0,0,0,nessuna
+77,-,2,ballata,xX aBaBbX,-,11,"da che già cade, mai non si rinverde.",0,1,0,1,0,1,0,0,0,1,nessuna
+77,-,3,ballata,xX aBaBbX,-,7,"Perduto ho il valor mio,",0,1,1,0,1,1,0,0,0,0,nessuna
+77,-,4,ballata,xX aBaBbX,-,11,e mia bellezza non serà com'era:,0,0,0,1,0,0,0,1,0,1,nessuna
+77,-,5,ballata,xX aBaBbX,-,7,"però ch'è van disio,",0,1,0,1,0,1,0,0,0,0,nessuna
+77,-,6,ballata,xX aBaBbX,-,11,chi perde il tempo e acquistarlo spera;,0,1,0,1,0,0,0,1,0,1,nessuna
+77,-,7,ballata,xX aBaBbX,-,7,"io non son primavera,",0,0,1,0,0,1,0,0,0,0,nessuna
+77,-,8,ballata,xX aBaBbX,-,11,che ogni anno si rinnova e fassi verde.,0,1,0,0,0,1,0,1,0,1,nessuna
+77,-,9,ballata,xX aBaBbX,-,7,Io maledico l'ora,0,0,0,1,0,1,0,0,0,0,nessuna
+77,-,10,ballata,xX aBaBbX,-,11,che 'l tempo giovenil fuggir lassai;,0,1,0,0,0,1,0,1,0,1,nessuna
+77,-,11,ballata,xX aBaBbX,-,7,"fantina essendo ancora,",0,1,0,1,0,1,0,0,0,0,nessuna
+77,-,12,ballata,xX aBaBbX,-,11,esser abbandonata non pensai:,1,0,0,0,0,1,0,0,0,1,nessuna
+77,-,13,ballata,xX aBaBbX,-,7,non se rallegra mai,0,0,0,1,0,1,0,0,0,0,nessuna
+77,-,14,ballata,xX aBaBbX,-,11,chi 'l primo fior del primo amore perde.,1,1,0,1,0,1,0,1,0,1,nessuna
+77,-,15,ballata,xX aBaBbX,-,7,"Ballata, assai mi duole",0,1,0,1,0,1,0,0,0,0,nessuna
+77,-,16,ballata,xX aBaBbX,-,11,che a me non lice di metterti in canto;,0,1,0,1,0,0,1,0,0,1,nessuna
+77,-,17,ballata,xX aBaBbX,-,7,tu sai che 'l mio cor vole,0,1,0,0,1,1,0,0,0,0,nessuna
+77,-,18,ballata,xX aBaBbX,-,11,"vivere con sospiri, doglia e pianto:",1,0,0,0,0,1,0,1,0,1,nessuna
+77,-,19,ballata,xX aBaBbX,-,7,così farò fin tanto,0,1,0,1,0,1,0,0,0,0,nessuna
+77,-,20,ballata,xX aBaBbX,-,11,che 'l foco di mia vita giugna al verde.,0,1,0,0,0,1,0,1,0,1,nessuna
+78,-,1,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,Allor che 'l regno d'Etiopia sente,0,1,0,1,0,0,0,1,0,1,nessuna
+78,-,2,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,"il rodopeo cristallo esser deluso,",0,0,0,1,0,1,1,0,0,1,nessuna
+78,-,3,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,"e de' sui ogni serpe leva el muso,",0,0,1,0,0,1,0,1,0,1,nessuna
+78,-,4,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,"surge a' mortali un nobile ascendente,",1,0,0,1,0,1,0,0,0,1,nessuna
+78,-,5,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,del quale fé la Sidonia dolente,0,1,0,1,0,0,1,0,0,1,nessuna
+78,-,6,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,"pruove, al parlar, che sai, alto e diffuso;",1,0,0,1,0,1,1,0,0,1,nessuna
+78,-,7,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,"non Pompeo Magno, Giuba o il nobil Druso",1,0,1,1,0,1,0,1,0,1,nessuna
+78,-,8,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,videro el ciel oprare altrimente.,1,0,0,1,0,1,0,0,0,1,nessuna
+78,-,9,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,"Però, se ben ti recherai al petto,",0,1,0,1,0,0,0,1,0,1,nessuna
+78,-,10,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,con quale ago vedrai punga la mosca,0,1,1,0,0,1,1,0,0,1,nessuna
+78,-,11,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,di ciò che 'l tuo disio sì caldo brama.,0,1,0,0,0,1,0,1,0,1,nessuna
+78,-,12,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,Vedrai ancora che la gente tosca,0,1,0,1,0,0,0,1,0,1,nessuna
+78,-,13,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,"risponder sappia quand'altri la chiama,",0,1,0,1,0,0,1,0,0,1,nessuna
+78,-,14,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,e per rampogna rendere un sonetto:,0,0,0,1,0,1,0,0,0,1,nessuna
+78,-,15,sonetto ritornellato,ABBA ABBA CDE DEC C,-,11,ben ch'arte non sia a te qual l'intelletto.,0,1,0,0,0,1,1,0,0,1,nessuna
+79,-,1,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"L'antiquo padre, il cui primo delitto",0,1,0,1,0,1,1,0,0,1,nessuna
+79,-,2,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"ne fu cagion di morte e di sospiri,",0,1,0,1,0,1,0,0,0,1,nessuna
+79,-,3,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"pose assai poco modo ai suoi desiri,",1,0,0,1,0,1,0,1,0,1,nessuna
+79,-,4,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,essendo stato pur allor descritto.,0,1,0,1,0,1,0,1,0,1,nessuna
+79,-,5,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"Ma quel ritroso popul, che d'Egitto",0,1,0,1,0,1,0,0,0,1,nessuna
+79,-,6,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"non senza affanno uscì dopo i martiri,",0,1,0,1,0,1,1,0,0,1,nessuna
+79,-,7,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"ben ch'ei vedessi mille fatti miri,",1,0,0,1,0,1,0,1,0,1,nessuna
+79,-,8,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,rade volte seguì consiglio dritto.,1,0,1,0,0,1,0,1,0,1,nessuna
+79,-,9,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"Per che, noi se delle cose elette",0,0,1,0,0,0,1,0,0,1,nessuna
+79,-,10,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"più lontan siamo, seguitar misura",0,0,1,1,0,0,0,1,0,1,nessuna
+79,-,11,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,del ciel men grava all'anime perfette.,0,1,0,1,0,1,0,0,0,1,nessuna
+79,-,12,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"E, ben che spesso semplice paura",0,0,1,1,0,1,0,0,0,1,nessuna
+79,-,13,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,solare eclisse o squarciar nuvolette,0,1,0,1,0,0,1,0,0,1,nessuna
+79,-,14,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"faccia, chi 'l sente poco se ne cura.",1,0,0,1,0,1,0,0,0,1,nessuna
+79,-,15,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,Quel che morì per trarne di servaggio,1,0,0,1,0,1,0,0,0,1,nessuna
+79,-,16,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,mercé n'avrà per lo cammin selvaggio,0,1,0,1,0,0,0,1,0,1,nessuna
+80,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"- L'arco degli anni tuoi trapassat'hai,",1,0,0,1,0,1,0,0,1,1,nessuna
+80,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"cambiato il pelo e la virtù mancata,",0,1,0,1,0,0,0,1,0,1,nessuna
+80,-,3,sonetto,ABBA ABBA CDC DCD,-,11,di questa tuo picciola giornata,0,1,0,0,0,1,0,0,0,1,nessuna
+80,-,4,sonetto,ABBA ABBA CDC DCD,-,11,già verso 'l vespro camminando vai;,1,1,0,1,0,0,0,1,0,1,nessuna
+80,-,5,sonetto,ABBA ABBA CDC DCD,-,11,"buono è adunque amor lasciare omai,",1,1,0,1,0,1,0,1,0,1,nessuna
+80,-,6,sonetto,ABBA ABBA CDC DCD,-,11,e a pensar dell'ultima posata -,0,0,0,1,0,1,0,0,0,1,nessuna
+80,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"dice l'anima seco, innamorata,",1,0,1,0,0,1,0,0,0,1,nessuna
+80,-,8,sonetto,ABBA ABBA CDC DCD,-,11,qualor punta è da non usati guai.,0,1,0,1,0,0,0,1,0,1,nessuna
+80,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Ma come l'ombra vede di colei,",0,1,0,1,0,1,0,0,0,1,nessuna
+80,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"non vo' dir gli occhi, che nel mondo venne",0,0,1,1,0,0,0,1,0,1,nessuna
+80,-,11,sonetto,ABBA ABBA CDC DCD,-,11,"per dar sempre cagione a' sospir miei,",0,1,1,0,0,1,0,0,1,1,nessuna
+80,-,12,sonetto,ABBA ABBA CDC DCD,-,11,"così all'alto vol si trae le penne,",0,1,0,1,0,1,0,1,0,1,nessuna
+80,-,13,sonetto,ABBA ABBA CDC DCD,-,11,"e' passi volge tutti a seguir lei,",0,1,0,1,0,1,0,0,1,1,nessuna
+80,-,14,sonetto,ABBA ABBA CDC DCD,-,11,come fé già quando me' si convenne.,1,0,1,1,1,0,1,0,0,1,nessuna
+81,-,1,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,Due belle donne nella mente Amore,0,1,0,1,0,0,0,1,0,1,nessuna
+81,-,2,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"mi reca spesso, l'una delle quali",0,1,0,1,0,1,0,0,0,1,nessuna
+81,-,3,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,e di bellezze e di virtute eguali,0,0,0,1,0,0,0,1,0,1,nessuna
+81,-,4,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"e l'altra, un poco di tempo maggiore.",0,1,0,1,0,0,1,0,0,1,nessuna
+81,-,5,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,Ma del vestir di ciascuna 'l colore,0,0,0,1,0,0,1,0,0,1,nessuna
+81,-,6,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"in abito la mostra diseguali,",0,1,0,0,0,1,0,0,0,1,nessuna
+81,-,7,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"per che mi dice parole cotali,",0,1,0,1,0,0,1,0,0,1,nessuna
+81,-,8,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"qual udirai appresso, 'l mio signore:",1,0,0,1,0,1,0,0,0,1,nessuna
+81,-,9,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,- Questa leggiadra e gaia giovinetta,1,0,0,1,0,1,0,0,0,1,nessuna
+81,-,10,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"pulzella è veramente; e l'altra poi,",0,1,1,0,0,1,0,1,0,1,nessuna
+81,-,11,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"di brun vestita, vedova dimora.",0,1,0,1,0,1,0,0,0,1,nessuna
+81,-,12,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"Ma perché amar non possonsi a un'ora,",0,0,1,1,0,1,0,0,0,1,nessuna
+81,-,13,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,l'una convien ti sia donna per noi:,1,0,0,1,0,0,1,0,0,1,nessuna
+81,-,15,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,"In ciò da me non so prender consiglio,",0,1,0,1,0,1,1,0,0,1,nessuna
+81,-,16,sonetto ritornellato,ABBA ABBA CDE EDC FF,-,11,però ricorro a te: dimmi qual piglio.,0,1,0,1,0,1,1,0,1,1,nessuna
+82,-,1,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,Dietro al pastor d'Ameto alle materne,1,0,0,1,0,1,0,0,0,1,nessuna
+82,-,2,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,ombre scendea quel che ad Agenòre,1,0,0,1,0,1,0,0,0,1,nessuna
+82,-,3,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"furtò la figlia, quella il cui valore",0,1,0,1,0,1,0,1,0,1,nessuna
+82,-,4,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"nei mur troiani ancora si discerne,",0,1,0,1,0,1,0,0,0,1,nessuna
+82,-,5,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"quando tal donna, quale ad Oloferne",1,0,0,1,0,1,0,0,0,1,nessuna
+82,-,6,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"con tristo augurio si arse il fero core,",0,1,0,1,0,1,0,1,0,1,nessuna
+82,-,7,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"m'apparve, accesa con quello splendore",0,1,0,1,0,0,1,0,0,1,nessuna
+82,-,8,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,ch'è terza luce nelle rote eterne.,0,1,0,1,0,0,0,1,0,1,nessuna
+82,-,9,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"E femmi tal, vezzosa riguardando,",0,1,0,1,0,1,0,0,0,1,nessuna
+82,-,10,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"qual fé Cupido la figlia di Belo,",0,1,0,1,0,0,1,0,0,1,nessuna
+82,-,11,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,stando ella attenta e Enea ragionando.,1,1,0,1,0,0,1,0,0,1,nessuna
+82,-,12,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"Laond'io ardo, e ardendo del gelo",0,1,0,1,0,0,1,0,0,1,nessuna
+82,-,13,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"che sentì Biblis temo, imaginando",0,0,1,1,0,1,0,0,0,1,nessuna
+82,-,14,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,che 'l vestir bruno e il candido velo,0,0,1,1,0,0,1,0,0,1,nessuna
+82,-,15,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,"non la faccia crudel ovvero onesta,",0,0,1,0,0,1,0,1,0,1,nessuna
+82,-,16,sonetto ritornellato,ABBA ABBA CDC DCD EE,-,11,oltre el disio che per lei mi molesta.,1,0,0,1,0,0,1,0,0,1,nessuna
+83,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"S'io veggio il giorno, Amor, che mi scapestri",0,1,0,1,0,1,0,0,0,1,nessuna
+83,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"de' lacci tua, che sì mi stringon forte,",0,1,0,1,0,1,0,1,0,1,nessuna
+83,-,3,sonetto,ABBA ABBA CDE CDE,-,11,vaga bellezza né parole accorte,1,0,0,1,0,0,0,1,0,1,nessuna
+83,-,4,sonetto,ABBA ABBA CDE CDE,-,11,né alcun altri mai piacer terrestri,1,0,0,1,0,1,0,1,0,1,nessuna
+83,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"tanto potranno, ch'io più m'incapestri",1,0,0,1,0,0,1,0,0,1,nessuna
+83,-,6,sonetto,ABBA ABBA CDE CDE,-,11,o mi rimetta nelle tua ritorte:,0,0,0,1,0,0,0,1,0,1,nessuna
+83,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"avanti andrò, fin che venga la morte,",0,1,0,1,0,0,1,0,0,1,nessuna
+83,-,8,sonetto,ABBA ABBA CDE CDE,-,11,pascendo l'erbe per gli luoghi alpestri.,0,1,0,1,0,0,0,1,0,1,nessuna
+83,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Tu m'hai il cibo, il sonno e il riposo",0,1,0,1,0,1,0,0,0,1,nessuna
+83,-,10,sonetto,ABBA ABBA CDE CDE,-,11,e il parer uom fra gli altri e il pensiero,0,0,1,1,0,1,0,0,0,1,nessuna
+83,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"tolto, che io di me aver devrei,",1,0,0,1,0,1,0,1,0,1,nessuna
+83,-,12,sonetto,ABBA ABBA CDE CDE,-,11,e ha'mi fatto del vulgo noioso,0,0,0,1,0,0,1,0,0,1,nessuna
+83,-,13,sonetto,ABBA ABBA CDE CDE,-,11,favola divenire; ond'io dispero,1,0,0,0,0,1,0,1,0,1,nessuna
+83,-,14,sonetto,ABBA ABBA CDE CDE,-,11,mai poter ritrovar quel ch'io vorrei.,1,0,1,0,0,1,1,0,0,1,nessuna
+84,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Sì fuor d'ogni pensier, nel qual ragione",0,1,1,0,0,1,0,1,0,1,nessuna
+84,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"passeggi o stia, seguendo l'appetito,",0,1,0,1,0,1,0,0,0,1,nessuna
+84,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"è il mio folle pensier del tutto uscito,",0,0,1,0,0,1,0,1,0,1,nessuna
+84,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"che paura nol può né riprensione,",0,0,1,0,0,1,1,0,0,1,nessuna
+84,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"né ancora colei che n'è cagione,",0,0,1,0,0,1,0,1,0,1,nessuna
+84,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"avendo il suo bel viso assai seguito,",0,1,0,0,0,1,0,1,0,1,nessuna
+84,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"ritrar dal corso, nel quale smarrito",0,1,0,1,0,0,1,0,0,1,nessuna
+84,-,8,sonetto,ABBA ABBA CDE CDE,-,11,corro all'ultima mia destruzione.,1,0,1,0,0,1,0,0,0,1,nessuna
+84,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Così fa, lasso, negli anni migliori",0,0,1,1,0,0,1,0,0,1,nessuna
+84,-,10,sonetto,ABBA ABBA CDE CDE,-,11,il creder troppo al fervente desio,0,1,0,1,0,0,1,0,0,1,nessuna
+84,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e l'invescarsi in le reti d'amore;,0,0,0,1,0,0,1,0,0,1,nessuna
+84,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"che, quando vuol, non può poi degli errori",0,1,0,1,0,1,1,0,0,1,nessuna
+84,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"disvilupparsi il misero, che Dio",0,0,0,1,0,1,0,0,0,1,nessuna
+84,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"e sé offende, e vive male e muore.",0,1,0,1,0,1,0,1,0,1,nessuna
+85,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"Quand'io riguardo me, vie più che 'l vetro",0,1,0,1,0,1,0,1,0,1,nessuna
+85,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"fragile, e gli anni fuggir com'il vento,",1,0,0,1,0,0,1,0,0,1,nessuna
+85,-,3,sonetto,ABBA ABBA CDC DCD,-,11,"sì pietoso di me meco divento,",0,0,1,0,0,1,1,0,0,1,nessuna
+85,-,4,sonetto,ABBA ABBA CDC DCD,-,11,"che dir nol porria lingua, non che metro;",0,1,0,0,1,1,0,0,0,1,nessuna
+85,-,5,sonetto,ABBA ABBA CDC DCD,-,11,"piangendo il tempo, ch'ho lasciat'arietro",0,1,0,1,0,0,0,1,0,1,nessuna
+85,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"mal operato, e prendendo spavento",1,0,0,1,0,0,1,0,0,1,nessuna
+85,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"de' casi, i quai talora a cento a cento",0,1,0,1,0,1,0,1,0,1,nessuna
+85,-,8,sonetto,ABBA ABBA CDC DCD,-,11,posson del viver tormi il cammin tetro.,1,0,0,1,0,1,0,0,1,1,nessuna
+85,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Né mi può doglia, per ciò, né paura",0,0,1,1,0,0,1,0,0,1,nessuna
+85,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"la vaga donna trarmi della mente,",0,1,0,1,0,1,0,0,0,1,nessuna
+85,-,11,sonetto,ABBA ABBA CDC DCD,-,11,dov'Amor disegnò la sua figura.,0,0,1,0,0,1,0,0,0,1,nessuna
+85,-,12,sonetto,ABBA ABBA CDC DCD,-,11,"Per che, s'io non m'inganno, certamente",0,1,0,0,0,1,0,0,0,1,nessuna
+85,-,13,sonetto,ABBA ABBA CDC DCD,-,11,la fine a quest'amor la sepultura,0,1,0,0,0,1,0,0,0,1,nessuna
+85,-,14,sonetto,ABBA ABBA CDC DCD,-,11,"darà, e altro no, ultimamente.",0,1,0,1,0,1,0,0,0,1,nessuna
+86,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Ipocrate, Avicenna o Galieno,",0,1,0,0,0,1,0,0,0,1,nessuna
+86,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"diamante, zafir, perla o rubino,",0,0,1,0,0,1,1,0,0,1,nessuna
+86,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"brettonica, marrobio o rosmarino,",0,1,0,0,0,1,0,0,0,1,nessuna
+86,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"psalmo, evangelio e orazion vien meno;",1,0,0,1,0,0,0,1,0,1,nessuna
+86,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"piova né vento, nuvol né sereno,",1,0,0,1,0,1,0,0,0,1,nessuna
+86,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"mago né negromante né indovino,",1,0,0,0,0,1,0,0,0,1,nessuna
+86,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"tartaro né giudeo né saracino,",1,0,0,0,0,1,0,0,0,1,nessuna
+86,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"né povertà né doglia, ond'io son pieno,",0,0,0,1,0,1,0,1,0,1,nessuna
+86,-,9,sonetto,ABBA ABBA CDE CDE,-,11,poteron mai del mio petto cacciare,0,1,0,1,0,0,1,0,0,1,nessuna
+86,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"questo rabbioso spirito d'amore,",1,0,0,1,0,1,0,0,0,1,nessuna
+86,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ch'a poco a poco alla morte mi tira.,0,1,0,1,0,0,1,0,0,1,nessuna
+86,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Ond'io non so che mi debba sperare;,0,0,0,1,0,0,1,0,0,1,nessuna
+86,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"e ei d'ogn'altro affan mi caccia fuore,",0,1,0,1,0,1,0,1,0,1,nessuna
+86,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"e, come vuol, m'affligge e mi martira.",0,1,0,1,0,1,0,0,0,1,nessuna
+87,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"S'Amor, li cui costumi già molt'anni",0,1,0,1,0,1,0,1,0,1,nessuna
+87,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"con sospir infiniti provat'hai,",0,0,1,0,0,1,0,0,1,1,nessuna
+87,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"t'è or più grave che l'usato assai,",0,1,0,1,0,0,0,1,0,1,nessuna
+87,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"perché, seguendol, te medesmo inganni,",0,1,0,1,0,0,0,1,0,1,nessuna
+87,-,5,sonetto,ABBA ABBA CDE CDE,-,11,credendo trovar pace tra gli affanni?,0,1,0,0,1,1,0,0,0,1,nessuna
+87,-,6,sonetto,ABBA ABBA CDE CDE,-,11,perché da lui non ti scavresti omai?,0,1,0,1,0,0,0,1,0,1,nessuna
+87,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"perché nol fuggi? e forse ancor avrai,",0,1,0,1,0,1,0,1,0,1,nessuna
+87,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"libero, alcun riposo de' tua danni.",1,0,0,1,0,1,0,0,0,1,nessuna
+87,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Non si racquista il tempo che si perde,0,0,0,1,0,1,0,0,0,1,nessuna
+87,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"per perder tempo, né mai lagrimare",0,1,0,1,0,0,1,0,0,1,nessuna
+87,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"per lagrimar restette, com'uom vede.",0,0,0,1,0,1,0,0,1,1,nessuna
+87,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Bastiti ch'ad Amor il tempo verde,",1,0,0,0,0,1,0,1,0,1,nessuna
+87,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"misero, desti, e ora, ch'a imbiancare",1,0,0,1,0,1,0,0,0,1,nessuna
+87,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"cominci, di te stesso abbia mercede.",0,1,0,0,0,1,1,0,0,1,nessuna
+88,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Grifon, lupi, leon, bisce e serpenti,",0,1,1,0,0,1,1,0,0,1,nessuna
+88,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"draghi, leopardi, tigri, orsi e cinghiari,",1,0,0,1,0,1,1,0,0,1,nessuna
+88,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"disfrenati cavai, tori armentari,",0,0,1,0,0,1,1,0,0,1,nessuna
+88,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"rabbiosi can, tempeste e discendenti",0,1,0,1,0,1,0,0,0,1,nessuna
+88,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"folgori, tuoni, impetuosi venti,",1,0,0,1,0,0,0,1,0,1,nessuna
+88,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"ruine, incendi, scherani e corsari,",0,1,0,1,0,0,1,0,0,1,nessuna
+88,-,7,sonetto,ABBA ABBA CDE CDE,-,11,discorridori armati e sagittari,0,0,0,1,0,1,0,0,0,1,nessuna
+88,-,8,sonetto,ABBA ABBA CDE CDE,-,11,soglion fuggir le paurose genti:,1,0,0,1,0,0,0,1,0,1,nessuna
+88,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"ma io, che non son tal, perché discerno",0,1,0,0,0,1,0,1,0,1,nessuna
+88,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"com'orribil fuggirmi a chi non torna,",0,0,1,0,0,1,0,1,0,1,nessuna
+88,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"fuggita, se non vede dipartirme?",0,1,0,0,0,1,0,0,0,1,nessuna
+88,-,12,sonetto,ABBA ABBA CDE CDE,-,11,forse son io el diavol dell'inferno?,1,0,0,1,0,1,0,0,0,1,nessuna
+88,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"e crederre' 'l s'io avessi le corna,",0,0,0,1,0,0,1,0,0,1,nessuna
+88,-,14,sonetto,ABBA ABBA CDE CDE,-,11,poi che così a costei veggio fuggirme!,1,0,0,1,0,1,1,0,0,1,nessuna
+89,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Poco senn'ha chi crede la Fortuna,1,0,1,1,0,1,0,0,0,1,nessuna
+89,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"o con prieghi o con lacrime piegare,",0,0,1,0,0,1,0,0,0,1,nessuna
+89,-,3,sonetto,ABBA ABBA CDE CDE,-,11,e molto men chi crede lei fermare,0,1,0,1,0,1,0,1,0,1,nessuna
+89,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"con senno, con ingegno, o arte alcuna.",0,1,0,0,0,1,0,1,0,1,nessuna
+89,-,5,sonetto,ABBA ABBA CDE CDE,-,11,Poco senn'ha chi crede atar la luna,1,0,1,1,0,1,0,1,0,1,nessuna
+89,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"a discorrer il ciel per suo sonare,",0,0,1,0,0,1,0,1,0,1,nessuna
+89,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"e molto men chi ne crede portare,",0,1,0,1,0,0,1,0,0,1,nessuna
+89,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"morendo, seco l'or che qui raguna.",0,1,0,1,0,1,0,1,0,1,nessuna
+89,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Ma più ch'altri mi par matto colui,0,0,1,0,0,1,1,0,0,1,nessuna
+89,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ch'a femina, qual vogli, il suo onore,",0,1,0,0,0,1,0,1,0,1,nessuna
+89,-,11,sonetto,ABBA ABBA CDE CDE,-,11,sua libertà e la vita commette.,0,0,0,1,0,0,1,0,0,1,nessuna
+89,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Elle donne non son, ma doglia altrui,",0,0,1,0,0,1,0,1,0,1,nessuna
+89,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"senza pietà, senza fé, senz'amore,",1,0,0,1,0,0,1,0,0,1,nessuna
+89,-,14,sonetto,ABBA ABBA CDE CDE,-,11,liete del mal di chi più lor credette.,1,0,0,1,0,1,0,1,0,1,nessuna
+90,-,1,sonetto,ABBA ABBA CDE CDE,-,11,- Era 'l tuo ingegno divenuto tardo,1,0,0,1,0,0,0,1,0,1,nessuna
+90,-,2,sonetto,ABBA ABBA CDE CDE,-,11,e la memoria confusa e smarrita,0,0,0,1,0,0,1,0,0,1,nessuna
+90,-,3,sonetto,ABBA ABBA CDE CDE,-,11,e l'anima gentil quasi 'nvilita,0,1,0,0,0,1,1,0,0,1,nessuna
+90,-,4,sonetto,ABBA ABBA CDE CDE,-,11,driet'al riposo del mondo bugiardo;,1,0,0,1,0,0,1,0,0,1,nessuna
+90,-,5,sonetto,ABBA ABBA CDE CDE,-,11,quando t'accese 'l mio vago riguardo,1,0,0,1,0,0,1,0,0,1,nessuna
+90,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"e suscitò la virtù tramortita,",0,0,0,1,0,0,1,0,0,1,nessuna
+90,-,7,sonetto,ABBA ABBA CDE CDE,-,11,tanto ch'io t'ho condotto ove s'invita,1,0,0,0,0,1,1,0,0,1,nessuna
+90,-,8,sonetto,ABBA ABBA CDE CDE,-,11,al glorioso fin ciascun gagliardo.,0,0,0,1,0,1,0,1,0,1,nessuna
+90,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"In te sta el venir, se l'intelletto",0,1,1,0,0,1,0,0,0,1,nessuna
+90,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"aguzzi, driet'a me, che la corona",0,1,0,1,0,1,0,0,0,1,nessuna
+90,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ti serbo delle frondi tanto amate.,0,1,0,0,0,1,0,1,0,1,nessuna
+90,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Che farai? vienne! mi dice nel petto,0,0,1,1,0,0,1,0,0,1,nessuna
+90,-,13,sonetto,ABBA ABBA CDE CDE,-,11,la donna per la quale Amor mi sprona:,0,1,0,0,0,1,0,1,0,1,nessuna
+90,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"ed io mi sto, tant'è la mia viltate.",0,1,0,1,0,1,0,0,0,1,nessuna
+91,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Infra l'eccelso coro d'Elicona,1,0,0,1,0,1,0,0,0,1,nessuna
+91,-,2,sonetto,ABBA ABBA CDE CDE,-,11,mi transportò l'altr'ieri il mio ardire;,0,0,0,1,0,1,0,1,0,1,nessuna
+91,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"là dove, attento standomi ad udire",0,1,0,1,0,1,0,0,0,1,nessuna
+91,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"ciò che in quel s'adopra e si ragiona,",1,0,0,1,0,1,0,0,0,1,nessuna
+91,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"vidi, qual forse già fu la lacona",1,0,1,1,0,1,1,0,0,1,nessuna
+91,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"donna di Paris, una ninfa uscire",1,0,0,1,0,0,0,1,0,1,nessuna
+91,-,7,sonetto,ABBA ABBA CDE CDE,-,11,d'un lieto bosco e verso me venire,0,1,0,1,0,1,0,1,0,1,nessuna
+91,-,8,sonetto,ABBA ABBA CDE CDE,-,11,co' crin ristretti da verde corona.,0,1,0,1,0,0,1,0,0,1,nessuna
+91,-,9,sonetto,ABBA ABBA CDE CDE,-,11,A me venuta disse: - Io son colei,0,1,0,1,0,1,0,1,0,1,nessuna
+91,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"che fo di chi mi segue il nome eterno,",0,1,0,1,0,1,0,1,0,1,nessuna
+91,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e qui venuta sono ad amar presta;,0,1,0,1,0,1,0,0,1,1,nessuna
+91,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"lieva su, vieni! -; e io, già di costei",1,0,1,1,0,1,1,0,0,1,nessuna
+91,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"acceso, mi levai: ond'io, d'inferno",0,1,0,0,0,1,0,1,0,1,nessuna
+91,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"uscendo, entrai nell'amorosa festa.",0,1,0,1,0,0,0,1,0,1,nessuna
+92,-,1,madrigale,ABB CDD EE,-,11,"O Giustizia regina, al mondo freno,",0,0,1,0,0,1,0,1,0,1,nessuna
+92,-,2,madrigale,ABB CDD EE,-,11,"mossa d'alta virtù dal sommo cielo,",1,0,1,0,0,1,0,1,0,1,nessuna
+92,-,3,madrigale,ABB CDD EE,-,11,or fredda e pigra sta' coverta a velo.,0,1,0,1,0,1,0,1,0,1,nessuna
+92,-,4,madrigale,ABB CDD EE,-,11,"Rompe quest'aire e mostra tutt'el corso,",1,0,0,1,0,1,0,1,0,1,nessuna
+92,-,5,madrigale,ABB CDD EE,-,11,"e scendi con tuo forze e con l'ardire,",0,1,0,0,0,1,0,0,0,1,nessuna
+92,-,6,madrigale,ABB CDD EE,-,11,che tal virtù non manchi al buon disire.,0,1,0,1,0,1,0,1,0,1,nessuna
+92,-,7,madrigale,ABB CDD EE,-,11,"Fenda l'usata spada, e non con fretta,",1,0,0,1,0,1,0,1,0,1,nessuna
+92,-,8,madrigale,ABB CDD EE,-,11,ch'e colpi non fien tardi a chi gli aspetta.,0,1,0,0,1,1,0,1,0,1,nessuna
+93,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Fuggit'è ogni virtù, spent'è il valore",0,1,1,0,0,1,1,0,0,1,nessuna
+93,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"che fece Italia già donna del mondo,",0,1,0,1,0,1,1,0,0,1,nessuna
+93,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"e le Muse castalie son in fondo,",0,0,1,0,0,1,0,1,0,1,nessuna
+93,-,4,sonetto,ABBA ABBA CDE CDE,-,11,né cura quas'alcun del lor onore.,0,1,0,1,0,1,0,1,0,1,nessuna
+93,-,5,sonetto,ABBA ABBA CDE CDE,-,11,Del verde lauro più fronda né fiore,0,1,0,1,0,1,1,0,0,1,nessuna
+93,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"in pregio sono, e ciascun sotto il pondo",0,1,0,1,0,0,1,1,0,1,nessuna
+93,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"dell'arricchir sottentra, e del profondo",0,0,0,1,0,1,0,0,0,1,nessuna
+93,-,8,sonetto,ABBA ABBA CDE CDE,-,11,surgono i vizi trionfando fore.,1,0,0,1,0,0,0,1,0,1,nessuna
+93,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Per che, se i maggior nostri hanno lasciato",0,1,0,0,1,1,0,0,0,1,nessuna
+93,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"il vago stil de' versi e delle prose,",0,1,0,1,0,1,0,0,0,1,nessuna
+93,-,11,sonetto,ABBA ABBA CDE CDE,-,11,esser non de'ti maraviglia alcuna.,1,0,0,1,0,0,0,1,0,1,nessuna
+93,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Piangi dunque con meco il nostro stato,",1,0,1,0,0,1,0,1,0,1,nessuna
+93,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"l'uso moderno e l'opre viziose,",1,0,0,1,0,1,0,0,0,1,nessuna
+93,-,14,sonetto,ABBA ABBA CDE CDE,-,11,cui oggi favoreggia la fortuna.,1,1,0,0,0,1,0,0,0,1,nessuna
+94,-,1,sonetto,ABBA ABBA CDC DCD,-,11,Apizio legge nelle nostre scole,0,1,0,1,0,0,0,1,0,1,nessuna
+94,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"e 'l re Sardanapalo, e lor dottrina",0,1,0,0,0,1,0,1,0,1,nessuna
+94,-,3,sonetto,ABBA ABBA CDC DCD,-,11,di gran lunga è preposta alla divina,0,0,1,0,0,1,0,0,0,1,nessuna
+94,-,4,sonetto,ABBA ABBA CDC DCD,-,11,dagli ozi disonesti e dalle gole.,0,1,0,0,0,1,0,0,0,1,nessuna
+94,-,5,sonetto,ABBA ABBA CDC DCD,-,11,E verità né in fatti né in parole,0,0,0,1,0,1,0,1,0,1,nessuna
+94,-,6,sonetto,ABBA ABBA CDC DCD,-,11,"oggi si truova, e ciaschedun inchina",1,0,0,1,0,0,0,1,0,1,nessuna
+94,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"all'avarizia sì com'a reina,",0,0,0,1,0,1,1,0,0,1,nessuna
+94,-,8,sonetto,ABBA ABBA CDC DCD,-,11,la quale in tutto può ciò che la vuole.,0,1,0,1,0,1,1,0,0,1,nessuna
+94,-,9,sonetto,ABBA ABBA CDC DCD,-,11,"Onestà s'è partita e cortesia,",0,0,1,0,0,1,0,0,0,1,nessuna
+94,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"e ogn'altra virtù è al ciel tornata,",0,0,1,0,0,1,0,1,0,1,nessuna
+94,-,11,sonetto,ABBA ABBA CDC DCD,-,11,e insieme con esse leggiadria,0,0,1,0,0,1,0,0,0,1,nessuna
+94,-,12,sonetto,ABBA ABBA CDC DCD,-,11,dalle villane menti discacciata;,0,0,0,1,0,1,0,0,0,1,nessuna
+94,-,13,sonetto,ABBA ABBA CDC DCD,-,11,"ma quanto questo per durar si sia,",0,1,0,1,0,0,0,1,0,1,nessuna
+94,-,14,sonetto,ABBA ABBA CDC DCD,-,11,"Iddio sel sa, ch'ad ogni cosa guata.",0,1,0,1,0,1,0,1,0,1,nessuna
+95,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Saturno al coltivar la terra puose,0,1,0,0,0,1,0,1,0,1,nessuna
+95,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"già lungo studio, e Pallade lo ingegno",0,1,0,1,0,1,0,0,0,1,nessuna
+95,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"alle meccaniche arti, e Ercul degno",0,0,0,1,0,1,0,1,0,1,nessuna
+95,-,4,sonetto,ABBA ABBA CDE CDE,-,11,si fé di eterna fama l'orgogliose,0,1,0,1,0,1,0,0,0,1,nessuna
+95,-,5,sonetto,ABBA ABBA CDE CDE,-,11,fiere domando; e l'opre virtuose,1,0,0,1,0,1,0,0,0,1,nessuna
+95,-,6,sonetto,ABBA ABBA CDE CDE,-,11,de' buon romani el nome loro e 'l regno,0,1,0,1,0,1,0,1,0,1,nessuna
+95,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"ampliar ultra ad ogni mortal segno,",0,0,1,1,0,1,0,0,1,1,nessuna
+95,-,8,sonetto,ABBA ABBA CDE CDE,-,11,e di Alessandro le imprese animose.,0,0,0,1,0,0,1,0,0,1,nessuna
+95,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Così filosofia fece Platone,",0,1,0,0,0,1,1,0,0,1,nessuna
+95,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"Aristotele e altri assai famosi,",0,0,1,0,0,1,0,1,0,1,nessuna
+95,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e Omero e Vergilio i versi loro.,0,0,1,0,0,1,0,1,0,1,nessuna
+95,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Oggi seria reputato un montone,1,0,0,1,0,0,1,0,0,1,nessuna
+95,-,13,sonetto,ABBA ABBA CDE CDE,-,11,chi torcesse el camin dalli studiosi,0,0,1,0,0,1,0,0,0,1,nessuna
+95,-,14,sonetto,ABBA ABBA CDE CDE,-,11,di perder tempo ad acquistar tesoro.,0,1,0,1,0,0,0,1,0,1,nessuna
+96,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Tanto ciascun ad acquistar tesoro,1,0,0,1,0,0,0,1,0,1,nessuna
+96,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"con ogni ingegno s'è rivolto e dato,",0,1,0,1,0,0,0,1,0,1,nessuna
+96,-,3,sonetto,ABBA ABBA CDE CDE,-,11,che quasi a dito per matto è mostrato,0,1,0,1,0,0,1,0,0,1,nessuna
+96,-,4,sonetto,ABBA ABBA CDE CDE,-,11,chi con virtù seguisce altro lavoro.,1,0,0,1,0,1,1,0,0,1,nessuna
+96,-,5,sonetto,ABBA ABBA CDE CDE,-,11,Per che constante stare infra costoro,0,1,0,1,0,1,1,0,0,1,nessuna
+96,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"oggi conviensi, nel mondo sviato,",1,0,0,1,0,0,1,0,0,1,nessuna
+96,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"a chi, come tu fosti, è infiammato,",0,1,1,0,0,1,0,0,0,1,nessuna
+96,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"Febo, del sacro e glorioso alloro.",1,0,0,1,0,0,0,1,0,1,nessuna
+96,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Ma perché tutto non può la virtute,0,0,1,1,0,0,1,0,0,1,nessuna
+96,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ciò che la vuol, senza divino aiuto,",1,0,0,1,1,0,0,1,0,1,nessuna
+96,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"a te ricorro, e prego mi sostegni",0,1,0,1,0,1,0,0,0,1,nessuna
+96,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"contr'alli venti avversi a mia salute,",1,0,0,1,0,1,0,0,0,1,nessuna
+96,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"e, dopo il giusto affanno, il già canuto",0,1,0,1,0,1,0,1,0,1,nessuna
+96,-,14,sonetto,ABBA ABBA CDE CDE,-,11,capo d'alloro incoronar ti degni.,1,0,0,1,0,0,0,1,0,1,nessuna
+97,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Sovra li fior vermigli e' capei d'oro,1,0,0,1,0,1,0,0,1,1,nessuna
+97,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"veder mi parve un foco alla Fiammetta,",0,1,0,1,0,1,0,0,0,1,nessuna
+97,-,3,sonetto,ABBA ABBA CDE CDE,-,11,e quel mutarsi in una nugoletta,0,1,0,1,0,1,0,0,0,1,nessuna
+97,-,4,sonetto,ABBA ABBA CDE CDE,-,11,lucida più che mai argento o oro.,1,0,0,1,0,1,0,1,0,1,nessuna
+97,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"E qual candida perla in anel d'oro,",0,1,1,0,0,1,0,0,1,1,nessuna
+97,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"tal si sedeva in quella un'angioletta,",1,0,0,1,0,1,0,0,0,1,nessuna
+97,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"voland'al cielo splendida e soletta,",0,1,0,1,0,1,0,0,0,1,nessuna
+97,-,8,sonetto,ABBA ABBA CDE CDE,-,11,d'oriental zafir vestita e d'oro.,0,0,0,1,0,1,0,1,0,1,nessuna
+97,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Io m'allegrai, alte cose sperando,",0,0,0,1,1,0,1,0,0,1,nessuna
+97,-,10,sonetto,ABBA ABBA CDE CDE,-,11,dov'io dovea conoscer che a Dio,0,1,0,1,0,1,0,0,0,1,nessuna
+97,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"in breve era madonna per salire,",0,1,1,0,0,1,0,0,0,1,nessuna
+97,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"come poi fu: ond'io qui, lagrimando,",1,0,1,1,0,1,1,0,0,1,nessuna
+97,-,13,sonetto,ABBA ABBA CDE CDE,-,11,rimaso sono in doglia e in desio,0,1,0,1,0,1,0,0,0,1,nessuna
+97,-,14,sonetto,ABBA ABBA CDE CDE,-,11,di morte per potere a lei salire.,0,1,0,0,0,1,0,1,0,1,nessuna
+98,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Parmi tal volta, riguardando il sole,",1,0,0,1,0,0,0,1,0,1,nessuna
+98,-,2,sonetto,ABBA ABBA CDE CDE,-,11,vederl'assai più che l'usato acceso;,0,1,0,1,1,0,0,1,0,1,nessuna
+98,-,3,sonetto,ABBA ABBA CDE CDE,-,11,per ch'io con meco dico: - Forse esteso,0,1,0,1,0,1,0,1,0,1,nessuna
+98,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"si siede in quello il mio fervente sole,",0,1,0,1,0,1,0,1,0,1,nessuna
+98,-,5,sonetto,ABBA ABBA CDE CDE,-,11,il quale agli occhi miei sempre fu sole,0,1,0,1,0,1,1,0,0,1,nessuna
+98,-,6,sonetto,ABBA ABBA CDE CDE,-,11,poscia ch'io fui ne' lacci d'amor preso;,1,0,0,1,0,1,0,0,1,1,nessuna
+98,-,7,sonetto,ABBA ABBA CDE CDE,-,11,per certo ei v'è: però di tanto peso,0,1,0,1,0,1,0,1,0,1,nessuna
+98,-,8,sonetto,ABBA ABBA CDE CDE,-,11,son ora e raggi di quest'altro sole -.,0,1,0,1,0,0,0,1,0,1,nessuna
+98,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E sì nel cor s'impronta esto pensero,",0,1,0,1,0,1,1,0,0,1,nessuna
+98,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"che mi pare veder, guardando in esso,",0,0,1,0,0,1,0,1,0,1,nessuna
+98,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"sì come aquila face, intento e fiso,",0,1,1,0,0,1,0,1,0,1,nessuna
+98,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"la fiamma mia, e d'essa assai intero",0,1,0,1,0,1,0,1,0,1,nessuna
+98,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"ogni contegno, e conoscer da presso",1,0,0,1,0,0,1,0,0,1,nessuna
+98,-,14,sonetto,ABBA ABBA CDE CDE,-,11,li capei d'oro e crespi e il bel viso.,0,0,1,1,0,1,0,0,0,1,nessuna
+99,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Dormendo, un giorno, in sonno mi parea",0,1,0,1,0,1,0,0,0,1,nessuna
+99,-,2,sonetto,ABBA ABBA CDE CDE,-,11,quasi pennuto volar verso il cielo,1,0,0,1,0,0,1,1,0,1,nessuna
+99,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"drieto all'orme di quella, il cui bel velo",1,0,1,0,0,1,0,1,0,1,nessuna
+99,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"cenere è fatto, e ella è fatta dea.",1,0,0,1,0,1,0,1,0,1,nessuna
+99,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Quivi sì vaga e lieta la vedea,",1,0,0,1,0,1,0,0,0,1,nessuna
+99,-,6,sonetto,ABBA ABBA CDE CDE,-,11,ch'arder mi parve di più caldo gelo,1,0,0,1,0,0,0,1,0,1,nessuna
+99,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"ch'io non solea, e dileguarsi il gelo",0,0,0,1,0,0,0,1,0,1,nessuna
+99,-,8,sonetto,ABBA ABBA CDE CDE,-,11,ch'in pianto doloroso mi tenea.,0,1,0,0,0,1,0,0,0,1,nessuna
+99,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E, guardando, l'angelica figura",0,0,1,0,0,1,0,0,0,1,nessuna
+99,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"la man distese, come se volesse",0,1,0,1,0,1,0,0,0,1,nessuna
+99,-,11,sonetto,ABBA ABBA CDE CDE,-,11,prender la mia; e io mi risvegliai.,1,0,0,1,0,1,0,0,0,1,nessuna
+99,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Oh quanta fu la mia disavventura!,0,1,0,1,0,1,0,0,0,1,nessuna
+99,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"Chi sa, se ella allor preso m'avesse,",0,1,0,1,0,1,1,0,0,1,nessuna
+99,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e s'io quaggiù più ritornava mai?,0,1,0,1,1,0,0,1,0,1,nessuna
+100,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Se la fiamma degli occhi, ch'or son santi",0,0,1,0,0,1,0,1,0,1,nessuna
+100,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"e che per me fur dardi e poi catene,",0,0,0,1,0,1,0,1,0,1,nessuna
+100,-,3,sonetto,ABBA ABBA CDE CDE,-,11,mortificasse alquanto le mia pene,0,0,0,1,0,1,0,0,0,1,nessuna
+100,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"e rasciugasse e grevi e lunghi pianti,",0,0,0,1,0,1,0,1,0,1,nessuna
+100,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"io udirei quelli angelici canti,",0,0,0,1,0,0,1,0,0,1,nessuna
+100,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"ch'ode chi vede il sommo e vero Bene,",1,0,0,1,0,1,0,1,0,1,nessuna
+100,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"né vagando anderei drieto alla spene,",0,0,1,0,0,1,1,0,0,1,nessuna
+100,-,8,sonetto,ABBA ABBA CDE CDE,-,11,ch'in questa vita molti ne fa erranti.,0,1,0,1,0,1,0,0,1,1,nessuna
+100,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma essa, eterna, le cose mortali",0,1,0,1,0,0,1,0,0,1,nessuna
+100,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"disdegna, e ride del pensier fallace,",0,1,0,1,0,0,0,1,0,1,nessuna
+100,-,11,sonetto,ABBA ABBA CDE CDE,-,11,che mi sospinge dov'ognor più ardo;,0,0,0,1,0,0,0,1,0,1,nessuna
+100,-,12,sonetto,ABBA ABBA CDE CDE,-,11,per che temo che mai alle mia ali,0,0,1,0,0,1,0,0,0,1,nessuna
+100,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"non verran penne, che a tanta pace",0,0,1,1,0,0,0,1,0,1,nessuna
+100,-,14,sonetto,ABBA ABBA CDE CDE,-,11,levar mi possan dal mondo bugiardo.,0,1,0,1,0,0,1,0,0,1,nessuna
+101,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"- Che cerchi, stolto? che dintorno miri?",0,1,0,1,0,1,0,1,0,1,nessuna
+101,-,2,sonetto,ABBA ABBA CDE CDE,-,11,cenere sparta son le membra in ch'io,1,0,0,1,0,1,0,1,0,1,nessuna
+101,-,3,sonetto,ABBA ABBA CDE CDE,-,11,piacqui già tanto al tuo caldo desio,1,0,1,1,0,0,1,0,0,1,nessuna
+101,-,4,sonetto,ABBA ABBA CDE CDE,-,11,e mossi il petto ai pietosi desiri.,0,1,0,1,0,0,1,0,0,1,nessuna
+101,-,5,sonetto,ABBA ABBA CDE CDE,-,11,Perché non lievi gli occhi agli alti giri?,0,1,0,1,0,1,0,1,0,1,nessuna
+101,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"Io dico al ciel, anz'al regno di Dio,",0,1,0,1,1,0,1,0,0,1,nessuna
+101,-,7,sonetto,ABBA ABBA CDE CDE,-,11,dove più bel che mai il viso mio,1,0,0,1,0,1,0,1,0,1,nessuna
+101,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"veder potrai, e pien de' tuoi desiri -.",0,1,0,1,0,1,0,0,0,1,nessuna
+101,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Così con meco talora ragiona,0,1,0,1,0,0,1,0,0,1,nessuna
+101,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"la bella donna, vedendo cercarmi",0,1,0,1,0,0,1,0,0,1,nessuna
+101,-,11,sonetto,ABBA ABBA CDE CDE,-,11,quel che giammai quaggiù veder non deggio.,1,0,0,1,0,1,0,1,0,1,nessuna
+101,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Ma come ravveduto m'abbandona,",0,1,0,0,0,1,0,0,0,1,nessuna
+101,-,13,sonetto,ABBA ABBA CDE CDE,-,11,piangendo penso come qui impennarmi,0,1,0,1,0,1,0,1,0,1,nessuna
+101,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"possa, e volar al suo beato seggio.",1,0,0,1,0,0,0,1,0,1,nessuna
+102,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Dante, se tu nell'amorosa spera,",1,0,0,1,0,0,0,1,0,1,nessuna
+102,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"com'io credo, dimori riguardando",0,0,1,0,0,1,0,0,0,1,nessuna
+102,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"la bella Bice, la qual già cantando",0,1,0,1,0,0,1,1,0,1,nessuna
+102,-,4,sonetto,ABBA ABBA CDE CDE,-,11,altra volta ti trasse là dov'era:,1,0,1,0,0,1,0,1,0,1,nessuna
+102,-,5,sonetto,ABBA ABBA CDE CDE,-,11,se per cambiar fallace vita a vera,0,0,0,1,0,1,0,1,0,1,nessuna
+102,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"amor non se n'oblia, io ti domando",0,1,0,0,0,1,1,0,0,1,nessuna
+102,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"per lei, di grazia, ciò che, contemplando,",0,1,0,1,0,1,0,0,0,1,nessuna
+102,-,8,sonetto,ABBA ABBA CDE CDE,-,11,a far ti fia assai cosa leggiera.,0,1,0,1,0,1,1,0,0,1,nessuna
+102,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Io so che, infra l'altre anime liete",0,1,0,1,0,1,1,0,0,1,nessuna
+102,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"del terzo ciel, la mia Fiammetta vede",0,1,0,1,0,0,0,1,0,1,nessuna
+102,-,11,sonetto,ABBA ABBA CDE CDE,-,11,l'affanno mio dopo la sua partita:,0,1,0,1,1,0,0,1,0,1,nessuna
+102,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"pregala, se 'l gustar dolce di Lete",1,0,0,0,0,1,1,0,0,1,nessuna
+102,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"non la m'ha tolta, in luogo di merzede",0,0,0,1,0,1,0,0,0,1,nessuna
+102,-,14,sonetto,ABBA ABBA CDE CDE,-,11,a sé m'impetri tosto la salita.,0,1,0,1,0,1,0,0,0,1,nessuna
+103,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Era sereno il ciel, di stelle adorno,",1,0,0,1,0,1,0,1,0,1,nessuna
+103,-,2,sonetto,ABBA ABBA CDE CDE,-,11,e i venti tutti nelle lor caverne,0,1,0,1,0,0,0,1,0,1,nessuna
+103,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"posavono, e le nuvolette alterne",0,1,0,0,0,0,0,1,0,1,nessuna
+103,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"resolute eron tutte intorno intorno,",0,0,1,0,0,1,0,1,0,1,nessuna
+103,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"quand'una fiamma più chiara che 'l giorno,",1,0,0,1,0,0,1,0,0,1,nessuna
+103,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"rimirand'io alle cose superne,",0,0,1,1,0,0,1,0,0,1,nessuna
+103,-,7,sonetto,ABBA ABBA CDE CDE,-,11,veder mi parve per le strade eterne,0,1,0,1,0,0,0,1,0,1,nessuna
+103,-,8,sonetto,ABBA ABBA CDE CDE,-,11,volando fare al suo loco ritorno;,0,1,0,1,0,0,1,0,0,1,nessuna
+103,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"e di quella ver me nascer parole,",0,0,1,0,0,1,1,0,0,1,nessuna
+103,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"le quai dicien: - Chi meco esser desia,",0,1,0,1,0,1,1,0,0,1,nessuna
+103,-,11,sonetto,ABBA ABBA CDE CDE,-,11,benign'esser convien e ubidiente,0,1,1,0,0,1,0,0,0,1,nessuna
+103,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"e d'umiltà vestito; e, s'altro vuole",0,0,0,1,0,1,0,1,0,1,nessuna
+103,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"cammin tener, giammai meco non fia",0,1,0,1,0,1,1,0,0,1,nessuna
+103,-,14,sonetto,ABBA ABBA CDE CDE,-,11,nel sacro regno della lieta gente -.,0,1,0,1,0,0,0,1,0,1,nessuna
+104,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Le rime, le quai già fece sonore",0,1,0,0,0,1,1,0,0,1,nessuna
+104,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"la voce giovinil ne' vaghi orecchi,",0,1,0,0,0,1,0,1,0,1,nessuna
+104,-,3,sonetto,ABBA ABBA CDE CDE,-,11,e che movien de' mia pensier parecchi,0,0,0,1,0,0,0,1,0,1,nessuna
+104,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"a quel desio che m'infiammava il core,",0,1,0,1,0,0,0,1,0,1,nessuna
+104,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"scrivendole come dettava Amore,",0,1,0,0,1,0,0,1,0,1,nessuna
+104,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"han fatto chiocce gli anni gravi e vecchi,",0,1,0,1,0,1,0,1,0,1,nessuna
+104,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"poscia che morte ruppe quelli specchi,",1,0,0,1,0,1,0,1,0,1,nessuna
+104,-,8,sonetto,ABBA ABBA CDE CDE,-,11,da' quai forza prendea lo mio vigore.,0,1,1,0,0,1,0,0,0,1,nessuna
+104,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E, come il viso angelico tornossi",0,1,0,1,0,1,0,0,0,1,nessuna
+104,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"al regno là, dond'era a noi venuto",0,1,0,1,0,1,0,1,0,1,nessuna
+104,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"per farne fede dell'altrui bellezza,",0,1,0,1,0,0,0,1,0,1,nessuna
+104,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"e i passi miei di drieto a lui fur mossi,",0,1,0,1,0,1,0,1,0,1,nessuna
+104,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"né rima poi né verso m'è piaciuto,",0,1,0,1,0,1,0,0,0,1,nessuna
+104,-,14,sonetto,ABBA ABBA CDE CDE,-,11,né altro che 'l seguir la sua altezza.,0,1,0,0,0,1,0,1,0,1,nessuna
+105,-,1,sonetto,ABBA ABBA CDE DCE,-,11,D'Omero non poté 'l celeste ingegno,0,1,0,0,0,1,0,1,0,1,nessuna
+105,-,2,sonetto,ABBA ABBA CDE DCE,-,11,"a pien mostrar d'Elèna 'l vago riso,",0,1,0,1,0,1,0,1,0,1,nessuna
+105,-,3,sonetto,ABBA ABBA CDE DCE,-,11,"né Zeusi, dopo, l'alt'e bel diviso,",0,1,0,1,0,1,0,1,0,1,nessuna
+105,-,4,sonetto,ABBA ABBA CDE DCE,-,11,quantunque avesse di molte il disegno:,0,1,0,1,0,0,1,0,0,1,nessuna
+105,-,5,sonetto,ABBA ABBA CDE DCE,-,11,"e però contro a me stesso non sdegno,",0,0,1,1,0,0,1,0,0,1,nessuna
+105,-,6,sonetto,ABBA ABBA CDE DCE,-,11,se 'l glorioso ben di paradiso,0,0,0,1,0,1,0,0,0,1,nessuna
+105,-,7,sonetto,ABBA ABBA CDE DCE,-,11,"scriver non so, né l'angelico viso,",1,0,0,1,0,0,1,0,0,1,nessuna
+105,-,8,sonetto,ABBA ABBA CDE DCE,-,11,c'ha 'l mio cor seco nel celeste regno.,1,0,1,1,0,0,0,1,0,1,nessuna
+105,-,9,sonetto,ABBA ABBA CDE DCE,-,11,"Ma chi desia veder quella bellezza,",0,1,0,1,0,1,1,0,0,1,nessuna
+105,-,10,sonetto,ABBA ABBA CDE DCE,-,11,"che sola tenne in la vita mortale,",0,1,0,1,0,0,1,0,0,1,nessuna
+105,-,11,sonetto,ABBA ABBA CDE DCE,-,11,"d'uom non aspetti alcun dimostramento,",1,0,0,1,0,1,0,0,0,1,nessuna
+105,-,12,sonetto,ABBA ABBA CDE DCE,-,11,ma di sacra virtù s'impenni l'ale,0,0,1,0,0,1,0,1,0,1,nessuna
+105,-,13,sonetto,ABBA ABBA CDE DCE,-,11,e su sen voli in la suprema altezza:,0,1,0,1,0,0,0,1,0,1,nessuna
+105,-,14,sonetto,ABBA ABBA CDE DCE,-,11,lì la vedrà e rimarrà contento.,1,0,0,1,0,0,0,1,0,1,nessuna
+106,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Sì acces'e fervente è il mio desio,0,0,1,0,0,1,0,0,0,1,nessuna
+106,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"di seguitar colei, che quivi in terra",0,0,0,1,0,1,0,1,0,1,nessuna
+106,-,3,sonetto,ABBA ABBA CDE CDE,-,11,con il suo altero sdegno mi fé guerra,0,0,0,1,0,1,0,0,0,1,nessuna
+106,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"infin allor ch'al ciel se ne salio,",0,1,0,1,0,1,0,0,0,1,nessuna
+106,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"che, non ch'altri, ma me metto in oblio:",0,0,1,0,0,1,1,0,0,1,nessuna
+106,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"e parmi nel pensier, che sovent'erra,",0,1,0,0,0,1,0,0,1,1,nessuna
+106,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"quella gravezza perder che m'atterra,",1,0,0,1,0,1,0,0,0,1,nessuna
+106,-,8,sonetto,ABBA ABBA CDE CDE,-,11,e quasi uccel levarmi verso Dio:,0,1,0,1,0,1,0,1,0,1,nessuna
+106,-,9,sonetto,ABBA ABBA CDE CDE,-,11,e trapassar le spere e pervenire,0,0,0,1,0,1,0,0,0,1,nessuna
+106,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"davanti al divin trono, infra i beati,",0,1,0,0,1,1,0,0,0,1,nessuna
+106,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"e lei veder, che seguirla mi face,",0,1,0,1,0,0,1,0,0,1,nessuna
+106,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"sì bella, ch'io non so poscia ridire,",0,1,0,0,0,1,1,0,0,1,nessuna
+106,-,13,sonetto,ABBA ABBA CDE CDE,-,11,quando ne' luoghi lor son ritornati,1,0,0,1,0,1,0,0,0,1,nessuna
+106,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"gli spiriti, che van cercando pace.",0,1,0,0,0,1,0,1,0,1,nessuna
+107,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Mentre sperai e l'uno e l'altro collo,1,0,0,1,0,1,0,1,0,1,nessuna
+107,-,2,sonetto,ABBA ABBA CDE CDE,-,11,transcender di Parnaso e ber dell'onde,0,1,0,0,0,1,0,1,0,1,nessuna
+107,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"del castalio fonte e delle fronde,",0,0,1,0,0,1,0,0,0,1,nessuna
+107,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"che già più ch'altre piacquero ad Apollo,",0,1,0,1,0,1,0,0,0,1,nessuna
+107,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"adornarmi le tempie, umil rampollo",0,0,1,0,0,1,0,1,0,1,nessuna
+107,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"de' dicitori antichi, alle gioconde",0,0,0,1,0,1,0,0,0,1,nessuna
+107,-,7,sonetto,ABBA ABBA CDE CDE,-,11,rime mi diedi; e ben che men profonde,1,0,0,1,0,1,0,1,0,1,nessuna
+107,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"fosser, canta'ne in stil leggiero e sollo.",1,0,0,1,0,1,0,1,0,1,nessuna
+107,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ma poscia che 'l cammino aspro e selvaggio,",0,1,0,0,0,1,1,0,0,1,nessuna
+107,-,10,sonetto,ABBA ABBA CDE CDE,-,11,e gli anni miei già faticati e bianchi,0,1,0,1,1,0,0,1,0,1,nessuna
+107,-,11,sonetto,ABBA ABBA CDE CDE,-,11,"tolser la speme del sù pervenire,",1,0,0,1,0,0,1,0,0,1,nessuna
+107,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"vinto, lasciai la speme del viaggio,",1,0,0,1,0,1,0,0,0,1,nessuna
+107,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"le rime e i versi e i miei pensieri stanchi,",0,1,0,1,0,0,0,1,0,1,nessuna
+107,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"ond'or non so, com'io solea già, dire.",0,1,0,1,0,1,0,1,0,1,nessuna
+108,-,1,sonetto,ABBA ABBA CDE DEC,-,11,Il vivo fonte di Parnaso e quelle,0,1,0,1,0,0,0,1,0,1,nessuna
+108,-,2,sonetto,ABBA ABBA CDE DEC,-,11,"frondi, che furn'ad Appollo più care,",1,0,0,1,0,0,1,0,0,1,nessuna
+108,-,3,sonetto,ABBA ABBA CDE DEC,-,11,m'ha fatto lungo tempo Amor cercare,0,1,0,1,0,1,0,1,0,1,nessuna
+108,-,4,sonetto,ABBA ABBA CDE DEC,-,11,"driet'alla guida delle vaghe stelle,",1,0,0,1,0,0,0,1,0,1,nessuna
+108,-,5,sonetto,ABBA ABBA CDE DEC,-,11,che fra l'ombre salvatiche le belle,0,0,1,0,0,1,0,0,0,1,nessuna
+108,-,6,sonetto,ABBA ABBA CDE DEC,-,11,Muse già fer molte volte cantare;,1,0,0,1,1,0,1,0,0,1,nessuna
+108,-,7,sonetto,ABBA ABBA CDE DEC,-,11,né m'ha voluto fortuna prestare,1,0,0,1,0,0,1,0,0,1,nessuna
+108,-,8,sonetto,ABBA ABBA CDE DEC,-,11,d'esser potuto pervenire ad elle.,1,0,0,1,0,0,0,1,0,1,nessuna
+108,-,9,sonetto,ABBA ABBA CDE DEC,-,11,"Credo n'ha colpa il mio debil ingegno,",1,0,0,1,0,0,1,0,0,1,nessuna
+108,-,10,sonetto,ABBA ABBA CDE DEC,-,11,"ch'alzar non può a vol sì alto l'ale,",0,1,0,1,0,1,0,1,0,1,nessuna
+108,-,11,sonetto,ABBA ABBA CDE DEC,-,11,e non ha già studio o tempo perduto.,0,0,0,1,1,0,1,0,0,1,nessuna
+108,-,12,sonetto,ABBA ABBA CDE DEC,-,11,"Darò dunche riposo all'alma frale,",0,1,1,0,0,1,0,1,0,1,nessuna
+108,-,13,sonetto,ABBA ABBA CDE DEC,-,11,e mi dorrò di non aver potuto,0,0,0,1,0,0,0,1,0,1,nessuna
+108,-,14,sonetto,ABBA ABBA CDE DEC,-,11,"di quelle farmi, faticando, degno.",0,1,0,1,0,0,0,1,0,1,nessuna
+109,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Dura cosa è e orribile assai,1,0,1,1,0,0,1,0,0,1,nessuna
+109,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"la morte ad aspettare e paurosa,",0,1,0,0,0,1,0,0,0,1,nessuna
+109,-,3,sonetto,ABBA ABBA CDE CDE,-,11,ma così certa e infallibil cosa,0,0,0,1,0,0,0,1,0,1,nessuna
+109,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"né fu né è né, credo, sarà mai;",0,1,0,1,0,1,0,0,1,1,nessuna
+109,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"e 'l corso della vita è breve, ch'hai,",0,1,0,0,0,1,0,1,0,1,nessuna
+109,-,6,sonetto,ABBA ABBA CDE CDE,-,11,e volger non si può né dargli posa;,0,1,0,0,0,1,0,1,0,1,nessuna
+109,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"né qui si vede cosa sì gioiosa,",0,1,0,1,0,1,0,0,0,1,nessuna
+109,-,8,sonetto,ABBA ABBA CDE CDE,-,11,che 'l suo fine non sia lagrime e guai.,0,0,0,1,0,1,1,0,0,1,nessuna
+109,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Dunque perché con operar valore,1,0,0,1,0,0,0,1,0,1,nessuna
+109,-,10,sonetto,ABBA ABBA CDE CDE,-,11,non c'ingegniamo di stender la fama,0,0,0,1,0,0,1,0,0,1,nessuna
+109,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e con quella far lunghi e brevi giorni?,0,0,1,0,0,1,0,1,0,1,nessuna
+109,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Questa ne dà, questa ne serva onore,",1,0,0,1,1,0,0,1,0,1,nessuna
+109,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"questa ne lieva degli anni la squama,",1,0,0,1,0,0,1,0,0,1,nessuna
+109,-,14,sonetto,ABBA ABBA CDE CDE,-,11,questa ne fa di lunga vita adorni.,1,0,0,1,0,1,0,1,0,1,nessuna
+110,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Assai sem raggirati in alto mare,",0,1,0,0,0,1,0,1,0,1,nessuna
+110,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"e quanto possan gli empiti de' venti,",0,1,0,1,0,1,0,0,0,1,nessuna
+110,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"l'onde commosse e i fier accidenti,",1,0,0,1,0,0,1,0,0,1,nessuna
+110,-,4,sonetto,ABBA ABBA CDE CDE,-,11,provat'abbiamo; né già il navicare,0,1,0,1,0,0,1,0,0,1,nessuna
+110,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"alcun segno, con vela o con vogare,",0,1,1,0,0,1,0,0,0,1,nessuna
+110,-,6,sonetto,ABBA ABBA CDE CDE,-,11,scampati ci ha dai perigli eminenti,0,1,0,1,0,0,1,0,0,1,nessuna
+110,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"fra' duri scogli e le secche latenti,",0,1,0,1,0,0,1,0,0,1,nessuna
+110,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"ma sol Colui che, ciò che vuol, può fare.",0,1,0,1,0,0,0,1,0,1,nessuna
+110,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Tempo è omai da reducersi in porto,1,1,0,1,0,0,1,0,0,1,nessuna
+110,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"e l'ancore fermare a quella pietra,",0,1,0,0,0,1,0,1,0,1,nessuna
+110,-,11,sonetto,ABBA ABBA CDE CDE,-,11,che del tempio congiunse e dua parieti;,0,0,1,0,0,1,0,1,0,1,nessuna
+110,-,12,sonetto,ABBA ABBA CDE CDE,-,11,quivi aspettar el fin del viver corto,1,0,0,1,0,1,0,1,0,1,nessuna
+110,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"nell'amor di Colui, da cui s'impetra",0,0,1,0,0,1,0,1,0,1,nessuna
+110,-,14,sonetto,ABBA ABBA CDE CDE,-,11,con umiltà la vita de' quieti.,0,0,0,1,0,1,0,0,0,1,nessuna
+111,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Quante fiate indrieto mi rimiro,",1,0,0,1,0,1,0,0,0,1,nessuna
+111,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"m'accorgo e veggio ch'io ho trapassato,",0,1,0,1,0,0,1,0,0,1,nessuna
+111,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"forse perduto e male adoperato,",1,0,0,1,0,1,0,0,0,1,nessuna
+111,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"seguendo in compiacermi alcun desiro,",0,1,0,0,0,1,0,1,0,1,nessuna
+111,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"tante con meco dolente m'adiro,",1,0,0,1,0,0,1,0,0,1,nessuna
+111,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"sentendo quel, ch'a tutti sol n'è dato,",0,1,0,1,0,1,0,1,0,1,nessuna
+111,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"esser così fuggito, anzi cacciato",1,0,0,1,0,1,1,0,0,1,nessuna
+111,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"da me, che ora indarno ne sospiro.",0,1,0,1,0,1,0,0,0,1,nessuna
+111,-,9,sonetto,ABBA ABBA CDE CDE,-,11,E so s'è conceduto che' mia danni,0,1,0,0,0,1,0,0,0,1,nessuna
+111,-,10,sonetto,ABBA ABBA CDE CDE,-,11,ristorar possa ancor di bel soggiorno,0,0,1,1,0,1,0,1,0,1,nessuna
+111,-,11,sonetto,ABBA ABBA CDE CDE,-,11,in questa vita labile e meschina?,0,1,0,1,0,1,0,0,0,1,nessuna
+111,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Perché passato è l'arco de' mia anni,",0,1,0,1,0,1,0,0,0,1,nessuna
+111,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"e ritornar non posso al primo giorno,",0,0,0,1,0,1,0,1,0,1,nessuna
+111,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e l'ultimo già veggio s'avicina.,0,1,0,0,0,1,0,0,0,1,nessuna
+112,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"Fuggesi il tempo, e 'l misero dolente,",1,0,0,1,0,1,0,0,0,1,nessuna
+112,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"a cui si presta ad acquistar virtute,",0,1,0,1,0,0,0,1,0,1,nessuna
+112,-,3,sonetto,ABBA ABBA CDC DCD,-,11,"fama perenne e eterna salute,",1,0,0,1,0,0,1,0,0,1,nessuna
+112,-,4,sonetto,ABBA ABBA CDC DCD,-,11,el danno irreparabile non sente;,0,1,0,0,0,1,0,0,0,1,nessuna
+112,-,5,sonetto,ABBA ABBA CDC DCD,-,11,ma neghittoso forma nella mente,0,0,0,1,0,1,0,0,0,1,nessuna
+112,-,6,sonetto,ABBA ABBA CDC DCD,-,11,cagion all'ozio e scusa alle perdute,0,1,0,1,0,1,0,0,0,1,nessuna
+112,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"doti, le quai poi tardi conosciute",1,0,0,1,0,1,0,0,0,1,nessuna
+112,-,8,sonetto,ABBA ABBA CDC DCD,-,11,"piange, tapino, e senza pro si pente.",1,0,0,1,0,1,0,1,0,1,nessuna
+112,-,9,sonetto,ABBA ABBA CDC DCD,-,11,Surge col sol la piccola formica,1,0,0,1,0,1,0,0,0,1,nessuna
+112,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"nel tempo estivo, e si raguna l'esca,",0,1,0,1,0,0,0,1,0,1,nessuna
+112,-,11,sonetto,ABBA ABBA CDC DCD,-,11,di che nel fredd'avverso si nutrica.,0,1,0,1,0,1,0,0,0,1,nessuna
+112,-,12,sonetto,ABBA ABBA CDC DCD,-,11,Al negligente sempre par ch'incresca:,0,0,0,1,0,1,0,1,0,1,nessuna
+112,-,13,sonetto,ABBA ABBA CDC DCD,-,11,"onde nel verno muore, o ch'ei mendica,",1,0,0,1,0,1,0,1,0,1,nessuna
+112,-,14,sonetto,ABBA ABBA CDC DCD,-,11,e spesse volte senza lenza pesca.,0,1,0,1,0,1,0,1,0,1,nessuna
+113,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Fassi davanti a noi il sommo Bene,1,0,0,1,0,1,0,1,0,1,nessuna
+113,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"col gremb'aperto e pien de' suoi tesori,",0,1,0,1,0,1,0,0,0,1,nessuna
+113,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"e, acciò che ciascun se n'innamori,",0,0,1,0,0,1,0,0,0,1,nessuna
+113,-,4,sonetto,ABBA ABBA CDE CDE,-,11,a monstrar quali e' son sovente viene;,0,0,1,1,0,1,0,1,0,1,nessuna
+113,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"e de signor amico ne diviene,",0,0,0,1,0,1,0,0,0,1,nessuna
+113,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"s'aprir vogliangli i nostri freddi cuori,",0,1,0,1,0,1,0,1,0,1,nessuna
+113,-,7,sonetto,ABBA ABBA CDE CDE,-,11,e spira quinci e quindi e santi ardori,0,1,0,1,0,1,0,1,0,1,nessuna
+113,-,8,sonetto,ABBA ABBA CDE CDE,-,11,a raffrenar le colpe e tor le pene.,0,0,0,1,0,1,0,1,0,1,nessuna
+113,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E noi, protervi ritrosi e selvaggi,",0,1,0,1,0,0,1,0,0,1,nessuna
+113,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ci ritraiam indrieto, e al fallace",0,0,0,1,0,1,0,0,0,1,nessuna
+113,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ben temporale ostinati crediamo:,1,0,0,1,0,0,1,0,0,1,nessuna
+113,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"dal qual menati per falsi viaggi,",0,1,0,1,0,0,1,0,0,1,nessuna
+113,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"perdian, miseri noi, l'eterna pace,",0,1,1,0,0,1,0,1,0,1,nessuna
+113,-,14,sonetto,ABBA ABBA CDE CDE,-,11,e nel foco perpetuo caggiamo.,0,0,1,0,0,1,0,0,0,1,nessuna
+114,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Volgiti, spirto affaticato, omai,",1,0,0,1,0,0,0,1,0,1,nessuna
+114,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"volgiti, e vedi dove sei trascorso,",1,0,0,1,0,1,0,1,0,1,nessuna
+114,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"del desio folle seguitando 'l corso,",0,0,1,1,0,0,0,1,0,1,nessuna
+114,-,4,sonetto,ABBA ABBA CDE CDE,-,11,e col piè nella fossa ti vedrai.,0,0,1,0,0,1,0,0,0,1,nessuna
+114,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Prima che caggi, svegliati; che fai?",1,0,0,1,0,1,0,0,0,1,nessuna
+114,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"torna a Colui, il quale il ver soccorso",1,0,0,1,0,1,0,1,0,1,nessuna
+114,-,7,sonetto,ABBA ABBA CDE CDE,-,11,a chi vuol presta e libera dal morso,0,0,1,1,0,1,0,0,0,1,nessuna
+114,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"della morte dolente, alla qual vai.",0,0,1,0,0,1,0,0,1,1,nessuna
+114,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Ritorna a Lui, e l'ultimo tuo tempo",0,1,0,1,0,1,0,0,0,1,nessuna
+114,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"concedi almeno al Suo piacer, piangendo",0,1,0,1,0,1,0,1,0,1,nessuna
+114,-,11,sonetto,ABBA ABBA CDE CDE,-,11,l'opere mal commesse nel passato.,1,0,0,0,0,1,0,0,0,1,nessuna
+114,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Né ti spaventi il non andar per tempo,",1,0,0,1,0,0,0,1,0,1,nessuna
+114,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"ch'Ei ti riceverà, ver te facendo",0,1,0,0,0,1,0,1,0,1,nessuna
+114,-,14,sonetto,ABBA ABBA CDE CDE,-,11,quel che già fece all'ultimo locato.,1,0,0,1,0,1,0,0,0,1,nessuna
+115,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"O Sol, ch'allumi l'un'e l'altra vita,",0,1,0,1,0,1,0,1,0,1,nessuna
+115,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"e dentro al pugno tuo richiudi il mondo,",0,1,0,1,0,1,0,1,0,1,nessuna
+115,-,3,sonetto,ABBA ABBA CDE CDE,-,11,poi non ti parve grave il mortal pondo,1,0,0,1,0,1,0,0,1,1,nessuna
+115,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"per ritornarci nella via smarrita,",0,0,0,1,0,0,0,1,0,1,nessuna
+115,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"se pietos'orazion fu mai udita,",0,0,1,0,0,1,0,1,0,1,nessuna
+115,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"ch'al ciel venisse a te da questo fondo,",0,1,0,1,0,1,0,1,0,1,nessuna
+115,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"a me, che 'l mio bisogno non ascondo,",0,1,0,0,0,1,0,0,0,1,nessuna
+115,-,8,sonetto,ABBA ABBA CDE CDE,-,11,presta i benign'orecchi e sì m'aita.,1,0,0,1,0,1,0,1,0,1,nessuna
+115,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"Io ho, seguendo gli terren diletti",0,1,0,1,0,0,0,1,0,1,nessuna
+115,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"e i tuo' comandamenti non curando,",0,1,0,0,0,1,0,0,0,1,nessuna
+115,-,11,sonetto,ABBA ABBA CDE CDE,-,11,offeso spesso la tua maiestade:,0,1,0,1,0,0,1,0,0,1,nessuna
+115,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"or mi ravveggio, come tu permetti,",1,0,0,1,0,1,0,1,0,1,nessuna
+115,-,13,sonetto,ABBA ABBA CDE CDE,-,11,e di tuo corte mi conosco in bando;,0,0,0,1,0,0,0,1,0,1,nessuna
+115,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"però, di grazia, addomando pietade.",0,1,0,1,0,0,1,0,0,1,nessuna
+116,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"O glorioso Re, che 'l ciel governi",1,0,0,1,0,1,0,1,0,1,nessuna
+116,-,2,sonetto,ABBA ABBA CDE CDE,-,11,con eterna ragione e de' mortali,0,0,1,0,0,1,0,0,0,1,nessuna
+116,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"sol conosci le menti, e quant'e quali",1,0,1,0,0,1,0,1,0,1,nessuna
+116,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"e nostri pensier sien chiaro discerni,",0,1,0,0,1,1,1,0,0,1,nessuna
+116,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"deh volgiti ver me, se tu non sperni",0,1,0,0,0,1,0,1,0,1,nessuna
+116,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"gli umili prieghi, e l'affezion carnali",1,0,0,1,0,0,0,1,0,1,nessuna
+116,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"da me rimuovi e sì m'impenna l'ali,",0,1,0,1,0,1,0,1,0,1,nessuna
+116,-,8,sonetto,ABBA ABBA CDE CDE,-,11,che io possa volare a' beni eterni.,0,0,1,0,0,1,0,1,0,1,nessuna
+116,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Lieva dagli occhi mia l'oscuro velo,1,0,0,1,0,1,0,1,0,1,nessuna
+116,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"che veder non mi lascia lo mio errore,",0,0,1,0,0,1,0,0,0,1,nessuna
+116,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e me sviluppa dal piacer fallace;,0,1,0,1,0,0,0,1,0,1,nessuna
+116,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"caccia dal petto mio il mortal gelo,",1,0,0,1,0,1,0,0,1,1,nessuna
+116,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"e quell'accendi sì del tuo valore,",0,1,0,1,0,1,0,0,0,1,nessuna
+116,-,14,sonetto,ABBA ABBA CDE CDE,-,11,che io di qui ne vegna alla tua pace.,0,1,0,1,0,1,0,0,0,1,nessuna
+117,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Non treccia d'oro, non d'occhi vaghezza,",0,1,0,1,0,0,1,0,0,1,nessuna
+117,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"non costume real, non leggiadria,",0,0,1,0,0,1,0,0,0,1,nessuna
+117,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"non giovanett'età, non melodia,",0,0,0,1,0,1,0,0,0,1,nessuna
+117,-,4,sonetto,ABBA ABBA CDE CDE,-,11,non angelico aspetto né bellezza,0,0,1,0,0,1,0,0,0,1,nessuna
+117,-,5,sonetto,ABBA ABBA CDE CDE,-,11,poté tirar dalla sovran'altezza,0,1,0,1,0,0,0,1,0,1,nessuna
+117,-,6,sonetto,ABBA ABBA CDE CDE,-,11,il Re del cielo in questa vita ria,0,1,0,1,0,1,0,1,0,1,nessuna
+117,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"ad incarnar in te, dolce Maria,",0,0,0,1,0,1,1,0,0,1,nessuna
+117,-,8,sonetto,ABBA ABBA CDE CDE,-,11,Madre di grazia e specchio d'allegrezza;,1,0,0,1,0,1,0,0,0,1,nessuna
+117,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"ma l'umilità tua, la qual fu tanta,",0,0,0,0,1,1,0,1,0,1,nessuna
+117,-,10,sonetto,ABBA ABBA CDE CDE,-,11,che poté romper ogn'antico sdegno,0,0,1,1,0,0,0,1,0,1,nessuna
+117,-,11,sonetto,ABBA ABBA CDE CDE,-,11,tra Dio e noi e far il ciel aprire.,0,1,0,1,0,1,0,1,0,1,nessuna
+117,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Quella ne presta adunque, Madre santa,",1,0,0,1,0,1,0,1,0,1,nessuna
+117,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"sì che possiamo al tuo beato regno,",0,0,0,1,0,0,0,1,0,1,nessuna
+117,-,14,sonetto,ABBA ABBA CDE CDE,-,11,"seguendo lei devoti, ancor salire.",0,1,0,1,0,1,0,1,0,1,nessuna
+118,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"O luce eterna, o stella mattutina,",0,1,0,1,0,1,0,0,0,1,nessuna
+118,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"la qual chiuder non può Borea né Austro,",0,1,1,0,0,1,0,1,0,1,nessuna
+118,-,3,sonetto,ABBA ABBA CDE CDE,-,11,della nave di Pier timone e plaustro,0,0,1,0,0,1,0,1,0,1,nessuna
+118,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"del biforme grifon, che la divina",0,0,1,0,0,1,0,0,0,1,nessuna
+118,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"città lasciò per farsi medicina,",0,1,0,1,0,1,0,0,0,1,nessuna
+118,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"pria sé chiudendo nel virginal claustro,",1,0,0,1,0,0,0,0,1,1,nessuna
+118,-,7,sonetto,ABBA ABBA CDE CDE,-,11,del mal che già commise il protoplaustro,0,1,0,1,0,1,0,1,0,1,nessuna
+118,-,8,sonetto,ABBA ABBA CDE CDE,-,11,disubbidendo in nostra e sua ruina;,0,0,0,1,0,1,0,1,0,1,nessuna
+118,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"volgi gli occhi pietosi allo mio stato,",1,0,1,0,0,1,0,0,0,1,nessuna
+118,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"Donna del cielo, e non m'aver a sdegno,",1,0,0,1,0,0,0,1,0,1,nessuna
+118,-,11,sonetto,ABBA ABBA CDE CDE,-,11,per ch'io sia di peccati grave e brutto.,0,0,1,0,0,1,0,1,0,1,nessuna
+118,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Io spero in te e 'n te sempr'ho sperato:,0,1,0,1,0,1,1,0,0,1,nessuna
+118,-,13,sonetto,ABBA ABBA CDE CDE,-,11,prega per me e esser mi fa degno,1,0,0,1,0,1,0,0,1,1,nessuna
+118,-,14,sonetto,ABBA ABBA CDE CDE,-,11,di veder teco il tuo beato frutto.,0,0,1,1,0,0,0,1,0,1,nessuna
+119,-,1,sonetto,ABBA ABBA CDC DCD,-,11,"O Regina degli angioli, o Maria,",0,0,1,0,0,1,0,0,0,1,nessuna
+119,-,2,sonetto,ABBA ABBA CDC DCD,-,11,"ch'adorni il ciel con tuoi lieti sembianti,",0,1,0,1,0,0,1,0,0,1,nessuna
+119,-,3,sonetto,ABBA ABBA CDC DCD,-,11,e stella in mar dirizzi e naviganti,0,1,0,1,0,1,0,0,0,1,nessuna
+119,-,4,sonetto,ABBA ABBA CDC DCD,-,11,"a port'e segno di diritta via,",0,1,0,1,0,0,0,1,0,1,nessuna
+119,-,5,sonetto,ABBA ABBA CDC DCD,-,11,"per la gloria ove sei, Vergine pia,",0,0,1,0,0,1,1,0,0,1,nessuna
+119,-,6,sonetto,ABBA ABBA CDC DCD,-,11,ti prego guardi a' mia miseri pianti;,0,1,0,1,0,0,1,0,0,1,nessuna
+119,-,7,sonetto,ABBA ABBA CDC DCD,-,11,"increscati di me, to'mi davanti",0,1,0,0,0,1,1,0,0,1,nessuna
+119,-,8,sonetto,ABBA ABBA CDC DCD,-,11,l'insidie di colui che mi travia.,0,1,0,0,0,1,0,0,0,1,nessuna
+119,-,9,sonetto,ABBA ABBA CDC DCD,-,11,Io spero in te e ho sempre sperato:,0,1,0,1,0,1,1,0,0,1,nessuna
+119,-,10,sonetto,ABBA ABBA CDC DCD,-,11,"vagliami il lungo amore e 'l reverente,",1,0,0,1,0,1,0,0,0,1,nessuna
+119,-,11,sonetto,ABBA ABBA CDC DCD,-,11,il qual ti porto e ho sempre portato.,0,1,0,1,0,1,1,0,0,1,nessuna
+119,-,12,sonetto,ABBA ABBA CDC DCD,-,11,"Dirizza il mio cammin, fammi possente",0,1,0,0,0,1,1,0,0,1,nessuna
+119,-,13,sonetto,ABBA ABBA CDC DCD,-,11,di divenir ancor dal destro lato,0,0,0,1,0,1,0,1,0,1,nessuna
+119,-,14,sonetto,ABBA ABBA CDC DCD,-,11,"del tuo Figliuol, fra la beata gente.",0,0,0,1,0,0,0,1,0,1,nessuna
+120,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Tu mi trafiggi, e io non son d'acciaio:",0,0,0,1,0,1,0,1,0,1,nessuna
+120,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"e s'a dir mi sospingon le punture,",0,0,1,0,0,1,0,0,0,1,nessuna
+120,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"a dover ritrovarti le costure,",0,0,1,0,0,1,0,0,0,1,nessuna
+120,-,4,sonetto,ABBA ABBA CDE CDE,-,11,credo parratti desto un gran vespaio.,1,0,0,1,0,1,0,1,0,1,nessuna
+120,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Deh, tu m'hai pieno, anzi colmo, lo staio;",1,0,0,1,1,0,1,0,0,1,nessuna
+120,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"bastiti omai, per Dio, e non m'indure",1,0,0,1,0,1,0,1,0,1,nessuna
+120,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"a dettar versi delle tua lordure,",0,0,1,1,0,0,0,1,0,1,nessuna
+120,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"ch'io sarò d'altra foggia, ch'io non paio.",0,0,1,1,0,1,0,1,0,1,nessuna
+120,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E poi che la parola uscita è fuore,",0,1,0,0,0,1,0,1,0,1,nessuna
+120,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"indrieto ritornar non si può mai,",0,1,0,0,0,1,0,0,1,1,nessuna
+120,-,11,sonetto,ABBA ABBA CDE CDE,-,11,né vale il dir: - Vorrei aver creduto -.,0,1,0,1,0,1,0,1,0,1,nessuna
+120,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Se 'l ti prude la penna, il folle amore",0,0,1,0,0,1,0,1,0,1,nessuna
+120,-,13,sonetto,ABBA ABBA CDE CDE,-,11,e la fortuna dan da dire assai:,0,0,0,1,0,1,0,1,0,1,nessuna
+120,-,14,sonetto,ABBA ABBA CDE CDE,-,11,in ciò trastulla lo tuo ingegno acuto.,0,1,0,1,0,0,0,1,0,1,nessuna
+121,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Poi satiro sei fatto sì severo,1,1,0,0,0,1,0,1,0,1,nessuna
+121,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"nella mia colpa e étti sì molesta,",0,0,0,1,0,1,0,1,0,1,nessuna
+121,-,3,sonetto,ABBA ABBA CDE CDE,-,11,credo sarebbe cosa assai onesta,1,0,0,1,0,1,0,1,0,1,nessuna
+121,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"prima lavasse il tuo gran vitupero,",1,0,0,1,0,0,1,0,0,1,nessuna
+121,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"che mordesse l'altrui: uom sa, per vero,",0,0,1,0,0,1,0,1,0,1,nessuna
+121,-,6,sonetto,ABBA ABBA CDE CDE,-,11,la dolorosa e puzzolente festa,0,0,0,1,0,0,0,1,0,1,nessuna
+121,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"che festi del tuo nato, quand'in questa",0,1,0,0,0,1,0,1,0,1,nessuna
+121,-,8,sonetto,ABBA ABBA CDE CDE,-,11,vita 'l produsse il natural sentiero.,1,0,0,1,0,0,0,1,0,1,nessuna
+121,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Né lascia questo divenire antiquo,0,1,0,1,0,0,0,1,0,1,nessuna
+121,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"l'infamia tua, ché nel cinquantesmo",0,1,0,0,1,1,0,0,0,1,nessuna
+121,-,11,sonetto,ABBA ABBA CDE CDE,-,11,gravida avevi quella cui tenevi.,1,0,0,1,0,1,0,1,0,1,nessuna
+121,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"O crudel patre, o sacerdote iniquo!",0,0,1,1,0,0,0,1,0,1,nessuna
+121,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"Poi, dov'uom scarca 'l ventre, per battesmo",1,0,0,1,0,1,0,0,0,1,nessuna
+121,-,14,sonetto,ABBA ABBA CDE CDE,-,11,si died'a quel cui generato avevi.,0,1,0,1,1,0,0,1,0,1,nessuna
+122,-,1,sonetto,ABAB ABAB CDE CDE,-,11,S'io ho le Muse vilmente prostrate,0,1,0,1,0,0,1,0,0,1,nessuna
+122,-,2,sonetto,ABAB ABAB CDE CDE,-,11,"nelle fornice del vulgo dolente,",0,0,0,1,0,0,1,0,0,1,nessuna
+122,-,3,sonetto,ABAB ABAB CDE CDE,-,11,e le lor parte occulte ho palesate,0,0,0,1,0,1,0,0,0,1,nessuna
+122,-,4,sonetto,ABAB ABAB CDE CDE,-,11,"alla feccia plebeia scioccamente,",0,0,1,0,0,1,0,0,0,1,nessuna
+122,-,5,sonetto,ABAB ABAB CDE CDE,-,11,non cal che più mi sien rimproverate,0,1,0,1,0,1,0,0,0,1,nessuna
+122,-,6,sonetto,ABAB ABAB CDE CDE,-,11,"sì fatte offese, perché crudelmente",0,1,0,1,0,0,1,0,0,1,nessuna
+122,-,7,sonetto,ABAB ABAB CDE CDE,-,11,Appollo nel mio corpo l'ha vengiate,0,1,0,0,0,1,0,0,0,1,nessuna
+122,-,8,sonetto,ABAB ABAB CDE CDE,-,11,"in guisa tal, ch'ogni membro ne sente.",0,1,0,1,1,0,1,0,0,1,nessuna
+122,-,9,sonetto,ABAB ABAB CDE CDE,-,11,"Ei m'ha d'uom fatto un otre divenire,",0,0,1,1,0,1,0,0,0,1,nessuna
+122,-,10,sonetto,ABAB ABAB CDE CDE,-,11,non pien di vento ma di piombo grave,1,1,0,1,0,0,0,1,0,1,nessuna
+122,-,11,sonetto,ABAB ABAB CDE CDE,-,11,"tanto, ch'appena mi posso mutare.",1,0,0,1,0,0,1,0,0,1,nessuna
+122,-,12,sonetto,ABAB ABAB CDE CDE,-,11,"Né spero mai di tal noia guarire,",0,1,0,1,0,0,1,0,0,1,nessuna
+122,-,13,sonetto,ABAB ABAB CDE CDE,-,11,sì d'ogni parte circondato m'have;,0,1,0,1,0,0,0,1,0,1,nessuna
+122,-,14,sonetto,ABAB ABAB CDE CDE,-,11,ben so però che Dio mi può aiutare.,0,1,0,1,0,1,0,1,0,1,nessuna
+123,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Se Dante piange, dove ch'el si sia,",0,1,0,1,0,1,0,1,0,1,nessuna
+123,-,2,sonetto,ABBA ABBA CDE CDE,-,11,che li concetti del suo alto ingegno,0,0,0,1,0,0,0,1,0,1,nessuna
+123,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"aperti sieno stati al vulgo indegno,",0,1,0,0,0,1,0,1,0,1,nessuna
+123,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"come tu di', della lettura mia,",1,0,0,1,0,0,0,1,0,1,nessuna
+123,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"ciò mi dispiace molto, né mai fia",1,0,0,1,0,1,0,0,1,1,nessuna
+123,-,6,sonetto,ABBA ABBA CDE CDE,-,11,ch'io non ne porti verso me disdegno:,1,0,0,1,0,1,0,1,0,1,nessuna
+123,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"come ch'alquanto pur me ne ritegno,",1,0,0,1,0,1,0,0,0,1,nessuna
+123,-,8,sonetto,ABBA ABBA CDE CDE,-,11,"perché d'altrui, non mia, fu tal follia.",0,1,0,1,0,1,0,1,0,1,nessuna
+123,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Vana speranza e vera povertade,1,0,0,1,0,1,0,0,0,1,nessuna
+123,-,10,sonetto,ABBA ABBA CDE CDE,-,11,e l'abbagliato senno delli amici,0,0,0,1,0,1,0,0,0,1,nessuna
+123,-,11,sonetto,ABBA ABBA CDE CDE,-,11,e gli lor prieghi ciò mi fecer fare.,0,0,0,1,0,1,0,1,0,1,nessuna
+123,-,12,sonetto,ABBA ABBA CDE CDE,-,11,Ma non goderan guar di tal derrate,0,1,0,0,1,1,0,1,0,1,nessuna
+123,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"questi ingrati meccanici, nimici",1,0,1,0,0,1,0,0,0,1,nessuna
+123,-,14,sonetto,ABBA ABBA CDE CDE,-,11,d'ogni leggiadro e caro adoperare.,1,0,0,1,0,1,0,0,0,1,nessuna
+124,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Già stanco m'hanno e quasi rintuzzato,0,1,0,1,0,1,0,0,0,1,nessuna
+124,-,2,sonetto,ABBA ABBA CDE CDE,-,11,le rime tua accese in mia vergogna;,0,1,0,1,0,1,0,0,0,1,nessuna
+124,-,3,sonetto,ABBA ABBA CDE CDE,-,11,e quantunque a grattar della mia rogna,0,0,1,0,0,1,0,0,0,1,nessuna
+124,-,4,sonetto,ABBA ABBA CDE CDE,-,11,"io abbia assai nel mio misero stato,",0,1,0,1,0,0,1,0,0,1,nessuna
+124,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"pur ho tal volta, da quelle sforzato,",0,1,0,1,0,0,1,0,0,1,nessuna
+124,-,6,sonetto,ABBA ABBA CDE CDE,-,11,"risposto a quel che la tua penna agogna,",0,1,0,1,0,0,0,1,0,1,nessuna
+124,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"la qual non fu temperata a Bologna,",0,1,0,1,0,0,1,0,0,1,nessuna
+124,-,8,sonetto,ABBA ABBA CDE CDE,-,11,se ben ripensi il tuo aspro dettato.,0,1,0,1,0,0,1,0,0,1,nessuna
+124,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Detto ho assai che io cruccioso sono,1,1,0,1,0,1,0,1,0,1,nessuna
+124,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"di ciò che stoltamente è stato fatto,",0,1,0,0,0,1,0,1,0,1,nessuna
+124,-,11,sonetto,ABBA ABBA CDE CDE,-,11,ma frastornarsi non si puote omai.,0,0,0,1,0,0,0,1,0,1,nessuna
+124,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Però ti posa ed a me dà perdono,",0,1,0,1,0,0,1,1,0,1,nessuna
+124,-,13,sonetto,ABBA ABBA CDE CDE,-,11,ch'io ti prometto ben che 'n tal misfatto,0,0,0,1,0,1,0,1,0,1,nessuna
+124,-,14,sonetto,ABBA ABBA CDE CDE,-,11,più non mi spingerà alcun giammai.,1,0,0,0,0,1,0,1,0,1,nessuna
+125,-,1,sonetto,ABBA ABBA CDE CDE,-,11,Io ho messo in galea senza biscotto,0,0,1,0,0,1,1,0,0,1,nessuna
+125,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"l'ingrato vulgo, e senza alcun piloto",0,1,0,1,0,1,0,1,0,1,nessuna
+125,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"lasciato l'ho in mar a lui non noto,",0,1,0,1,0,1,0,1,0,1,nessuna
+125,-,4,sonetto,ABBA ABBA CDE CDE,-,11,ben che sen creda esser maestro e dotto:,1,0,0,1,1,0,0,1,0,1,nessuna
+125,-,5,sonetto,ABBA ABBA CDE CDE,-,11,onde el di sù spero veder di sotto,1,0,0,1,1,0,0,1,0,1,nessuna
+125,-,6,sonetto,ABBA ABBA CDE CDE,-,11,del debol legno e di sanità voto;,0,1,0,1,0,0,0,0,1,1,nessuna
+125,-,7,sonetto,ABBA ABBA CDE CDE,-,11,"né avverrà, perch'ei sappia di nuoto,",1,0,0,1,0,0,1,0,0,1,nessuna
+125,-,8,sonetto,ABBA ABBA CDE CDE,-,11,ch'e' non rimanga lì doglioso e rotto.,0,0,0,1,0,1,0,1,0,1,nessuna
+125,-,9,sonetto,ABBA ABBA CDE CDE,-,11,"E io, di parte eccelsa riguardando,",0,1,0,1,0,1,0,0,0,1,nessuna
+125,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"ridendo, in parte piglierò ristoro",0,1,0,1,0,0,0,1,0,1,nessuna
+125,-,11,sonetto,ABBA ABBA CDE CDE,-,11,del ricevuto scorno e dell'inganno;,0,0,0,1,0,1,0,0,0,1,nessuna
+125,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"e tal fiata, a lui rimproverando",0,0,0,1,0,1,0,0,0,1,nessuna
+125,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"l'avaro senno e il beffato alloro,",0,1,0,1,0,0,0,1,0,1,nessuna
+125,-,14,sonetto,ABBA ABBA CDE CDE,-,11,gli crescerò e la doglia e l'affanno.,0,0,0,1,0,0,1,0,0,1,nessuna
+126,-,1,sonetto,ABBA ABBA CDE CDE,-,11,"Or sei salito, caro signor mio,",1,0,0,1,0,1,0,0,1,1,nessuna
+126,-,2,sonetto,ABBA ABBA CDE CDE,-,11,"nel regno, al qual salire ancor aspetta",0,1,0,1,0,1,0,1,0,1,nessuna
+126,-,3,sonetto,ABBA ABBA CDE CDE,-,11,"ogn'anima da Dio a quell'eletta,",0,1,0,0,0,1,0,1,0,1,nessuna
+126,-,4,sonetto,ABBA ABBA CDE CDE,-,11,nel suo partir di questo mondo rio.,0,0,0,1,0,1,0,1,0,1,nessuna
+126,-,5,sonetto,ABBA ABBA CDE CDE,-,11,"Or se' colà, dove spesso il desio",0,1,0,1,1,0,1,0,0,1,nessuna
+126,-,6,sonetto,ABBA ABBA CDE CDE,-,11,ti tirò già per veder Lauretta;,0,0,1,1,0,0,1,0,0,1,nessuna
+126,-,7,sonetto,ABBA ABBA CDE CDE,-,11,or sei dove la mia bella Fiammetta,0,1,1,0,0,1,1,0,0,1,nessuna
+126,-,8,sonetto,ABBA ABBA CDE CDE,-,11,siede con lei nel cospetto di Dio.,1,0,0,1,0,0,1,0,0,1,nessuna
+126,-,9,sonetto,ABBA ABBA CDE CDE,-,11,Or con Sennuccio e con Cino e con Dante,1,0,0,1,0,0,1,0,0,1,nessuna
+126,-,10,sonetto,ABBA ABBA CDE CDE,-,11,"vivi, sicuro d'eterno riposo",1,0,0,1,0,0,1,0,0,1,nessuna
+126,-,11,sonetto,ABBA ABBA CDE CDE,-,11,mirando cose da noi non intese.,0,1,0,1,0,0,1,0,0,1,nessuna
+126,-,12,sonetto,ABBA ABBA CDE CDE,-,11,"Deh, s'a grado ti fui nel mondo errante,",1,0,1,0,0,1,0,1,0,1,nessuna
+126,-,13,sonetto,ABBA ABBA CDE CDE,-,11,"tirami drieto a te, dove gioioso",1,0,0,1,0,1,1,0,0,1,nessuna
+126,-,14,sonetto,ABBA ABBA CDE CDE,-,11,veggia colei che pria d'amor m'accese.,1,0,0,1,0,1,0,1,0,1,nessuna

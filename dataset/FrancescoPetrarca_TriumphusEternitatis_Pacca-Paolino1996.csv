@@ -1,0 +1,162 @@
+#DEFINITIONS,dc=http://purl.org/dc/elements/1.1/,,,,,,,,,,,,,,,,,
+#dc:conformsTo,ami.it/dataformat,,,,,,,,,,,,,,,,,
+#dc:identifier,FrancescoPetrarca_TriumphusEternitatis_Pacca-Paolino1996,,,,,,,,,,,,,,,,,
+#dc:description,questa è una trascrizione fatta nel corso dei progetti precedenti.,,,,,,,,,,,,,,,,,
+#dc:author,"Francesco Petrarca",,,# autore del componimento non del file,,,,,,,,,,,,,,
+#dc:title,"Triumphus Eternitatis",,,# titolo del componimento non del file,,,,,,,,,,,,,,
+#dc:date,,,,# periodo in cui è stata scritta l'opera nel seguente formato: termine post quem/termine ante quem gg-mm-aaaa/gg-mm-aaa ,,,,,,,,,,,,,,
+#dc:source,"Pacca-Paolino,1996",,,"# l'edizione da cui è stato tratto il testo nel seguente formato cognomeautore-cognomeautore, anno",,,,,,,,,,,,,,
+#dc:source,http://id.sbn.it/bid/FER0142246,,,# permalink dal sto https://opac.sbn.it/ relativo all'edizione usata per compilare i dati,,,,,,,,,,,,,,
+#dc:source,,,,"# se si usa un foglio di calcolo, il link o il nome del foglio di calcolo",,,,,,,,,,,,,,
+#dc:creator,Sconosciuto,,,# autore principale della schedatura,,,,,,,,,,,,,,
+#dc:contributor,,,,# eventuali collaboratori o correttori,,,,,,,,,,,,,,
+#dc:provenance,,,,# l'affiliazione che ha inizialmente generato il dato,,,,,,,,,,,,,,
+#dc:publisher,Gruppo Padovano di Stilistica,,,# l'ente responsabile della schedatura,,,,,,,,,,,,,,
+#dc:dateSubmitted,,,,# data di invio del dato al respository,,,,,,,,,,,,,,
+#dc:dateAccepted,,,,# data nella quale il dato viene integrato nella nuova release,,,,,,,,,,,,,,
+sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trascrizione_verso,accento_01,accento_02,accento_03,accento_04,accento_05,accento_06,accento_07,accento_08,accento_09,accento_10,irregolarità
+0,-,18,terzina,-,-,11,"dopo molto voltar, che fine avranno?",1,0,1,0,0,1,0,1,0,1,nessuna
+0,-,19,terzina,-,-,11,Questo pensava; e mentre più s'interna,1,0,0,1,0,1,0,1,0,1,nessuna
+0,-,20,terzina,-,-,11,"la mente mia, veder mi parve un mondo",0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,21,terzina,-,-,11,"novo, in etate immobile ed eterna,",1,0,0,1,0,1,0,0,0,1,nessuna
+0,-,22,terzina,-,-,11,e 'l sole e tutto 'l ciel disfar a tondo,0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,17,terzina,-,-,11,"queste cose che 'l ciel volge e governa,",1,0,1,0,0,1,1,0,0,1,nessuna
+0,-,23,terzina,-,-,11,"con le sue stelle, anchor la terra e 'l mare,",0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,24,terzina,-,-,11,e rifarne un più bello e più giocondo.,0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,25,terzina,-,-,11,"Qual meraviglia ebb'io, quando ristare",0,0,0,1,0,1,1,0,0,1,nessuna
+0,-,26,terzina,-,-,11,"vidi in un punto quel che mai non stette,",1,0,0,1,0,1,0,1,0,1,nessuna
+0,-,27,terzina,-,-,11,ma discorrendo suol tutto cangiare!,0,0,0,1,0,1,1,0,0,1,nessuna
+0,-,28,terzina,-,-,11,E le tre parti sue vidi ristrecte,0,0,0,1,0,1,1,0,0,1,nessuna
+0,-,29,terzina,-,-,11,"ad una sola, e quella una esser ferma",0,0,0,1,0,0,1,1,0,1,nessuna
+0,-,30,terzina,-,-,11,"sì che, come solea, più non s'affrette;",0,1,1,0,0,1,1,0,0,1,nessuna
+0,-,31,terzina,-,-,11,"e, quasi in terra d'erbe ignuda ed herma,",0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,32,terzina,-,-,11,"né 'fia', né 'fu', né 'mai', né 'inanzi' o ''",0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,33,terzina,-,-,11,ch'umana vita fanno varia e 'nferma!,0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,34,terzina,-,-,11,"Passa il penser sì come sole in vetro,",1,0,0,1,0,1,0,1,0,1,nessuna
+0,-,35,terzina,-,-,11,"anzi più assai, però che nulla il tene.",1,0,0,1,0,1,0,1,0,1,nessuna
+0,-,36,terzina,-,-,11,"O, qual gratia mi fia, se mai l'impetro,",0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,37,terzina,-,-,11,"ch'i' veggia ivi presente il sommo bene,",0,1,1,0,0,1,0,1,0,1,nessuna
+0,-,38,terzina,-,-,11,"non alcun mal, che solo il tempo mesce",0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,39,terzina,-,-,11,e con lui si diparte e con lui vène!,0,0,1,0,0,1,0,0,1,1,nessuna
+0,-,40,terzina,-,-,11,"Non avrà albergo il sol Thauro né Pesce,",0,0,1,1,0,1,1,0,0,1,nessuna
+0,-,41,terzina,-,-,11,per lo cui varïar nostro lavoro,0,0,1,0,0,1,1,0,0,1,nessuna
+0,-,42,terzina,-,-,11,"or nasce, or more, ed ora scema, or cresce.",0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,43,terzina,-,-,11,Beati spirti che nel sommo choro,0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,44,terzina,-,-,11,"si troveranno, o trovano, in tal grado",0,0,0,1,0,1,0,0,0,1,nessuna
+0,-,45,terzina,-,-,11,che sia in memoria eterna il nome loro!,0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,46,terzina,-,-,11,O felice colui che trova il guado,0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,47,terzina,-,-,11,di questo alpestro e rapido torrente,0,1,0,1,0,1,0,0,0,1,nessuna
+0,-,48,terzina,-,-,11,ch'à nome vita ed a molti è sì a grado!,0,1,0,1,0,1,0,0,0,1,nessuna
+0,-,49,terzina,-,-,11,"Misera la volgare e cieca gente,",1,0,0,0,0,1,0,1,0,1,nessuna
+0,-,50,terzina,-,-,11,che pon qui sue speranze in cose tali,0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,51,terzina,-,-,11,che 'l tempo le ne porta sì repente!,0,1,0,0,0,1,0,0,0,1,nessuna
+0,-,52,terzina,-,-,11,"O veramente sordi, ignudi e frali,",0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,53,terzina,-,-,11,"poveri d'argomenti e di consiglio,",1,0,0,0,0,1,0,0,0,1,nessuna
+0,-,54,terzina,-,-,11,egri del tutto e miseri mortali!,1,0,0,1,0,1,0,0,0,1,nessuna
+0,-,55,terzina,-,-,11,"Quei che 'l mondo governa pur col ciglio,",1,0,1,0,0,1,0,0,0,1,nessuna
+0,-,56,terzina,-,-,11,"che conturba ed acqueta gl'elementi,",0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,57,terzina,-,-,11,"al cui saver non pur io non m'appiglio,",0,0,0,1,0,0,1,0,0,1,nessuna
+0,-,58,terzina,-,-,11,ma li angeli ne son lieti e contenti,0,1,0,0,0,1,1,0,0,1,nessuna
+0,-,59,terzina,-,-,11,"di veder de le mille parti l'una,",0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,60,terzina,-,-,11,ed in ciò stanno desiosi e 'ntenti...,0,1,1,0,0,0,1,0,0,1,nessuna
+0,-,61,terzina,-,-,11,"O mente vaga, al fin sempre digiuna,",0,1,0,1,0,1,1,0,0,1,nessuna
+0,-,62,terzina,-,-,11,a che tanti penseri? un'ora sgombra,0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,63,terzina,-,-,11,quanto in molt'anni a pena si raguna.,1,0,0,1,0,1,0,0,0,1,nessuna
+0,-,64,terzina,-,-,11,Quel che l'anima nostra preme e 'ngombra:,1,0,1,0,0,1,0,1,0,1,nessuna
+0,-,65,terzina,-,-,11,"'dianzi', 'adesso', 'ier', 'deman', 'matino'",1,0,1,1,0,1,0,1,0,1,nessuna
+0,-,66,terzina,-,-,11,tutti in un punto passeran com'ombra.,1,0,0,1,0,0,0,1,0,1,nessuna
+0,-,67,terzina,-,-,11,"Non avrà loco 'fu', 'sarà' ned 'era',",0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,68,terzina,-,-,11,"ma 'è' solo, 'in presente', ed 'ora', ed 'ogg",0,1,1,0,0,1,0,1,0,1,nessuna
+0,-,69,terzina,-,-,11,e sola 'eternità' raccolta e 'ntera;,0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,70,terzina,-,-,11,quasi spianati dietro e 'nanzi i poggi,1,0,0,1,0,1,0,1,0,1,nessuna
+0,-,71,terzina,-,-,11,"ch'occupavan la vista, non fia in cui",0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,72,terzina,-,-,11,"vostro sperare e rimembrar s'appoggi,",1,0,0,1,0,0,0,1,0,1,nessuna
+0,-,73,terzina,-,-,11,la qual varïetà fa spesso altrui,0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,74,terzina,-,-,11,"vaneggiar sì che 'l viver par un gioco,",0,0,1,1,0,1,0,1,0,1,nessuna
+0,-,75,terzina,-,-,11,"pensando pur: che sarò io, che fui?",0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,76,terzina,-,-,11,"Non sarà più diviso a poco a poco,",0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,77,terzina,-,-,11,"ma tutto inseme, e non più state o verno,",0,1,0,1,0,0,1,1,0,1,nessuna
+0,-,78,terzina,-,-,11,"ma morto il tempo, e varïato il loco;",0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,79,terzina,-,-,11,e non avranno in man li anni il governo,0,0,0,1,0,1,1,0,0,1,nessuna
+0,-,80,terzina,-,-,11,de le fame mortali; anzi chi fia,0,0,1,0,0,1,1,0,0,1,nessuna
+0,-,81,terzina,-,-,11,"chiaro una volta, fia chiaro in eterno.",1,0,0,1,0,0,1,0,0,1,nessuna
+0,-,82,terzina,-,-,11,O felici quelle anime che 'n via,0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,83,terzina,-,-,11,sono o seranno di venire al fine,1,0,0,1,0,0,0,1,0,1,nessuna
+0,-,84,terzina,-,-,11,"di ch'io ragiono, quandunque e' si sia!",0,0,0,1,0,0,1,0,0,1,nessuna
+0,-,85,terzina,-,-,11,E tra l'altre leggiadre e pellegrine,0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,86,terzina,-,-,11,"beatissima lei, che morte occise",0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,87,terzina,-,-,11,assai di qua dal natural confine!,0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,88,terzina,-,-,11,Parranno allor l'angeliche divise,0,1,0,1,0,1,0,0,0,1,nessuna
+0,-,89,terzina,-,-,11,e l'oneste parole e i penser casti,0,0,1,0,0,1,0,0,1,1,nessuna
+0,-,90,terzina,-,-,11,che nel cor giovenil natura mise.,0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,91,terzina,-,-,11,"Tanti volti, che Morte e 'l Tempo à guasti,",1,0,1,0,0,1,0,1,0,1,nessuna
+0,-,92,terzina,-,-,11,torneranno al suo più fiorito stato;,0,0,1,0,1,0,0,1,0,1,nessuna
+0,-,93,terzina,-,-,11,"e vedrassi ove, Amor, tu mi legasti,",0,0,1,1,0,1,1,0,0,1,nessuna
+0,-,94,terzina,-,-,11,ond'io a dito ne sarò mostrato:,0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,95,terzina,-,-,11,"""Ecco chi pianse sempre, e nel suo pianto",1,0,0,1,0,1,0,0,0,1,nessuna
+0,-,96,terzina,-,-,11,"sovra 'l riso d'ogni altro fu beato!""",1,0,1,0,0,1,0,0,0,1,nessuna
+0,-,97,terzina,-,-,11,E quella di ch'anchor piangendo canto,0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,98,terzina,-,-,11,"avrà gran meraviglia di se stessa,",0,1,0,0,0,1,0,0,0,1,nessuna
+0,-,99,terzina,-,-,11,vedendosi fra tutte dar il vanto.,0,1,0,0,0,1,0,0,0,1,nessuna
+0,-,100,terzina,-,-,11,"Quando ciò fia, nol so; se fu soppressa",1,0,0,1,0,1,0,0,0,1,nessuna
+0,-,101,terzina,-,-,11,"tanta credenza a' più fidi compagni,",1,0,0,1,0,0,1,0,0,1,nessuna
+0,-,102,terzina,-,-,11,a sì alto segreto chi s'appressa?,0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,103,terzina,-,-,11,"Credo io che s'avicini, e de' guadagni",0,1,0,0,0,1,0,0,0,1,nessuna
+0,-,104,terzina,-,-,11,"veri e de' falsi si farà ragione,",1,0,0,1,0,0,0,1,0,1,nessuna
+0,-,105,terzina,-,-,11,che tutti fien allor opre d'aragni.,0,1,0,1,0,1,1,0,0,1,nessuna
+0,-,106,terzina,-,-,11,"Vedrassi quanto in van cura si pone,",0,1,0,1,0,1,1,0,0,1,nessuna
+0,-,107,terzina,-,-,11,"e quanto indarno s'affaticha e suda,",0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,108,terzina,-,-,11,come sono inganate le persone.,0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,109,terzina,-,-,11,Nesun segreto fia chi copra o chiuda.,0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,110,terzina,-,-,11,"Fia ogni conscïenza, o chiara o fosca,",0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,111,terzina,-,-,11,dinanzi a tutto 'l mondo aperta e nuda;,0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,112,terzina,-,-,11,e fia chi ragion giudichi e conosca.,0,1,0,0,1,1,0,0,0,1,nessuna
+0,-,113,terzina,-,-,11,Ciascun poi vedrem prender suo viaggio,0,1,1,0,1,1,0,0,0,1,nessuna
+0,-,114,terzina,-,-,11,come fiera scacciata che s'imbosca;,0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,115,terzina,-,-,11,e vedrassi quel poco di paraggio,0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,116,terzina,-,-,11,"che vi fa ir superbi, e oro, e terreno,",0,0,0,1,0,1,1,0,0,1,nessuna
+0,-,117,terzina,-,-,11,"esservi stato danno, e non vantaggio;",1,0,0,1,0,1,0,0,0,1,nessuna
+0,-,118,terzina,-,-,11,e 'n disparte color che sotto 'l freno,0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,119,terzina,-,-,11,di modesta fortuna ebbero in uso,0,0,1,0,0,1,1,0,0,1,nessuna
+0,-,120,terzina,-,-,11,senz'ogni pompa di godersi in seno.,0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,121,terzina,-,-,11,"Questi triumphi, i cinque in terra giuso",1,0,0,1,0,1,0,1,0,1,nessuna
+0,-,122,terzina,-,-,11,"avem veduto, ed a la fine il sexto,",0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,123,terzina,-,-,11,"Dio permettente, vederem lassuso.",1,0,0,1,0,0,0,1,0,1,nessuna
+0,-,124,terzina,-,-,11,"E 'l Tempo, a disfar tutto così presto,",0,1,0,0,1,1,0,0,0,1,nessuna
+0,-,125,terzina,-,-,11,"e Morte, in sua ragion cotanto avara,",0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,126,terzina,-,-,11,morti inseme seranno e quella e questo.,1,0,1,0,0,1,0,1,0,1,nessuna
+0,-,127,terzina,-,-,11,"E quei che Fama meritaron chiara,",0,0,0,1,0,0,0,1,0,1,nessuna
+0,-,128,terzina,-,-,11,"che 'l Tempo spense, e i be' visi leggiadri",0,1,0,1,0,0,1,0,0,1,nessuna
+0,-,129,terzina,-,-,11,"che 'mpallidir fe' 'l Tempo e Morte amara,",0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,130,terzina,-,-,11,"l'oblivïon, gli aspetti oscuri ed adri,",0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,131,terzina,-,-,11,"più che mai bei tornando, lasceranno",0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,132,terzina,-,-,11,"a Morte impetüosa, a' giorni ladri.",0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,133,terzina,-,-,11,Ne l'età più fiorita e verde avranno,0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,134,terzina,-,-,11,con immortal bellezza eterna fama.,0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,135,terzina,-,-,11,Ma innanzi a tutte ch'a rifarsi vanno,0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,136,terzina,-,-,11,è quella che piangendo il mondo chiama,0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,137,terzina,-,-,11,con la mia lingua e con la stancha penna;,0,0,0,1,0,0,0,1,0,1,nessuna
+0,-,138,terzina,-,-,11,ma 'l ciel pur di vederla intera brama.,0,1,1,0,0,1,0,1,0,1,nessuna
+0,-,139,terzina,-,-,11,A riva un fiume che nasce in Gebenna,0,1,0,1,0,0,1,0,0,1,nessuna
+0,-,140,terzina,-,-,11,Amor mi die' per lei sì lunga guerra,0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,141,terzina,-,-,11,che la memoria anchora il cor accenna.,0,0,0,1,0,1,0,1,0,1,nessuna
+0,-,142,terzina,-,-,11,Felice sasso che 'l bel viso serra!,0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,143,terzina,-,-,11,"Che, poi che avrà ripreso il suo bel velo,",0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,144,terzina,-,-,11,"se fu beato chi la vide in terra,",0,0,0,1,0,0,0,1,0,1,nessuna
+0,-,145,terzina,-,-,11,or che fia dunque a rivederla in cielo?,1,0,0,1,0,0,0,1,0,1,nessuna
+0,-,11,terzina,-,-,11,"deve' aprir li occhi, e non tardar al fine,",0,1,0,1,0,0,0,1,0,1,nessuna
+0,-,12,terzina,-,-,11,"ch'a dir il vero, omai troppo m'attempo.",0,1,0,1,0,1,1,0,0,1,nessuna
+0,-,13,terzina,-,-,11,Ma tarde non fur mai gratie divine;,0,1,0,0,0,1,1,0,0,1,nessuna
+0,-,14,terzina,-,-,11,in quelle spero che 'n me anchor faranno,0,1,0,1,0,0,1,1,0,1,nessuna
+0,-,15,terzina,-,-,11,"alte operatïoni e pellegrine.""",1,0,0,0,0,1,0,0,0,1,nessuna
+0,-,16,terzina,-,-,11,"Così detto e risposto. Or, se non stanno",0,1,1,0,0,1,0,0,0,1,nessuna
+0,-,1,terzina,-,-,11,Da poi che sotto 'l ciel cosa non vidi,0,1,0,0,0,1,1,0,0,1,nessuna
+0,-,2,terzina,-,-,11,"stabile e ferma, tutto sbigoctito",1,0,0,1,0,1,0,0,0,1,nessuna
+0,-,3,terzina,-,-,11,"mi volsi a me, e dissi: ""In che ti fidi?""",0,1,0,1,0,1,0,0,0,1,nessuna
+0,-,4,terzina,-,-,11,"Risposi: ""Nel Signor, che mai fallito",0,1,0,0,0,1,0,1,0,1,nessuna
+0,-,5,terzina,-,-,11,non à promessa a chi si fida in lui.,0,0,0,1,0,0,0,1,0,1,nessuna
+0,-,6,terzina,-,-,11,"Ma ben veggio che 'l mondo m'à schernito,",0,0,1,0,0,1,0,0,0,1,nessuna
+0,-,7,terzina,-,-,11,"e sento quel ch'i' sono e quel ch'i' fui,",0,1,0,1,0,1,0,1,0,1,nessuna
+0,-,8,terzina,-,-,11,"e veggio andar, anzi volare, il tempo,",0,1,0,1,1,0,0,1,0,1,nessuna
+0,-,9,terzina,-,-,11,"e doler mi vorrei, né so di cui,",0,0,1,0,0,1,0,1,0,1,nessuna
+0,-,10,terzina,-,-,11,"ché la colpa è pur mia, che più per tempo",0,0,1,0,0,1,0,1,0,1,nessuna

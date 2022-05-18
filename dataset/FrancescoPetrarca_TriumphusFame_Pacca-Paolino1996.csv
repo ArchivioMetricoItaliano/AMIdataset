@@ -1,0 +1,430 @@
+#DEFINITIONS,dc=http://purl.org/dc/elements/1.1/,,,,,,,,,,,,,,,,,
+#dc:conformsTo,ami.it/dataformat,,,,,,,,,,,,,,,,,
+#dc:identifier,FrancescoPetrarca_TriumphusFame_Pacca-Paolino1996,,,,,,,,,,,,,,,,,
+#dc:description,questa è una trascrizione fatta nel corso dei progetti precedenti.,,,,,,,,,,,,,,,,,
+#dc:author,"Francesco Petrarca",,,# autore del componimento non del file,,,,,,,,,,,,,,
+#dc:title,"Triumphus Fame",,,# titolo del componimento non del file,,,,,,,,,,,,,,
+#dc:date,,,,# periodo in cui è stata scritta l'opera nel seguente formato: termine post quem/termine ante quem gg-mm-aaaa/gg-mm-aaa ,,,,,,,,,,,,,,
+#dc:source,"Pacca-Paolino,1996",,,"# l'edizione da cui è stato tratto il testo nel seguente formato cognomeautore-cognomeautore, anno",,,,,,,,,,,,,,
+#dc:source,http://id.sbn.it/bid/FER0142246,,,# permalink dal sto https://opac.sbn.it/ relativo all'edizione usata per compilare i dati,,,,,,,,,,,,,,
+#dc:source,,,,"# se si usa un foglio di calcolo, il link o il nome del foglio di calcolo",,,,,,,,,,,,,,
+#dc:creator,Sconosciuto,,,# autore principale della schedatura,,,,,,,,,,,,,,
+#dc:contributor,,,,# eventuali collaboratori o correttori,,,,,,,,,,,,,,
+#dc:provenance,,,,# l'affiliazione che ha inizialmente generato il dato,,,,,,,,,,,,,,
+#dc:publisher,Gruppo Padovano di Stilistica,,,# l'ente responsabile della schedatura,,,,,,,,,,,,,,
+#dc:dateSubmitted,,,,# data di invio del dato al respository,,,,,,,,,,,,,,
+#dc:dateAccepted,,,,# data nella quale il dato viene integrato nella nuova release,,,,,,,,,,,,,,
+sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trascrizione_verso,accento_01,accento_02,accento_03,accento_04,accento_05,accento_06,accento_07,accento_08,accento_09,accento_10,irregolarità
+1,-,97,terzina,-,-,11,"E quanto in arme fu crudo e severo,",0,1,0,1,0,0,1,0,0,1,nessuna
+1,-,98,terzina,-,-,11,"tanto quei che 'l seguiva era benigno,",1,0,1,0,0,1,0,0,0,1,nessuna
+1,-,99,terzina,-,-,11,non so se miglior duce o cavalero.,0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,100,terzina,-,-,11,Poi venia que' che livido maligno,1,0,1,1,0,1,0,0,0,1,nessuna
+1,-,101,terzina,-,-,11,"tumor di sangue, bene oprando, oppresse:",0,1,0,1,0,1,0,1,0,1,nessuna
+1,-,102,terzina,-,-,11,"nobil Volumnio, e d'alta laude digno.",1,0,0,1,0,1,0,1,0,1,nessuna
+1,-,103,terzina,-,-,11,"Cosso e Philon, Rutilio; e dalle spesse",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,104,terzina,-,-,11,"luci in disparte tre soli ir vedeva,",1,0,0,1,0,0,1,1,0,1,nessuna
+1,-,105,terzina,-,-,11,"rotti i membri, e smagliate l'arme e fesse:",1,0,1,0,0,1,0,1,0,1,nessuna
+1,-,106,terzina,-,-,11,"Lucio Dentato, e Marco Sergio, e Sceva,",1,0,0,1,0,1,0,1,0,1,nessuna
+1,-,107,terzina,-,-,11,que' tre folgori e tre scogli di guerra;,1,0,0,1,0,0,1,0,0,1,nessuna
+1,-,108,terzina,-,-,11,ma l'un rio successor di fama leva;,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,109,terzina,-,-,11,"Mario poi, che Iugurta e' Cimbri atterra",1,0,1,0,0,1,0,1,0,1,nessuna
+1,-,110,terzina,-,-,11,"e 'l tedesco furore; e Fulvio Flacco,",0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,111,terzina,-,-,11,ch'a l'ingrati troncar a bel studio erra;,0,0,1,0,0,1,0,0,1,1,nessuna
+1,-,112,terzina,-,-,11,ed il più nobil Fulvio; e solo un Gracco,0,0,0,1,0,1,0,1,0,1,nessuna
+1,-,113,terzina,-,-,11,di quel gran nido garulo inquieto,0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,114,terzina,-,-,11,che fe' il popol roman più volte stracco;,0,1,0,1,0,1,0,1,0,1,nessuna
+1,-,115,terzina,-,-,11,e quel che parve altrui beato e lieto;,0,1,0,1,0,1,0,1,0,1,nessuna
+1,-,116,terzina,-,-,11,"non dico fu, ché non chiaro si vede",0,1,0,1,0,0,1,0,0,1,nessuna
+1,-,117,terzina,-,-,11,un chiuso cor profondo in suo secreto:,0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,118,terzina,-,-,11,"Metello dico, e suo padre, e suo' rede,",0,1,0,1,0,0,1,0,0,1,nessuna
+1,-,119,terzina,-,-,11,che già di Macedonia e de' Numidi,0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,120,terzina,-,-,11,e di Creta e di Spagna addusser prede.,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,121,terzina,-,-,11,Poscia Vespasïan col figlio vidi:,1,0,0,0,0,1,0,1,0,1,nessuna
+1,-,122,terzina,-,-,11,"il buono e bello, non già il bello e rio,",0,1,0,1,0,0,1,1,0,1,nessuna
+1,-,123,terzina,-,-,11,"e 'l buon Nerva, e Traian, principi fidi,",0,0,1,0,0,1,1,0,0,1,nessuna
+1,-,124,terzina,-,-,11,"Helio Adrïano e 'l suo Antonin Pio,",1,0,0,1,0,0,0,0,1,1,nessuna
+1,-,125,terzina,-,-,11,"bella successïone infino a Marco,",1,0,0,0,0,1,0,1,0,1,nessuna
+1,-,126,terzina,-,-,11,ché bono a buono à natural desio.,0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,127,terzina,-,-,11,"Mentre che, vago, oltre co gli occhi varco,",1,0,0,1,1,0,0,1,0,1,nessuna
+1,-,128,terzina,-,-,11,"vidi il gran fondatore, e i regi cinque;",1,0,0,0,0,1,0,1,0,1,nessuna
+1,-,1,terzina,-,-,11,Da poi che Morte triumphò nel volto,0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,2,terzina,-,-,11,"che di me stesso triumphar solea,",0,0,0,1,0,0,0,1,0,1,nessuna
+1,-,3,terzina,-,-,11,"e fu del nostro mondo il suo sol tolto,",0,1,0,1,0,1,0,0,1,1,nessuna
+1,-,4,terzina,-,-,11,"partissi quella dispietata e rea,",0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,5,terzina,-,-,11,"pallida in vista, horribile e superba,",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,6,terzina,-,-,11,che 'l lume di beltate spento avea;,0,1,0,0,0,1,0,1,0,1,nessuna
+1,-,7,terzina,-,-,11,"quando, mirando intorno su per l'erba,",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,8,terzina,-,-,11,vidi da l'altra parte giugner quella,1,0,0,1,0,1,0,1,0,1,nessuna
+1,-,9,terzina,-,-,11,che trae l'uom del sepolcro e 'n vita il serb,0,1,1,0,0,1,0,1,0,1,nessuna
+1,-,10,terzina,-,-,11,Quale in sul giorno un'amorosa stella,1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,11,terzina,-,-,11,"suol venir d'orïente innanzi al sole,",0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,12,terzina,-,-,11,"che s'accompagna volentier con ella,",0,0,0,1,0,0,0,1,0,1,nessuna
+1,-,13,terzina,-,-,11,"cotal venia. Ed, oh! di quali scole",0,1,0,1,0,1,0,1,0,1,nessuna
+1,-,14,terzina,-,-,11,verrà il maestro che discriva a pieno,0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,15,terzina,-,-,11,quel ch'io vo' dire in simplici parole?,1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,16,terzina,-,-,11,Era d'intorno il ciel tanto sereno,1,0,0,1,0,1,1,0,0,1,nessuna
+1,-,17,terzina,-,-,11,che per tutto il desir ch'ardea nel core,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,18,terzina,-,-,11,l'occhio mio non potea non venir meno.,1,0,1,0,0,1,0,0,0,1,nessuna
+1,-,19,terzina,-,-,11,Scolpito per le fronti era il valore,0,1,0,0,0,1,1,0,0,1,nessuna
+1,-,20,terzina,-,-,11,"de l'onorata gente, dov'io scorsi",0,0,0,1,0,1,0,0,0,1,nessuna
+1,-,21,terzina,-,-,11,molti di quei che legar vidi Amore.,1,0,0,1,0,0,1,1,0,1,nessuna
+1,-,22,terzina,-,-,11,"Da man destra, ove gli occhi in prima porsi,",0,0,1,1,0,1,0,1,0,1,nessuna
+1,-,23,terzina,-,-,11,"la bella donna avea Cesare e Scipio,",0,1,0,1,0,1,1,0,0,1,nessuna
+1,-,24,terzina,-,-,11,ma qual più presso a gran pena m'accorsi;,0,1,0,1,0,0,1,0,0,1,nessuna
+1,-,25,terzina,-,-,11,"l'un di vertute, e non d'Amor mancipio,",1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,26,terzina,-,-,11,"l'altro d'entrambi. E poi mi fu mostrata,",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,27,terzina,-,-,11,"dopo sì glorïoso e bel principio,",1,0,0,0,0,1,0,0,0,1,nessuna
+1,-,28,terzina,-,-,11,gente di ferro e di valore armata.,1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,29,terzina,-,-,11,Sì come in Campidoglio al tempo antico,0,1,0,0,0,1,0,1,0,1,nessuna
+1,-,30,terzina,-,-,11,talora o per Via Sacra o per Via Lata,0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,31,terzina,-,-,11,"venian tutti in quell'ordine ch'i' dico,",0,1,1,0,0,1,0,0,0,1,nessuna
+1,-,32,terzina,-,-,11,e leggeasi a ciascuno intorno al ciglio,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,33,terzina,-,-,11,"il nome, al mondo più di gloria amico.",0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,34,terzina,-,-,11,"Io era intento al nobile pispiglio,",0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,35,terzina,-,-,11,"ai volti, agli atti. Ed ecco: i primi due,",0,1,0,1,0,1,0,0,0,1,nessuna
+1,-,36,terzina,-,-,11,"l'un seguiva il nipote, e l'altro il figlio,",0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,37,terzina,-,-,11,che sol senza alcun pari al mondo fue;,0,1,1,0,0,1,0,1,0,1,nessuna
+1,-,38,terzina,-,-,11,e quei che volsero a' nemici armati,0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,39,terzina,-,-,11,chiudere il passo co le membra sue:,1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,40,terzina,-,-,11,"duo padri, da tre figli accompagnati,",0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,41,terzina,-,-,11,"l'un giva inanzi, e due ne venian dopo,",0,1,0,1,0,1,0,0,1,1,nessuna
+1,-,42,terzina,-,-,11,e l'ultimo era il primo fra' laudati.,0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,43,terzina,-,-,11,Poi fiammeggiava a guisa d'un piropo,1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,44,terzina,-,-,11,colui che col consiglio e co la mano,0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,45,terzina,-,-,11,a tutta Italia giunse al maggior uopo:,0,1,0,1,0,1,0,0,1,1,nessuna
+1,-,46,terzina,-,-,11,"di Claudio dico, che notturno e piano,",0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,47,terzina,-,-,11,"come il Metauro vide, a purgar venne",1,0,0,1,0,1,0,0,1,1,nessuna
+1,-,48,terzina,-,-,11,di ria semenza il buon campo romano.,0,1,0,1,0,0,1,0,0,1,nessuna
+1,-,49,terzina,-,-,11,"Egli ebbe occhi a vedere, a volar penne;",0,1,1,0,0,1,0,0,1,1,nessuna
+1,-,50,terzina,-,-,11,"ed un gran vecchio il secondava a presso,",0,0,0,1,0,0,0,1,0,1,nessuna
+1,-,51,terzina,-,-,11,che con arte Hanibàle a bada tenne.,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,52,terzina,-,-,11,"Duo altri Fabii, e duo Caton con esso;",0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,53,terzina,-,-,11,"e duo Pauli, duo Bruti, e duo Marcelli;",0,0,1,0,0,1,0,0,0,1,nessuna
+1,-,54,terzina,-,-,11,"un Regol, ch'amò altrui più che se stesso;",0,1,0,0,0,1,0,0,0,1,nessuna
+1,-,55,terzina,-,-,11,"un Curio ed un Fabritio, assai più belli",0,1,0,0,0,1,0,1,0,1,nessuna
+1,-,56,terzina,-,-,11,con la lor povertà che Mida o Crasso,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,57,terzina,-,-,11,"con l'oro, onde a virtù furon rebelli;",0,1,1,0,0,1,1,0,0,1,nessuna
+1,-,58,terzina,-,-,11,"Cincinnato e Serran, che solo un passo",0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,59,terzina,-,-,11,"senza costor non vanno; e 'l gran Camillo,",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,60,terzina,-,-,11,"di viver prima che di ben far lasso,",0,1,0,1,0,0,0,0,1,1,nessuna
+1,-,61,terzina,-,-,11,perch'a sì alto grado il ciel sortillo,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,62,terzina,-,-,11,che sua virtute chiara il ricondusse,0,0,0,1,0,1,0,0,0,1,nessuna
+1,-,63,terzina,-,-,11,onde altrui cieca rabbia dipartillo.,1,0,1,1,0,1,0,0,0,1,nessuna
+1,-,64,terzina,-,-,11,Poi quel Torquato che 'l figliuol percusse,1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,65,terzina,-,-,11,e viver orbo per amor sofferse,0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,66,terzina,-,-,11,"della militia, perché orba non fusse;",0,0,0,1,0,0,1,0,0,1,nessuna
+1,-,67,terzina,-,-,11,"l'un Decio e l'altro, che col petto aperse",0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,68,terzina,-,-,11,"le schiere de' nemici: o fiero voto,",0,1,0,0,0,1,0,1,0,1,nessuna
+1,-,69,terzina,-,-,11,che 'l padre e 'l figlio ad una morte offerse,0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,70,terzina,-,-,11,"Curtio venia con lor, non men devoto,",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,71,terzina,-,-,11,che di sé e dell'arme empié lo speco,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,72,terzina,-,-,11,in mezzo il Foro horribilmente vòto.,0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,73,terzina,-,-,11,"Mummio, Levino, Acilio, ed era seco",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,74,terzina,-,-,11,"Tito Flamminio, che con forza vinse,",1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,75,terzina,-,-,11,"ma vie più con pietate, il popol greco.",0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,76,terzina,-,-,11,Eravi quei che 'l re di Siria cinse,1,0,0,1,0,1,0,1,0,1,nessuna
+1,-,77,terzina,-,-,11,"d'un magnanimo cerchio, e co la fronte",0,0,1,0,0,1,0,0,0,1,nessuna
+1,-,78,terzina,-,-,11,e co la lingua a sua voglia lo strinse;,0,0,0,1,0,0,1,0,0,1,nessuna
+1,-,79,terzina,-,-,11,"e quel ch'armato, sol, difese un monte,",0,1,0,1,0,1,0,1,0,1,nessuna
+1,-,80,terzina,-,-,11,onde poi fu sospinto; e quel che solo,1,0,1,0,0,1,0,1,0,1,nessuna
+1,-,81,terzina,-,-,11,contra tutta Toscana tenne un ponte;,1,0,1,0,0,1,0,1,0,1,nessuna
+1,-,82,terzina,-,-,11,e chi a grande opra nel nemico stuolo,0,0,1,1,0,0,0,1,0,1,nessuna
+1,-,83,terzina,-,-,11,"mosse la mano indarno, e poscia l'arse,",1,0,0,1,0,1,0,1,0,1,nessuna
+1,-,84,terzina,-,-,11,sì seco irato che non sentì il duolo;,0,1,0,1,0,0,0,0,1,1,nessuna
+1,-,85,terzina,-,-,11,e chi 'n mar prima vincitor apparse,0,0,1,1,0,0,0,1,0,1,nessuna
+1,-,86,terzina,-,-,11,"contra' Carthaginesi, e chi lor navi",1,0,0,0,0,1,0,1,0,1,nessuna
+1,-,87,terzina,-,-,11,fra Cicilia e Sardigna ruppe e sparse.,0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,88,terzina,-,-,11,"Appio conobbi agli occhi, e' suoi che gravi",1,0,0,1,0,1,0,1,0,1,nessuna
+1,-,89,terzina,-,-,11,furon sempre e molesti a l'umil plebe.,1,0,1,0,0,1,0,1,0,1,nessuna
+1,-,90,terzina,-,-,11,Poi vidi un grande con atti soavi:,0,1,0,1,0,0,1,0,0,1,nessuna
+1,-,91,terzina,-,-,11,"e, se non che 'l suo lume allo estremo ebe,",0,0,0,1,0,1,0,0,1,1,nessuna
+1,-,92,terzina,-,-,11,"forse era il primo, e certo fu fra noi",1,0,0,1,0,1,0,0,0,1,nessuna
+1,-,93,terzina,-,-,11,"qual Baccho, Alcide e Epaminonda a Thebe;",0,1,0,1,0,0,0,1,0,1,nessuna
+1,-,94,terzina,-,-,11,ma 'l peggio è viver troppo! E vidi poi,0,1,0,1,0,1,0,1,0,1,nessuna
+1,-,95,terzina,-,-,11,quel che da l'esser suo destro e leggiero,1,0,0,1,0,1,1,0,0,1,nessuna
+1,-,96,terzina,-,-,11,"ebbe nome, e fu 'l fior de gli anni suoi.",0,0,1,0,0,1,0,1,0,1,nessuna
+1,-,129,terzina,-,-,11,"l'altro era in terra di mal peso carco,",1,0,0,1,0,0,0,1,0,1,nessuna
+1,-,130,terzina,-,-,11,come adiven a chi vertù relinque.,1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,1,terzina,-,-,11,Pien d'infinita e nobil meraviglia,1,0,0,1,0,1,0,0,0,1,nessuna
+2,-,2,terzina,-,-,11,"presa a mirar il buon popol di Marte,",1,0,0,1,0,0,1,0,0,1,nessuna
+2,-,3,terzina,-,-,11,"ch'al mondo non fu mai simil famiglia,",0,1,0,0,0,1,1,0,0,1,nessuna
+2,-,4,terzina,-,-,11,giungea la vista con l'antiche carte,0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,5,terzina,-,-,11,"ove son gli alti nomi e' sommi pregi,",0,0,1,1,0,1,0,1,0,1,nessuna
+2,-,6,terzina,-,-,11,e sentiv'al mio dir mancar gran parte.,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,7,terzina,-,-,11,Ma disviârmi i pellegrini egregi:,0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,8,terzina,-,-,11,"Hanibal primo, e quel cantato in versi",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,9,terzina,-,-,11,"Achille, che di fama ebbe gran fregi,",0,1,0,0,0,1,1,0,0,1,nessuna
+2,-,10,terzina,-,-,11,"i duo chiari troiani, e' duo gran persi,",0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,11,terzina,-,-,11,"Philippo e 'l figlio, che, da Pella a gl'Indi",0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,12,terzina,-,-,11,"correndo, vinse paesi diversi.",0,1,0,1,0,0,1,0,0,1,nessuna
+2,-,13,terzina,-,-,11,Vidi l'altro Alexandro non lunge indi,1,0,1,0,0,1,0,0,1,1,nessuna
+2,-,14,terzina,-,-,11,"non già correr così, ch'ebbe altro intoppo.",0,1,0,1,0,1,1,0,0,1,nessuna
+2,-,15,terzina,-,-,11,"Quanto del vero honor, Fortuna, scindi!",1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,16,terzina,-,-,11,"I tre theban ch'i' dissi, in un bel groppo;",0,0,0,1,0,1,0,0,0,1,nessuna
+2,-,17,terzina,-,-,11,"ne l'altro Aiace, Dïomede e Ulisse,",0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,18,terzina,-,-,11,che desiò del mondo veder troppo;,0,0,0,1,0,1,0,0,1,1,nessuna
+2,-,19,terzina,-,-,11,"Nestor, che tanto seppe e tanto visse;",1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,20,terzina,-,-,11,"Agamenòn e Menelao, che 'n spose",0,0,0,1,0,0,0,0,0,1,nessuna
+2,-,21,terzina,-,-,11,"poco felici, al mondo fer gran risse;",1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,22,terzina,-,-,11,"Leonida, ch'a' suoi lieto propose",0,1,0,0,0,1,1,0,0,1,nessuna
+2,-,23,terzina,-,-,11,"un duro prandio, una terribil cena,",0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,24,terzina,-,-,11,e 'n poca piazza fe' mirabil cose;,0,1,0,1,0,0,1,0,0,1,nessuna
+2,-,25,terzina,-,-,11,"ed Alcibiade, che sì spesso Athena",0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,26,terzina,-,-,11,"come fu suo piacer, volse e rivolse,",0,0,1,0,0,1,1,0,0,1,nessuna
+2,-,27,terzina,-,-,11,con dolce lingua e con fronte serena;,0,1,0,1,0,0,1,0,0,1,nessuna
+2,-,28,terzina,-,-,11,"Milciade, che 'l gran gioco a Grecia tolse,",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,29,terzina,-,-,11,"e 'l buon figliuol, che con pietà perfetta",0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,30,terzina,-,-,11,legò sé vivo e 'l padre morto sciolse;,0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,31,terzina,-,-,11,"Theseo, Temistoclès con questa setta,",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,32,terzina,-,-,11,"Aristidès, che fu un greco Fabritio:",0,0,0,1,0,0,1,0,0,1,nessuna
+2,-,33,terzina,-,-,11,a tutti fu crudelmente interdetta,0,1,0,1,0,0,1,0,0,1,nessuna
+2,-,34,terzina,-,-,11,la patria sepoltura; e l'altrui vitio,0,1,0,0,0,1,0,0,1,1,nessuna
+2,-,35,terzina,-,-,11,"illustra lor, ché nulla meglio scopre",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,36,terzina,-,-,11,contrari due com piccolo interstitio.,0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,37,terzina,-,-,11,"Phocïon va con questi tre di sopre,",0,0,1,1,0,0,0,1,0,1,nessuna
+2,-,38,terzina,-,-,11,che di sua terra fu scacciato morto:,0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,39,terzina,-,-,11,molto diverso il guidardon da l'opre.,1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,40,terzina,-,-,11,"Com'io mi volsi, il buon Pirro ebbi scorto,",0,1,0,1,0,0,1,0,0,1,nessuna
+2,-,41,terzina,-,-,11,"e 'l buon re Massinissa, e gli era aviso",0,0,1,0,0,1,0,0,0,1,nessuna
+2,-,42,terzina,-,-,11,d'esser senza i Roman ricever torto.,1,0,1,0,0,1,0,1,0,1,nessuna
+2,-,43,terzina,-,-,11,"Con lui, mirando quinci e quindi fiso,",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,44,terzina,-,-,11,"Iero siracusan conobbi, e 'l crudo",1,0,0,0,0,1,0,1,0,1,nessuna
+2,-,45,terzina,-,-,11,Amilcare da lor molto diviso.,0,1,0,0,0,1,1,0,0,1,nessuna
+2,-,46,terzina,-,-,11,"Vidi qual uscì già del foco, ignudo,",1,0,0,0,1,1,0,1,0,1,nessuna
+2,-,47,terzina,-,-,11,"il re di Lydia, manifesto exempio",0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,48,terzina,-,-,11,che poco val contra Fortuna scudo.,0,1,0,1,1,0,0,1,0,1,nessuna
+2,-,49,terzina,-,-,11,Vidi Siphace pari a simil scempio;,1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,50,terzina,-,-,11,"Brenno, sotto cui cadde gente molta,",1,0,0,0,1,1,0,1,0,1,nessuna
+2,-,51,terzina,-,-,11,e poi cadde ei sotto il delfico tempio.,0,1,0,1,1,0,1,0,0,1,nessuna
+2,-,52,terzina,-,-,11,"In habito diversa, in popol folta",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,53,terzina,-,-,11,"fu quella schiera; e, mentre gli occhi alto e",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,54,terzina,-,-,11,vidi una parte tutta in sé raccolta:,1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,55,terzina,-,-,11,"e quel che volse a Dio far grande albergo,",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,56,terzina,-,-,11,"per habitar fra gli uomini, era il primo;",0,0,0,1,0,1,0,1,0,1,nessuna
+2,-,57,terzina,-,-,11,"ma chi fe' l'opra, gli venia da tergo:",0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,58,terzina,-,-,11,"a lui fu destinato, onde da imo",0,1,0,0,0,1,1,0,0,1,nessuna
+2,-,59,terzina,-,-,11,"produsse al sommo l'edificio santo,",0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,60,terzina,-,-,11,"non tal dentro architetto, com'io estimo.",0,1,1,0,0,1,0,0,0,1,nessuna
+2,-,61,terzina,-,-,11,Poi quel ch'a Dio familïar fu tanto,1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,62,terzina,-,-,11,"in gratia a parlar seco a faccia a faccia,",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,63,terzina,-,-,11,che nesun altro se ne pò dar vanto;,0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,64,terzina,-,-,11,"e quel che, come uno animal s'allaccia,",0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,65,terzina,-,-,11,co la lingua possente legò 'l sole,0,0,1,0,0,1,0,0,1,1,nessuna
+2,-,66,terzina,-,-,11,per giugner de' nemici suoi la traccia:,0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,67,terzina,-,-,11,"o fidanza gentil! chi Dio ben cole,",0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,68,terzina,-,-,11,"quanto Dio à creato, aver suggetto,",1,0,1,0,0,1,0,1,0,1,nessuna
+2,-,69,terzina,-,-,11,e 'l ciel tener con semplici parole!,0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,70,terzina,-,-,11,"Poi vidi il padre nostro, a cui fu detto",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,71,terzina,-,-,11,ch'uscisse di sua terra e gisse al loco,0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,72,terzina,-,-,11,ch'a l'umana salute era già eletto;,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,73,terzina,-,-,11,"seco il figlio e 'l nipote, a cui fu il gioco",1,0,1,0,0,1,0,1,0,1,nessuna
+2,-,74,terzina,-,-,11,fatto de le due spose; e 'l saggio e casto,1,0,0,0,0,1,0,1,0,1,nessuna
+2,-,75,terzina,-,-,11,Iosèph dal padre lontanarsi un poco.,0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,76,terzina,-,-,11,"Poi, stendendo la vista quant'io basto,",1,0,1,0,0,1,0,0,0,1,nessuna
+2,-,77,terzina,-,-,11,"colui vidi, oltra il qual occhio non varca,",0,0,1,1,0,1,1,0,0,1,nessuna
+2,-,78,terzina,-,-,11,la cui inobedienza à il mondo guasto.,0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,79,terzina,-,-,11,"Di qua da lui chi fece la grande arca,",0,1,0,1,0,1,0,0,1,1,nessuna
+2,-,80,terzina,-,-,11,"e quei che cominciò poi la gran torre,",0,1,0,0,0,1,1,0,0,1,nessuna
+2,-,81,terzina,-,-,11,che fu sì di peccato e d'error carca.,0,1,0,0,0,1,0,0,1,1,nessuna
+2,-,82,terzina,-,-,11,"Poi quel buon Iuda, a cui nesun pò tôrre",1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,83,terzina,-,-,11,"le sue leggi paterne, invitto e franco",0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,84,terzina,-,-,11,come uom che per giustitia a morte corre.,0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,85,terzina,-,-,11,"Già era il mio desio presso che stanco,",0,1,0,0,0,1,0,0,1,1,nessuna
+2,-,86,terzina,-,-,11,quando mi fece una leggiadra vista,1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,87,terzina,-,-,11,più vago di mirar ch'i' ne fossi anco.,0,1,0,0,0,1,0,0,1,1,nessuna
+2,-,88,terzina,-,-,11,"I' vidi alquante donne ad una lista,",0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,89,terzina,-,-,11,"Antïope ed Orithia, armata e bella,",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,90,terzina,-,-,11,"Ipolita, del figlio afflitta e trista,",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,91,terzina,-,-,11,"e Menalippe, e ciascuna sì snella",0,0,0,1,0,0,1,0,0,1,nessuna
+2,-,92,terzina,-,-,11,che vincerle fu gloria al grande Alcide:,0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,93,terzina,-,-,11,"e' l'una ebbe, e Teseo l'altra sorella;",0,1,1,0,0,1,1,0,0,1,nessuna
+2,-,94,terzina,-,-,11,la vedova che sì secura vide,0,1,0,0,0,0,0,1,0,1,nessuna
+2,-,95,terzina,-,-,11,"morto 'l figliolo, e tal vendetta feo",1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,96,terzina,-,-,11,"ch'uccise Ciro, ed or sua fama uccide,",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,97,terzina,-,-,11,"però che, udendo ancora il suo fin reo,",0,1,0,1,0,1,0,0,1,1,nessuna
+2,-,98,terzina,-,-,11,par che di novo a sua gran colpa muoia;,1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,99,terzina,-,-,11,tanto quel dì del suo nome perdeo!,1,0,0,1,0,0,1,0,0,1,nessuna
+2,-,100,terzina,-,-,11,Poi vidi quella che mal vide Troia;,0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,101,terzina,-,-,11,e fra queste una vergine latina,0,0,1,0,0,1,0,0,0,1,nessuna
+2,-,102,terzina,-,-,11,ch'in Italia a' Troian fe' molta noia.,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,103,terzina,-,-,11,"Poi vidi la magnanima reina,",0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,104,terzina,-,-,11,ch'una treccia ravolta e l'altra sparsa,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,105,terzina,-,-,11,corse a la babilonica rapina.,1,0,0,0,0,1,0,0,0,1,nessuna
+2,-,106,terzina,-,-,11,Poi Cleopatra; e l'un' e l'altra er'arsa,1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,107,terzina,-,-,11,d'indegno foco; e vidi in quella tresca,0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,108,terzina,-,-,11,"Zenobia, del suo honore assai più scarsa.",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,109,terzina,-,-,11,"Bella era, e nell'età fiorita e fresca:",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,110,terzina,-,-,11,"quanto in più gioventute e 'n più bellezza,",1,0,0,0,0,1,0,0,0,1,nessuna
+2,-,111,terzina,-,-,11,tanto par ch'onestà sua laude accresca.,1,0,1,0,0,1,0,1,0,1,nessuna
+2,-,112,terzina,-,-,11,Nel cor femineo fu sì gran fermezza,0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,113,terzina,-,-,11,che col bel viso e coll'armata coma,0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,114,terzina,-,-,11,fece temer chi per natura sprezza:,1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,115,terzina,-,-,11,"io parlo de l'imperio alto di Roma,",0,1,0,0,0,1,1,0,0,1,nessuna
+2,-,116,terzina,-,-,11,"che con arme assalìo, ben ch'a l'estremo",0,0,1,0,0,1,1,0,0,1,nessuna
+2,-,117,terzina,-,-,11,fusse al nostro triumpho ricca soma.,1,0,1,0,0,1,0,1,0,1,nessuna
+2,-,118,terzina,-,-,11,"Fra' nomi che in dir breve ascondo e premo,",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,119,terzina,-,-,11,"non fia Iudìth, la vedovetta ardita",0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,120,terzina,-,-,11,che fe' il folle amador del capo scemo.,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,121,terzina,-,-,11,"Ma Nino, ond'ogni historia humana è ordita,",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,122,terzina,-,-,11,"dove lasc'io? e 'l suo gran successore,",1,0,0,1,0,0,1,0,0,1,nessuna
+2,-,123,terzina,-,-,11,che superbia condusse a bestial vita?,0,0,1,0,0,1,0,0,1,1,nessuna
+2,-,124,terzina,-,-,11,"Belo dove riman, fonte d'errore,",1,0,1,0,0,1,1,0,0,1,nessuna
+2,-,125,terzina,-,-,11,"non per sua colpa? Dov'è Zoroastro,",1,0,0,1,0,1,0,0,0,1,nessuna
+2,-,126,terzina,-,-,11,che fu de l'arte magiche inventore?,0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,127,terzina,-,-,11,E chi de' nostri dogi che 'n duro astro,0,1,0,1,0,1,0,0,1,1,nessuna
+2,-,128,terzina,-,-,11,"passâr l'Eufrate, fece il mal governo,",0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,129,terzina,-,-,11,a l'italiche doglie fero impiastro?,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,130,terzina,-,-,11,"Ov'è 'l gran Mitridate, quello eterno",0,1,0,0,0,1,0,1,0,1,nessuna
+2,-,131,terzina,-,-,11,"nemico de' Roman, che sì ramingo",0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,132,terzina,-,-,11,fuggì dinanzi a lor la state e 'l verno?,0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,133,terzina,-,-,11,Molte gran cose in picciol fascio stringo:,1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,134,terzina,-,-,11,"ov'è un re Arturo, e tre Cesari Augusti,",0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,135,terzina,-,-,11,"un d'Affrica, un di Spagna, un Lottoringo?",0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,136,terzina,-,-,11,Cingean costui suo' dodici robusti.,0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,137,terzina,-,-,11,"Poi venia solo il buon duce Goffrido,",0,0,1,1,0,0,1,0,0,1,nessuna
+2,-,138,terzina,-,-,11,che fe' l'impresa santa e' passi giusti.,0,0,0,1,0,1,0,1,0,1,nessuna
+2,-,139,terzina,-,-,11,Questo (di ch'io mi sdegno e 'ndarno grido),1,0,0,0,0,1,0,1,0,1,nessuna
+2,-,140,terzina,-,-,11,fece in Ierusalem colle sue mani,1,0,0,0,0,1,0,0,0,1,nessuna
+2,-,141,terzina,-,-,11,il mal guardato e già negletto nido.,0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,142,terzina,-,-,11,"Gite superbi, o miseri christiani,",1,0,0,1,0,1,0,0,0,1,nessuna
+2,-,143,terzina,-,-,11,"consumando l'un l'altro, e non vi caglia",0,0,1,0,0,1,0,0,0,1,nessuna
+2,-,144,terzina,-,-,11,che 'l sepolcro di Cristo è in man de' cani!,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,145,terzina,-,-,11,Raro o nesun che 'n alta fama saglia,1,0,0,1,0,1,0,1,0,1,nessuna
+2,-,146,terzina,-,-,11,"vidi dopo costui, s'io non m'inganno,",1,0,1,0,0,1,0,0,0,1,nessuna
+2,-,147,terzina,-,-,11,o per arte di pace o di battaglia.,0,0,1,0,0,1,0,0,0,1,nessuna
+2,-,148,terzina,-,-,11,"Pur, come uomini eletti ultimi vanno,",1,0,1,0,0,1,1,0,0,1,nessuna
+2,-,149,terzina,-,-,11,vidi verso la fine il saracino,1,0,1,0,0,1,0,0,0,1,nessuna
+2,-,150,terzina,-,-,11,che fece a' nostri assai vergogna e danno.,0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,151,terzina,-,-,11,Quel di Luria seguiva il Saladino;,0,0,1,0,0,1,0,0,0,1,nessuna
+2,-,152,terzina,-,-,11,"poi il duca di Lancastro, che pur dianzi",0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,153,terzina,-,-,11,era al regno de' Franchi aspro vicino.,1,0,1,0,0,1,1,0,0,1,nessuna
+2,-,154,terzina,-,-,11,"Miro, come uom che volentier s'avanzi,",1,0,0,1,0,0,0,1,0,1,nessuna
+2,-,155,terzina,-,-,11,s'alcuno ivi vedessi qual egli era,0,1,1,0,0,1,0,1,0,1,nessuna
+2,-,156,terzina,-,-,11,altrove agli occhi mei veduto inanzi;,0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,157,terzina,-,-,11,e vidi duo che si partir iersera,0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,158,terzina,-,-,11,di questa nostra etate e del paese;,0,1,0,1,0,1,0,0,0,1,nessuna
+2,-,159,terzina,-,-,11,costor chiudean quella honorata schiera:,0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,160,terzina,-,-,11,il buon re cicilian che 'n alto intese,0,0,1,0,0,1,0,1,0,1,nessuna
+2,-,161,terzina,-,-,11,e lunge vide e fu veramente Argo;,0,1,0,1,0,1,0,0,1,1,nessuna
+2,-,162,terzina,-,-,11,"dall'altra parte il mio gran Colonnese,",0,0,0,1,0,0,1,0,0,1,nessuna
+2,-,163,terzina,-,-,11,"magnanimo, gentil, constante e largo.",0,1,0,0,0,1,0,1,0,1,nessuna
+3,-,1,terzina,-,-,11,"Io non sapea da tal vista levarme,",0,0,0,1,0,0,1,0,0,1,nessuna
+3,-,2,terzina,-,-,11,"quand'io udi': ""Pon' mente a l'altro lato,",0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,3,terzina,-,-,11,"ché s'acquista ben pregio altro che d'arme.""",0,0,1,0,0,1,1,0,0,1,nessuna
+3,-,4,terzina,-,-,11,"Volsimi da man manca; e vidi Plato,",1,0,0,0,0,1,0,1,0,1,nessuna
+3,-,5,terzina,-,-,11,che 'n quella schiera andò più presso al segn,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,6,terzina,-,-,11,al qual aggiunge cui dal cielo è dato;,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,7,terzina,-,-,11,"Aristotele poi, pien d'alto ingegno;",0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,8,terzina,-,-,11,"Pythagora, che primo humilemente",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,9,terzina,-,-,11,philosophia chiamò per nome degno;,0,0,0,1,0,1,0,1,0,1,nessuna
+3,-,10,terzina,-,-,11,Socrate e Xenophonte; e quello ardente,1,0,0,0,0,1,0,1,0,1,nessuna
+3,-,11,terzina,-,-,11,vecchio a cui fur le Muse tanto amiche,1,0,1,0,0,1,0,1,0,1,nessuna
+3,-,12,terzina,-,-,11,ch'Argo e Micena e Troia se ne sente.,1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,13,terzina,-,-,11,Questo cantò gli errori e le fatiche,1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,14,terzina,-,-,11,"del figliuol di Laerte e d'una diva,",0,0,1,0,0,1,0,0,0,1,nessuna
+3,-,15,terzina,-,-,11,primo pintor de le memorie antiche.,1,0,0,1,0,0,0,1,0,1,nessuna
+3,-,16,terzina,-,-,11,A man a man con lui cantando giva,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,17,terzina,-,-,11,il mantovan che di par seco giostra;,0,0,0,1,0,0,1,1,0,1,nessuna
+3,-,18,terzina,-,-,11,ed un al cui passar l'erba fioriva:,0,1,0,1,0,1,1,0,0,1,nessuna
+3,-,19,terzina,-,-,11,"questo è quel Marco Tullio, in cui si mostra",1,0,0,1,0,1,0,1,0,1,nessuna
+3,-,20,terzina,-,-,11,chiaro quanti eloquentia à frutti e fiori.,1,0,1,0,0,1,0,1,0,1,nessuna
+3,-,21,terzina,-,-,11,Questi son gli occhi de la lingua nostra.,1,0,0,1,0,0,0,1,0,1,nessuna
+3,-,22,terzina,-,-,11,"Dopo venia Demostene, che fori",1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,23,terzina,-,-,11,"è di speranza omai del primo loco,",0,0,0,1,0,1,0,1,0,1,nessuna
+3,-,24,terzina,-,-,11,non ben contento de' secondi honori.,0,0,0,1,0,0,0,1,0,1,nessuna
+3,-,25,terzina,-,-,11,Un gran folgor parea tutto di foco;,0,0,1,0,0,1,1,0,0,1,nessuna
+3,-,26,terzina,-,-,11,"Eschine il dica, che 'l poteo sentire,",1,0,0,1,0,0,0,1,0,1,nessuna
+3,-,27,terzina,-,-,11,quando presso al suo tuon parve già fioco.,1,0,1,0,0,1,1,0,0,1,nessuna
+3,-,28,terzina,-,-,11,Io non posso per ordine ridire,0,0,1,0,0,1,0,0,0,1,nessuna
+3,-,29,terzina,-,-,11,"questo o quel dove mi vedessi, o quando,",1,0,0,1,1,0,0,1,0,1,nessuna
+3,-,30,terzina,-,-,11,"e qual andare inanzi, e qual seguire,",0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,31,terzina,-,-,11,"ché, cose innumerabili pensando,",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,32,terzina,-,-,11,"e mirando la turba tale e tanta,",0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,33,terzina,-,-,11,l'occhio e 'l pensier m'andava disviando.,1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,34,terzina,-,-,11,"Vidi Solon, di cui fu l'util pianta",1,0,0,1,0,1,0,1,0,1,nessuna
+3,-,35,terzina,-,-,11,"che, se mal colta è, mal frutto produce,",0,0,0,1,1,0,1,0,0,1,nessuna
+3,-,36,terzina,-,-,11,co gli altri sei di che Grecia si vanta.,0,1,0,1,0,0,1,0,0,1,nessuna
+3,-,37,terzina,-,-,11,Qui vid'io nostra gente aver per duce,1,0,1,1,0,1,0,1,0,1,nessuna
+3,-,38,terzina,-,-,11,"Varrone, il terzo gran lume romano,",0,1,0,1,0,0,1,0,0,1,nessuna
+3,-,39,terzina,-,-,11,"che, quando il miri più, tanto più luce;",0,1,0,1,0,1,0,0,1,1,nessuna
+3,-,40,terzina,-,-,11,Crespo Salustio; e seco a mano a mano,1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,41,terzina,-,-,11,"un che già l'ebbe a schifo e 'l vide torto,",1,0,0,1,0,1,0,1,0,1,nessuna
+3,-,42,terzina,-,-,11,cioè 'l gran Tito Livio padovano.,1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,43,terzina,-,-,11,"Mentr'io 'l mirava, subito ebbi scorto",0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,44,terzina,-,-,11,"quel Plinio veronese, suo vicino,",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,45,terzina,-,-,11,"a scriver molto, a morir poco accorto.",0,1,0,1,0,0,1,1,0,1,nessuna
+3,-,46,terzina,-,-,11,"Poi vidi il gran platonico Plotino,",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,47,terzina,-,-,11,"che, credendosi in otio viver salvo,",0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,48,terzina,-,-,11,"prevento fu dal suo fero destino,",0,1,0,1,0,0,1,0,0,1,nessuna
+3,-,49,terzina,-,-,11,"il qual seco venia dal materno alvo,",0,0,1,0,0,1,0,0,1,1,nessuna
+3,-,50,terzina,-,-,11,e però providentia ivi non valse;,0,0,1,0,0,1,1,0,0,1,nessuna
+3,-,51,terzina,-,-,11,"poi Crasso, Antonio, Hortensio, Galba, e Calv",0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,52,terzina,-,-,11,"con Pollïon, che 'n tal superbia salse",0,0,0,1,0,0,1,0,0,1,nessuna
+3,-,53,terzina,-,-,11,che contra quel d'Arpino armâr le lingue,0,1,0,0,0,1,0,1,0,1,nessuna
+3,-,54,terzina,-,-,11,cercando ambeduo fame indegne e false.,0,1,0,0,1,1,0,1,0,1,nessuna
+3,-,55,terzina,-,-,11,"Tuchidide vid'io, che ben distingue",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,56,terzina,-,-,11,i tempi e' luoghi e l'opere leggiadre,0,1,0,1,0,1,0,0,0,1,nessuna
+3,-,57,terzina,-,-,11,e di che sangue qual campo s'impingue.,0,0,0,1,0,0,1,0,0,1,nessuna
+3,-,58,terzina,-,-,11,"Herodoto, di greca historia padre,",0,1,0,0,0,1,0,1,0,1,nessuna
+3,-,59,terzina,-,-,11,"vidi, e dipinto il nobil geometra",1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,60,terzina,-,-,11,di triangoli e tondi e forme quadre;,0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,61,terzina,-,-,11,e quel che 'nver di noi divenne petra:,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,62,terzina,-,-,11,"Porfirio, che d'acuti silogismi",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,63,terzina,-,-,11,"empié la dïaletica faretra,",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,64,terzina,-,-,11,faccendo contra 'l vero arme i sofismi;,0,1,0,1,0,1,1,0,0,1,nessuna
+3,-,65,terzina,-,-,11,"e quel di Coo, che fe' vie miglior l'opra,",0,1,0,1,0,1,0,0,1,1,nessuna
+3,-,66,terzina,-,-,11,se bene intesi fusser gli aforismi.,0,0,0,1,0,1,0,0,0,1,nessuna
+3,-,67,terzina,-,-,11,"Apollo ed Esculapio gli son sopra,",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,68,terzina,-,-,11,"chiusi, ch'a pena il viso gli comprende,",1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,69,terzina,-,-,11,sì par che i nomi il tempo limi e copra.,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,70,terzina,-,-,11,Un di Pergamo il segue; e in lui pende,0,0,1,0,0,1,0,0,1,1,nessuna
+3,-,71,terzina,-,-,11,"l'arte guasta fra noi, allor non vile,",1,0,1,0,0,1,0,1,0,1,nessuna
+3,-,72,terzina,-,-,11,ma breve e scura; e' la dichiara e stende.,0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,73,terzina,-,-,11,"Vidi Anaxarco intrepido e virile,",1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,74,terzina,-,-,11,"e Xenocrate più saldo ch'un sasso,",0,0,1,0,0,0,1,0,0,1,nessuna
+3,-,75,terzina,-,-,11,che nulla forza volse ad atto vile.,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,76,terzina,-,-,11,"Vidi Archimede star col viso basso,",1,0,0,1,0,1,0,1,0,1,nessuna
+3,-,77,terzina,-,-,11,"e Democrito andar tutto pensoso,",0,0,1,0,0,1,1,0,0,1,nessuna
+3,-,78,terzina,-,-,11,per suo voler di lume e d'oro casso.,0,0,0,1,0,1,0,1,0,1,nessuna
+3,-,79,terzina,-,-,11,"Vidi Ippia, el vecchiarel che già fu oso",1,1,0,0,0,1,0,1,0,1,nessuna
+3,-,80,terzina,-,-,11,"dir: ""Io so tutto"", e poi di nulla certo,",1,0,0,1,0,1,0,1,0,1,nessuna
+3,-,81,terzina,-,-,11,ma d'ogni cosa Archesilao dubbioso.,0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,82,terzina,-,-,11,"Vidi in suoi detti Heraclito coverto,",1,0,0,1,0,1,0,0,0,1,nessuna
+3,-,83,terzina,-,-,11,"e Diogene cinico, in suo' fatti",0,0,1,0,0,1,0,0,0,1,nessuna
+3,-,84,terzina,-,-,11,"assai più che non vuol vergogna, aperto;",0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,85,terzina,-,-,11,e quel che lieto i suo' campi disfatti,0,1,0,1,0,0,1,0,0,1,nessuna
+3,-,86,terzina,-,-,11,"vide e deserti, d'altre merci carco,",1,0,0,1,0,1,0,1,0,1,nessuna
+3,-,87,terzina,-,-,11,credendo averne invidïosi patti.,0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,88,terzina,-,-,11,"Ivi era il curïoso Dicearco,",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,89,terzina,-,-,11,"ed, in suo' magisteri assai dispari,",0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,90,terzina,-,-,11,Quintilïano e Seneca e Plutarco.,0,0,0,1,0,1,0,0,0,1,nessuna
+3,-,91,terzina,-,-,11,Vidivi alquanti ch'àn turbati i mari,1,0,0,1,0,0,0,1,0,1,nessuna
+3,-,92,terzina,-,-,11,"con venti adversi e con ingegni vaghi,",0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,93,terzina,-,-,11,"non per saver, ma per contender chiari,",0,0,0,1,0,0,0,1,0,1,nessuna
+3,-,94,terzina,-,-,11,"urtar come leoni, e come draghi",0,1,0,0,0,1,0,0,0,1,nessuna
+3,-,95,terzina,-,-,11,"co le code avinghiarsi: or, che è questo,",0,0,1,0,0,1,1,0,0,1,nessuna
+3,-,96,terzina,-,-,11,ch'ognun del suo saver par che s'appaghi?,0,1,0,0,0,1,1,0,0,1,nessuna
+3,-,97,terzina,-,-,11,Carneade vidi in suo' studi sì desto,0,1,0,1,0,0,1,0,0,1,nessuna
+3,-,98,terzina,-,-,11,"che, parlando egli, il vero e 'l falso a pena",0,0,1,1,0,1,0,1,0,1,nessuna
+3,-,99,terzina,-,-,11,si discernea; così nel dir fu presto.,0,0,0,1,0,1,0,1,0,1,nessuna
+3,-,100,terzina,-,-,11,La lunga vita e la sua larga vena,0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,101,terzina,-,-,11,"d'ingegno pose in accordar le parti,",0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,102,terzina,-,-,11,che 'l furor litterato a guerra mena;,0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,103,terzina,-,-,11,"né 'l poteo far, ché, come crebber l'arti,",0,0,0,1,0,1,0,1,0,1,nessuna
+3,-,104,terzina,-,-,11,"crebbe l'invidia, e col savere inseme",1,0,0,1,0,0,0,1,0,1,nessuna
+3,-,105,terzina,-,-,11,ne' cori enfiati i suo' veneni à sparti.,0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,106,terzina,-,-,11,"Contra 'l buon siro, che l'umana speme",1,0,0,1,0,0,0,1,0,1,nessuna
+3,-,107,terzina,-,-,11,"alzò, ponendo l'anima immortale,",0,1,0,1,0,1,0,0,0,1,nessuna
+3,-,108,terzina,-,-,11,"s'armò Epicuro, onde sua fama geme,",0,1,0,1,1,0,0,1,0,1,nessuna
+3,-,109,terzina,-,-,11,ardito a dir ch'ella non fusse tale;,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,110,terzina,-,-,11,"così al lume fu famoso e lippo,",0,1,0,1,0,0,0,1,0,1,nessuna
+3,-,111,terzina,-,-,11,co la brigata al suo maestro eguale:,0,0,0,1,0,0,0,1,0,1,nessuna
+3,-,112,terzina,-,-,11,di Metrodoro parlo e d'Aristippo.,0,0,0,1,0,1,0,0,0,1,nessuna
+3,-,113,terzina,-,-,11,"Poi con gran subbio, e con mirabil fuso",1,0,0,1,0,0,0,1,0,1,nessuna
+3,-,114,terzina,-,-,11,vidi tela sottil ordir Crisippo.,1,0,1,0,0,1,1,0,0,1,nessuna
+3,-,115,terzina,-,-,11,"Degli stoïci il padre alzato in suso,",0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,116,terzina,-,-,11,"per far chiaro suo dir, vidi Zenone",0,0,1,0,0,1,1,0,0,1,nessuna
+3,-,117,terzina,-,-,11,mostrar la palma aperta e 'l pugno chiuso;,0,1,0,1,0,1,0,1,0,1,nessuna
+3,-,118,terzina,-,-,11,e per fermar sua bella intentïone,0,0,0,1,0,1,0,0,0,1,nessuna
+3,-,119,terzina,-,-,11,"dipinger la sua tavola Cleante,",0,0,1,0,0,1,0,1,0,1,nessuna
+3,-,120,terzina,-,-,11,che tira al ver la vaga opinïone.,0,1,0,1,0,1,0,0,0,1,nessuna
