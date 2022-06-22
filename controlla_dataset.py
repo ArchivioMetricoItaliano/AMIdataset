@@ -44,6 +44,9 @@ for ind,trascrizione in enumerate(trascrizioniAMI):
         description = next(g)
         controlla_righa_cominci(description,"#dc:description",trascrizione)
         controlla_numero_colonne(description,trascrizione)
+        desc = list(csv.reader([description]))[0]
+        if len(desc[1]) < 50 or len(desc[1]) > 5000:
+             warnings.showwarning("%s riga %s  - la descrizione dovrebbe avere dai 50 ai 5000 caratteri." % (trascrizione,desc[1]),DatasetValidationError,trascrizione,lineno=4)
         author = list(csv.reader([next(g)]))[0]
         campo_richiesto(author[0],trascrizione,'Autore')
         controlla_righa_cominci(author[0],"#dc:author",trascrizione)
