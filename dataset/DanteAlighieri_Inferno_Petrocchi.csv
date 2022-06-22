@@ -1,7 +1,7 @@
 #DEFINITIONS,dc=http://purl.org/dc/elements/1.1/,,,,,,,,,,,,,,,,,
 #dc:conformsTo,ami.it/dataformat,,,,,,,,,,,,,,,,,
 #dc:identifier,DanteAlighieri_Inferno_Petrocchi,,,,,,,,,,,,,,,,,
-#dc:description,questa è una trascrizione fatta nel corso dei progetti precedenti.,,,,,,,,,,,,,,,,,
+#dc:description,Trascrizione e analisi dei versi del componimento Inferno di Dante Alighieri. Riadattato dall'archivio AMI originale. ,,,,,,,,,,,,,,,,,
 #dc:author,"Dante Alighieri",,,# autore del componimento non del file,,,,,,,,,,,,,,
 #dc:title,"Inferno",,,# titolo del componimento non del file,,,,,,,,,,,,,,
 #dc:date,,,,# periodo in cui è stata scritta l'opera nel seguente formato: termine post quem/termine ante quem gg-mm-aaaa/gg-mm-aaa ,,,,,,,,,,,,,,
