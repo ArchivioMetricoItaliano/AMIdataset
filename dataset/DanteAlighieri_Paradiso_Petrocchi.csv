@@ -290,6 +290,15 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,-,131,terzina,-,-,11,de la mente profonda che lui volve,0,0,1,0,0,1,0,0,1,1,nessuna
 2,-,132,terzina,-,-,11,prende l'image e fassene suggello.,1,0,0,1,0,1,0,0,0,1,nessuna
 2,-,133,terzina,-,-,11,E come l'alma dentro a vostra polve,0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,134,terzina,-,-,11,per differenti membra e conformate,0,0,0,1,0,1,0,0,0,1,nessuna
+2,-,135,terzina,-,-,11,"a diverse potenze si risolve,",0,0,1,0,0,1,0,0,0,1,nessuna
+2,-,136,terzina,-,-,11,così l'intelligenza sua bontate,0,1,0,0,0,1,0,0,0,1,nessuna
+2,-,137,terzina,-,-,11,"multiplicata per le stelle spiega,",0,0,0,1,0,0,0,1,0,1,nessuna
+2,-,138,terzina,-,-,11,girando sé sovra sua unitate.,0,1,0,1,1,0,0,0,0,1,nessuna
+2,-,139,terzina,-,-,11,Virtù diversa fa diversa lega,0,1,0,1,0,0,0,1,0,1,nessuna
+2,-,140,terzina,-,-,11,"col prezioso corpo ch'ella avviva,",0,0,0,1,0,1,0,1,0,1,nessuna
+2,-,141,terzina,-,-,11,"nel qual, sì come vita in voi, si lega.",0,1,0,1,0,1,0,1,0,1,nessuna
+2,-,142,terzina,-,-,11,"Per la natura lieta onde deriva,",0,0,0,1,0,1,1,0,0,1,nessuna
 2,-,143,terzina,-,-,11,la virtù mista per lo corpo luce,0,0,1,1,0,0,0,1,0,1,nessuna
 2,-,144,terzina,-,-,11,come letizia per pupilla viva.,1,0,0,1,0,0,0,1,0,1,nessuna
 2,-,145,terzina,-,-,11,Da essa vien ciò che da luce a luce,0,1,0,1,1,0,0,1,0,1,nessuna
@@ -565,6 +574,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 4,-,137,terzina,-,-,11,"ai voti manchi sì con altri beni,",0,1,0,1,0,1,0,1,0,1,nessuna
 4,-,138,terzina,-,-,11,"ch'a la vostra statera non sien parvi"".",0,0,1,0,0,1,0,0,0,1,nessuna
 4,-,139,terzina,-,-,11,Beatrice mi guardò con li occhi pieni,0,1,0,0,0,1,0,1,0,1,nessuna
+4,-,140,terzina,-,-,11,"di faville d'amor così divini,",0,0,1,0,0,1,0,1,0,1,nessuna
+4,-,141,terzina,-,-,11,"che, vinta, mia virtute diè le reni,",1,1,0,0,0,1,0,0,0,1,nessuna
+4,-,142,terzina,-,-,11,e quasi mi perdei con li occhi chini.,0,1,0,0,0,1,0,1,0,1,nessuna
 5,-,1,terzina,-,-,11,"""S'io ti fiammeggio nel caldo d'amore",0,0,0,1,0,0,1,0,0,1,nessuna
 5,-,2,terzina,-,-,11,"di là dal modo che 'n terra si vede,",0,1,0,1,0,0,1,0,0,1,nessuna
 5,-,3,terzina,-,-,11,"sì che del viso tuo vinco il valore,",1,0,0,1,0,1,1,0,0,1,nessuna
@@ -701,6 +713,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,-,134,terzina,-,-,11,"per troppa luce, come 'l caldo ha róse",0,1,0,1,0,1,0,1,0,1,nessuna
 5,-,135,terzina,-,-,11,"le temperanze d'i vapori spessi,",0,0,0,1,0,0,0,1,0,1,nessuna
 5,-,136,terzina,-,-,11,per più letizia sì mi si nascose,0,0,0,1,0,1,0,0,0,1,nessuna
+5,-,137,terzina,-,-,11,dentro al suo raggio la figura santa;,1,0,0,1,0,0,0,1,0,1,nessuna
+5,-,138,terzina,-,-,11,e così chiusa chiusa mi rispuose,0,0,1,1,0,1,0,0,0,1,nessuna
+5,-,139,terzina,-,-,11,nel modo che 'l seguente canto canta.,0,1,0,0,0,1,0,1,0,1,nessuna
 6,-,1,terzina,-,-,11,"""Poscia che Costantin l'aquila volse",1,0,0,0,0,1,1,0,0,1,nessuna
 6,-,2,terzina,-,-,11,"contr'al corso del ciel, ch'ella seguio",1,0,1,0,0,1,1,0,0,1,nessuna
 6,-,3,terzina,-,-,11,"dietro a l'antico che Lavina tolse,",1,0,0,1,0,0,0,1,0,1,nessuna
@@ -816,6 +831,33 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 6,-,113,terzina,-,-,11,di buoni spirti che son stati attivi,0,1,0,1,0,0,0,1,0,1,nessuna
 6,-,114,terzina,-,-,11,perché onore e fama li succeda:,0,1,0,1,0,1,0,0,0,1,nessuna
 6,-,115,terzina,-,-,11,"e quando li disiri poggian quivi,",0,1,0,0,0,1,0,1,0,1,nessuna
+6,-,116,terzina,-,-,11,"sì disviando, pur convien che i raggi",0,0,0,1,0,1,0,1,0,1,nessuna
+6,-,117,terzina,-,-,11,del vero amore in sù poggin men vivi.,0,1,0,1,0,1,1,0,0,1,nessuna
+6,-,118,terzina,-,-,11,Ma nel commensurar d'i nostri gaggi,1,0,0,0,0,1,0,1,0,1,nessuna
+6,-,119,terzina,-,-,11,"col merto è parte di nostra letizia,",0,1,0,1,0,0,1,0,0,1,nessuna
+6,-,120,terzina,-,-,11,perché non li vedem minor né maggi.,0,1,0,0,0,1,0,1,0,1,nessuna
+6,-,121,terzina,-,-,11,Quindi addolcisce la viva giustizia,1,0,0,1,0,0,1,0,0,1,nessuna
+6,-,122,terzina,-,-,11,"in noi l'affetto sì, che non si puote",0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,123,terzina,-,-,11,torcer già mai ad alcuna nequizia.,1,0,0,1,0,0,1,0,0,1,nessuna
+6,-,124,terzina,-,-,11,Diverse voci fanno dolci note;,0,1,0,1,0,1,0,1,0,1,nessuna
+6,-,125,terzina,-,-,11,così diversi scanni in nostra vita,0,1,0,1,0,1,0,1,0,1,nessuna
+6,-,126,terzina,-,-,11,rendon dolce armonia tra queste rote.,1,0,1,0,0,1,0,1,0,1,nessuna
+6,-,127,terzina,-,-,11,E dentro a la presente margarita,0,1,0,0,0,1,0,0,0,1,nessuna
+6,-,128,terzina,-,-,11,"luce la luce di Romeo, di cui",1,0,0,1,0,0,0,1,0,1,nessuna
+6,-,129,terzina,-,-,11,fu l'ovra grande e bella mal gradita.,0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,130,terzina,-,-,11,Ma i Provenzai che fecer contra lui,0,0,0,1,0,1,0,1,0,1,nessuna
+6,-,131,terzina,-,-,11,non hanno riso; e però mal cammina,0,1,0,1,0,0,1,0,0,1,nessuna
+6,-,132,terzina,-,-,11,qual si fa danno del ben fare altrui.,1,0,0,1,0,0,0,1,0,1,nessuna
+6,-,133,terzina,-,-,11,"Quattro figlie ebbe, e ciascuna reina,",1,0,1,1,0,0,1,0,0,1,nessuna
+6,-,134,terzina,-,-,11,"Ramondo Beringhiere, e ciò li fece",0,1,0,0,0,1,0,1,0,1,nessuna
+6,-,135,terzina,-,-,11,"Romeo, persona umìle e peregrina.",0,1,0,1,0,1,0,0,0,1,nessuna
+6,-,136,terzina,-,-,11,E poi il mosser le parole biece,0,1,0,1,0,0,0,1,0,1,nessuna
+6,-,137,terzina,-,-,11,"a dimandar ragione a questo giusto,",0,0,0,1,0,1,0,1,0,1,nessuna
+6,-,138,terzina,-,-,11,"che li assegnò sette e cinque per diece,",0,0,0,1,1,0,1,0,0,1,nessuna
+6,-,139,terzina,-,-,11,indi partissi povero e vetusto;,1,0,0,1,0,1,0,0,0,1,nessuna
+6,-,140,terzina,-,-,11,e se 'l mondo sapesse il cor ch'elli ebbe,0,0,1,0,0,1,0,1,0,1,nessuna
+6,-,141,terzina,-,-,11,"mendicando sua vita a frusto a frusto,",0,0,1,0,0,1,0,1,0,1,nessuna
+6,-,142,terzina,-,-,11,"assai lo loda, e più lo loderebbe"".",0,1,0,1,0,1,0,0,0,1,nessuna
 7,-,1,terzina,-,-,11,"""Osanna, sanctus Deus sabaòth,",0,1,0,1,0,1,0,0,0,1,nessuna
 7,-,2,terzina,-,-,11,superillustrans claritate tua,0,0,0,1,0,0,0,1,0,1,nessuna
 7,-,3,terzina,-,-,11,"felices ignes horum malacòth!"".",0,1,0,1,0,1,0,0,0,1,nessuna
@@ -946,6 +988,12 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 7,-,128,terzina,-,-,11,"per che, se ciò ch'è detto è stato vero,",0,1,0,1,0,1,0,1,0,1,nessuna
 7,-,129,terzina,-,-,11,"esser dovrien da corruzion sicure"".",1,0,0,1,0,0,0,1,0,1,nessuna
 7,-,130,terzina,-,-,11,"Li angeli, frate, e 'l paese sincero",1,0,0,1,0,0,1,0,0,1,nessuna
+7,-,131,terzina,-,-,11,"nel qual tu se', dir si posson creati,",0,1,0,1,1,0,1,0,0,1,nessuna
+7,-,132,terzina,-,-,11,"sì come sono, in loro essere intero;",1,0,0,1,0,0,1,0,0,1,nessuna
+7,-,133,terzina,-,-,11,ma li elementi che tu hai nomati,0,0,0,1,0,0,0,1,0,1,nessuna
+7,-,134,terzina,-,-,11,e quelle cose che di lor si fanno,0,1,0,1,0,0,0,1,0,1,nessuna
+7,-,135,terzina,-,-,11,da creata virtù sono informati.,0,0,1,0,0,1,1,0,0,1,nessuna
+7,-,136,terzina,-,-,11,Creata fu la materia ch'elli hanno;,0,1,0,1,0,0,1,0,0,1,nessuna
 7,-,137,terzina,-,-,11,creata fu la virtù informante,0,1,0,1,0,0,1,0,0,1,nessuna
 7,-,138,terzina,-,-,11,in queste stelle che 'ntorno a lor vanno.,0,1,0,1,0,0,1,0,1,1,nessuna
 7,-,139,terzina,-,-,11,L'anima d'ogne bruto e de le piante,1,0,0,1,0,1,0,0,0,1,nessuna
@@ -1088,6 +1136,15 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 8,-,128,terzina,-,-,11,"a la cera mortal, fa ben sua arte,",0,0,1,0,0,1,0,1,0,1,nessuna
 8,-,129,terzina,-,-,11,ma non distingue l'un da l'altro ostello.,0,0,0,1,0,1,0,1,0,1,nessuna
 8,-,130,terzina,-,-,11,Quinci addivien ch'Esaù si diparte,1,0,0,1,0,0,1,0,0,1,nessuna
+8,-,131,terzina,-,-,11,per seme da Iacòb; e vien Quirino,0,1,0,0,0,1,0,1,0,1,nessuna
+8,-,132,terzina,-,-,11,"da sì vil padre, che si rende a Marte.",0,0,0,1,0,0,0,1,0,1,nessuna
+8,-,133,terzina,-,-,11,Natura generata il suo cammino,0,1,0,0,0,1,0,0,0,1,nessuna
+8,-,134,terzina,-,-,11,"simil farebbe sempre a' generanti,",1,0,0,1,0,1,0,0,0,1,nessuna
+8,-,135,terzina,-,-,11,se non vincesse il proveder divino.,0,0,0,1,0,0,0,1,0,1,nessuna
+8,-,136,terzina,-,-,11,Or quel che t'era dietro t'è davanti:,0,1,0,1,0,1,0,0,0,1,nessuna
+8,-,137,terzina,-,-,11,"ma perché sappi che di te mi giova,",0,0,1,1,0,0,0,1,0,1,nessuna
+8,-,138,terzina,-,-,11,un corollario voglio che t'ammanti.,0,0,0,1,0,1,0,0,0,1,nessuna
+8,-,139,terzina,-,-,11,"Sempre natura, se fortuna trova",1,0,0,1,0,0,0,1,0,1,nessuna
 8,-,140,terzina,-,-,11,"discorde a sé, com'ogne altra semente",0,1,0,1,0,0,1,0,0,1,nessuna
 8,-,141,terzina,-,-,11,"fuor di sua region, fa mala prova.",1,0,0,0,0,1,0,1,0,1,nessuna
 8,-,142,terzina,-,-,11,E se 'l mondo là giù ponesse mente,0,0,1,0,0,1,0,1,0,1,nessuna
@@ -1230,6 +1287,15 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 9,-,131,terzina,-,-,11,"c'ha disviate le pecore e li agni,",0,0,0,1,0,0,1,0,0,1,nessuna
 9,-,132,terzina,-,-,11,però che fatto ha lupo del pastore.,0,1,0,1,0,1,0,0,0,1,nessuna
 9,-,133,terzina,-,-,11,Per questo l'Evangelio e i dottor magni,0,1,0,0,0,1,0,0,1,1,nessuna
+9,-,134,terzina,-,-,11,"son derelitti, e solo ai Decretali",1,0,0,1,0,1,0,0,0,1,nessuna
+9,-,135,terzina,-,-,11,"si studia, sì che pare a' lor vivagni.",0,1,0,1,0,1,0,0,0,1,nessuna
+9,-,136,terzina,-,-,11,A questo intende il papa e ' cardinali;,0,1,0,1,0,1,0,0,0,1,nessuna
+9,-,137,terzina,-,-,11,"non vanno i lor pensieri a Nazarette,",0,1,0,0,0,1,0,0,0,1,nessuna
+9,-,138,terzina,-,-,11,là dove Gabriello aperse l'ali.,0,1,0,0,0,1,0,1,0,1,nessuna
+9,-,139,terzina,-,-,11,Ma Vaticano e l'altre parti elette,0,0,0,1,0,1,0,1,0,1,nessuna
+9,-,140,terzina,-,-,11,di Roma che son state cimitero,0,1,0,0,0,1,0,0,0,1,nessuna
+9,-,141,terzina,-,-,11,"a la milizia che Pietro seguette,",0,0,0,1,0,0,1,0,0,1,nessuna
+9,-,142,terzina,-,-,11,"tosto libere fien de l'avoltero"".",1,0,1,0,0,1,0,0,0,1,nessuna
 10,-,1,terzina,-,-,11,Guardando nel suo Figlio con l'Amore,0,1,0,0,0,1,0,0,0,1,nessuna
 10,-,2,terzina,-,-,11,"che l'uno e l'altro etternalmente spira,",0,1,0,1,0,0,0,1,0,1,nessuna
 10,-,3,terzina,-,-,11,lo primo e ineffabile Valore,0,1,0,0,0,1,0,0,0,1,nessuna
@@ -1366,6 +1432,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 10,-,134,terzina,-,-,11,è 'l lume d'uno spirto che 'n pensieri,0,1,0,0,0,1,0,0,0,1,nessuna
 10,-,135,terzina,-,-,11,gravi a morir li parve venir tardo:,1,0,0,1,0,1,0,0,1,1,nessuna
 10,-,136,terzina,-,-,11,"essa è la luce etterna di Sigieri,",1,0,0,1,0,1,0,0,0,1,nessuna
+10,-,137,terzina,-,-,11,"che, leggendo nel Vico de li Strami,",0,0,1,0,0,1,0,0,0,1,nessuna
+10,-,138,terzina,-,-,11,"silogizzò invidiosi veri"".",0,0,0,1,0,0,0,1,0,1,nessuna
+10,-,139,terzina,-,-,11,"Indi, come orologio che ne chiami",1,0,1,0,0,1,0,0,0,1,nessuna
 10,-,140,terzina,-,-,11,ne l'ora che la sposa di Dio surge,0,1,0,0,0,1,0,0,1,1,nessuna
 10,-,141,terzina,-,-,11,"a mattinar lo sposo perché l'ami,",0,0,0,1,0,1,0,0,0,1,nessuna
 10,-,142,terzina,-,-,11,"che l'una parte e l'altra tira e urge,",0,0,0,1,0,1,0,1,0,1,nessuna
@@ -1490,6 +1559,30 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 11,-,113,terzina,-,-,11,"raccomandò la donna sua più cara,",0,0,0,1,0,1,0,1,0,1,nessuna
 11,-,114,terzina,-,-,11,e comandò che l'amassero a fede;,0,0,0,1,0,0,1,0,0,1,nessuna
 11,-,115,terzina,-,-,11,e del suo grembo l'anima preclara,0,0,0,1,0,1,0,0,0,1,nessuna
+11,-,116,terzina,-,-,11,"mover si volle, tornando al suo regno,",1,0,0,1,0,0,1,0,0,1,nessuna
+11,-,117,terzina,-,-,11,e al suo corpo non volle altra bara.,0,0,0,1,0,0,1,1,0,1,nessuna
+11,-,118,terzina,-,-,11,Pensa oramai qual fu colui che degno,1,0,0,1,0,1,0,1,0,1,nessuna
+11,-,119,terzina,-,-,11,collega fu a mantener la barca,0,1,0,1,0,0,0,1,0,1,nessuna
+11,-,120,terzina,-,-,11,di Pietro in alto mar per dritto segno;,0,1,0,1,0,1,0,1,0,1,nessuna
+11,-,121,terzina,-,-,11,e questo fu il nostro patriarca;,0,1,0,1,0,1,0,0,0,1,nessuna
+11,-,122,terzina,-,-,11,"per che qual segue lui, com'el comanda,",0,1,0,1,0,1,0,0,0,1,nessuna
+11,-,123,terzina,-,-,11,discerner puoi che buone merce carca.,0,1,0,1,0,1,0,1,0,1,nessuna
+11,-,124,terzina,-,-,11,Ma 'l suo pecuglio di nova vivanda,0,0,0,1,0,0,1,0,0,1,nessuna
+11,-,125,terzina,-,-,11,"è fatto ghiotto, sì ch'esser non puote",0,1,0,1,0,1,1,0,0,1,nessuna
+11,-,126,terzina,-,-,11,che per diversi salti non si spanda;,0,0,0,1,0,1,0,0,0,1,nessuna
+11,-,127,terzina,-,-,11,e quanto le sue pecore remote,0,1,0,0,0,1,0,0,0,1,nessuna
+11,-,128,terzina,-,-,11,"e vagabunde più da esso vanno,",0,0,0,1,0,1,0,1,0,1,nessuna
+11,-,129,terzina,-,-,11,più tornano a l'ovil di latte vòte.,0,1,0,0,0,1,0,1,0,1,nessuna
+11,-,130,terzina,-,-,11,Ben son di quelle che temono 'l danno,0,1,0,1,0,0,1,0,0,1,nessuna
+11,-,131,terzina,-,-,11,"e stringonsi al pastor; ma son sì poche,",0,1,0,0,0,1,0,1,0,1,nessuna
+11,-,132,terzina,-,-,11,che le cappe fornisce poco panno.,0,0,1,0,0,1,0,1,0,1,nessuna
+11,-,133,terzina,-,-,11,"Or, se le mie parole non son fioche,",1,0,0,0,0,1,0,0,0,1,nessuna
+11,-,134,terzina,-,-,11,"se la tua audienza è stata attenta,",0,0,1,0,0,1,0,1,0,1,nessuna
+11,-,135,terzina,-,-,11,"se ciò ch'è detto a la mente revoche,",0,1,0,1,0,0,1,0,0,1,nessuna
+11,-,136,terzina,-,-,11,"in parte fia la tua voglia contenta,",0,1,0,1,0,0,1,0,0,1,nessuna
+11,-,137,terzina,-,-,11,"perché vedrai la pianta onde si scheggia,",0,1,0,1,0,1,1,0,0,1,nessuna
+11,-,138,terzina,-,-,11,e vedra' il corrègger che argomenta,0,0,1,0,0,1,0,0,0,1,nessuna
+11,-,139,terzina,-,-,11,"""U' ben s'impingua, se non si vaneggia""",0,1,0,1,0,0,1,0,0,1,nessuna
 12,-,1,terzina,-,-,11,Sì tosto come l'ultima parola,0,1,0,1,0,1,0,0,0,1,nessuna
 12,-,2,terzina,-,-,11,"la benedetta fiamma per dir tolse,",0,0,0,1,0,1,0,0,1,1,nessuna
 12,-,3,terzina,-,-,11,a rotar cominciò la santa mola;,0,0,1,0,0,1,0,1,0,1,nessuna
@@ -1626,6 +1719,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 12,-,134,terzina,-,-,11,"e Pietro Mangiadore e Pietro Spano,",0,1,0,0,0,1,0,1,0,1,nessuna
 12,-,135,terzina,-,-,11,lo qual giù luce in dodici libelli;,0,1,0,1,0,1,0,0,0,1,nessuna
 12,-,136,terzina,-,-,11,Natàn profeta e 'l metropolitano,0,1,0,1,0,1,0,0,0,1,nessuna
+12,-,137,terzina,-,-,11,Crisostomo e Anselmo e quel Donato,0,1,0,0,0,1,0,0,0,1,nessuna
+12,-,138,terzina,-,-,11,ch'a la prim'arte degnò porre mano.,0,0,0,1,0,0,1,1,0,1,nessuna
+12,-,139,terzina,-,-,11,"Rabano è qui, e lucemi dallato",0,1,0,1,0,1,0,0,0,1,nessuna
 12,-,140,terzina,-,-,11,il calavrese abate Giovacchino,0,0,0,1,0,1,0,0,0,1,nessuna
 12,-,141,terzina,-,-,11,di spirito profetico dotato.,0,1,0,0,0,1,0,0,0,1,nessuna
 12,-,142,terzina,-,-,11,Ad inveggiar cotanto paladino,0,0,0,1,0,1,0,0,0,1,nessuna
@@ -2037,6 +2133,27 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 15,-,122,terzina,-,-,11,"e, consolando, usava l'idioma",0,0,0,1,0,0,1,0,0,1,nessuna
 15,-,123,terzina,-,-,11,che prima i padri e le madri trastulla;,0,1,0,1,0,0,1,0,0,1,nessuna
 15,-,124,terzina,-,-,11,"l'altra, traendo a la rocca la chioma,",1,0,0,1,0,0,1,0,0,1,nessuna
+15,-,125,terzina,-,-,11,favoleggiava con la sua famiglia,0,0,0,1,0,0,0,1,0,1,nessuna
+15,-,126,terzina,-,-,11,"d'i Troiani, di Fiesole e di Roma.",0,0,1,0,0,1,0,0,0,1,nessuna
+15,-,127,terzina,-,-,11,Saria tenuta allor tal maraviglia,0,1,0,1,0,1,0,0,0,1,nessuna
+15,-,128,terzina,-,-,11,"una Cianghella, un Lapo Salterello,",0,0,0,1,0,1,0,0,0,1,nessuna
+15,-,129,terzina,-,-,11,qual or saria Cincinnato e Corniglia.,0,1,0,1,0,0,1,0,0,1,nessuna
+15,-,130,terzina,-,-,11,"A così riposato, a così bello",0,0,1,0,0,1,0,0,1,1,nessuna
+15,-,131,terzina,-,-,11,"viver di cittadini, a così fida",1,0,0,0,0,1,0,0,1,1,nessuna
+15,-,132,terzina,-,-,11,"cittadinanza, a così dolce ostello,",0,0,0,1,0,0,1,1,0,1,nessuna
+15,-,133,terzina,-,-,11,"Maria mi diè, chiamata in alte grida;",0,1,0,1,0,1,0,1,0,1,nessuna
+15,-,134,terzina,-,-,11,e ne l'antico vostro Batistero,0,0,0,1,0,1,0,0,0,1,nessuna
+15,-,135,terzina,-,-,11,insieme fui cristiano e Cacciaguida.,0,1,0,0,0,1,0,0,0,1,nessuna
+15,-,136,terzina,-,-,11,Moronto fu mio frate ed Eliseo;,0,1,0,0,0,1,0,0,0,1,nessuna
+15,-,137,terzina,-,-,11,"mia donna venne a me di val di Pado,",0,1,0,1,0,1,0,1,0,1,nessuna
+15,-,138,terzina,-,-,11,e quindi il sopranome tuo si feo.,0,1,0,0,0,1,0,1,0,1,nessuna
+15,-,139,terzina,-,-,11,Poi seguitai lo 'mperador Currado;,1,0,0,1,0,0,0,1,0,1,nessuna
+15,-,140,terzina,-,-,11,"ed el mi cinse de la sua milizia,",0,1,0,1,0,0,0,1,0,1,nessuna
+15,-,141,terzina,-,-,11,tanto per bene ovrar li venni in grado.,1,0,0,1,0,1,0,1,0,1,nessuna
+15,-,142,terzina,-,-,11,Dietro li andai incontro a la nequizia,1,0,0,1,0,1,0,0,0,1,nessuna
+15,-,143,terzina,-,-,11,"di quella legge il cui popolo usurpa,",0,1,0,1,0,0,1,0,0,1,nessuna
+15,-,144,terzina,-,-,11,"per colpa d'i pastor, vostra giustizia.",0,1,0,0,0,1,1,0,0,1,nessuna
+15,-,145,terzina,-,-,11,Quivi fu' io da quella gente turpa,1,0,0,1,0,1,0,1,0,1,nessuna
 15,-,146,terzina,-,-,11,"disviluppato dal mondo fallace,",0,0,0,1,0,0,1,0,0,1,nessuna
 15,-,147,terzina,-,-,11,lo cui amor molt'anime deturpa;,0,0,0,1,0,1,0,0,0,1,nessuna
 15,-,148,terzina,-,-,11,"e venni dal martiro a questa pace"".",0,1,0,0,0,1,0,1,0,1,nessuna
@@ -2176,6 +2293,15 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 16,-,134,terzina,-,-,11,"e ancor saria Borgo più quieto,",0,0,1,0,1,1,0,0,0,1,nessuna
 16,-,135,terzina,-,-,11,se di novi vicin fosser digiuni.,0,0,1,0,0,1,1,0,0,1,nessuna
 16,-,136,terzina,-,-,11,"La casa di che nacque il vostro fleto,",0,1,0,0,0,1,0,1,0,1,nessuna
+16,-,137,terzina,-,-,11,per lo giusto disdegno che v'ha morti,0,0,1,0,0,1,0,0,0,1,nessuna
+16,-,138,terzina,-,-,11,"e puose fine al vostro viver lieto,",0,1,0,1,0,1,0,1,0,1,nessuna
+16,-,139,terzina,-,-,11,"era onorata, essa e suoi consorti:",1,0,0,1,0,1,0,0,0,1,nessuna
+16,-,140,terzina,-,-,11,"o Buondelmonte, quanto mal fuggisti",0,0,0,1,0,0,0,1,0,1,nessuna
+16,-,141,terzina,-,-,11,le nozze sue per li altrui conforti!,0,1,0,1,0,0,0,1,0,1,nessuna
+16,-,142,terzina,-,-,11,"Molti sarebber lieti, che son tristi,",1,0,0,1,0,1,0,0,0,1,nessuna
+16,-,143,terzina,-,-,11,se Dio t'avesse conceduto ad Ema,0,1,0,1,0,0,0,1,0,1,nessuna
+16,-,144,terzina,-,-,11,la prima volta ch'a città venisti.,0,1,0,1,0,0,0,1,0,1,nessuna
+16,-,145,terzina,-,-,11,Ma conveniesi a quella pietra scema,0,0,0,1,0,1,0,1,0,1,nessuna
 16,-,146,terzina,-,-,11,"che guarda 'l ponte, che Fiorenza fesse",0,1,0,1,0,0,0,1,0,1,nessuna
 16,-,147,terzina,-,-,11,vittima ne la sua pace postrema.,1,0,0,0,0,1,1,0,0,1,nessuna
 16,-,148,terzina,-,-,11,"Con queste genti, e con altre con esse,",0,1,0,1,0,0,1,0,0,1,nessuna
@@ -2321,6 +2447,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 17,-,134,terzina,-,-,11,che le più alte cime più percuote;,0,0,0,1,0,1,0,0,0,1,nessuna
 17,-,135,terzina,-,-,11,e ciò non fa d'onor poco argomento.,0,1,0,1,0,1,1,0,0,1,nessuna
 17,-,136,terzina,-,-,11,"Però ti son mostrate in queste rote,",0,1,0,0,0,1,0,1,0,1,nessuna
+17,-,137,terzina,-,-,11,nel monte e ne la valle dolorosa,0,1,0,0,0,1,0,0,0,1,nessuna
+17,-,138,terzina,-,-,11,"pur l'anime che son di fama note,",0,1,0,0,0,1,0,1,0,1,nessuna
+17,-,139,terzina,-,-,11,"che l'animo di quel ch'ode, non posa",0,1,0,0,0,1,1,0,0,1,nessuna
 17,-,140,terzina,-,-,11,né ferma fede per essempro ch'aia,0,1,0,1,0,0,0,1,0,1,nessuna
 17,-,141,terzina,-,-,11,"la sua radice incognita e ascosa,",0,0,0,1,0,1,0,0,0,1,nessuna
 17,-,142,terzina,-,-,11,"né per altro argomento che non paia"".",0,0,1,0,0,1,0,0,0,1,nessuna
@@ -2593,6 +2722,18 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 19,-,131,terzina,-,-,11,"di quei che guarda l'isola del foco,",0,1,0,1,0,1,0,0,0,1,nessuna
 19,-,132,terzina,-,-,11,ove Anchise finì la lunga etate;,1,0,1,0,0,1,0,1,0,1,nessuna
 19,-,133,terzina,-,-,11,"e a dare ad intender quanto è poco,",0,0,1,0,0,1,0,1,0,1,nessuna
+19,-,134,terzina,-,-,11,"la sua scrittura fian lettere mozze,",0,0,0,1,0,0,1,0,0,1,nessuna
+19,-,135,terzina,-,-,11,che noteranno molto in parvo loco.,0,0,0,1,0,1,0,1,0,1,nessuna
+19,-,136,terzina,-,-,11,E parranno a ciascun l'opere sozze,0,0,1,0,0,1,1,0,0,1,nessuna
+19,-,137,terzina,-,-,11,"del barba e del fratel, che tanto egregia",0,1,0,0,0,1,0,1,0,1,nessuna
+19,-,138,terzina,-,-,11,nazione e due corone han fatte bozze.,0,1,0,1,0,1,0,1,0,1,nessuna
+19,-,139,terzina,-,-,11,E quel di Portogallo e di Norvegia,0,1,0,0,0,1,0,0,0,1,nessuna
+19,-,140,terzina,-,-,11,"lì si conosceranno, e quel di Rascia",1,0,0,0,0,1,0,1,0,1,nessuna
+19,-,141,terzina,-,-,11,che male ha visto il conio di Vinegia.,0,1,0,1,0,1,0,0,0,1,nessuna
+19,-,142,terzina,-,-,11,"O beata Ungheria, se non si lascia",0,0,1,0,0,1,0,0,0,1,nessuna
+19,-,143,terzina,-,-,11,"più malmenare! e beata Navarra,",1,0,0,1,0,0,1,0,0,1,nessuna
+19,-,144,terzina,-,-,11,se s'armasse del monte che la fascia!,0,0,1,0,0,1,0,0,0,1,nessuna
+19,-,145,terzina,-,-,11,"E creder de' ciascun che già, per arra",0,1,0,1,0,1,0,1,0,1,nessuna
 19,-,146,terzina,-,-,11,"di questo, Niccosia e Famagosta",0,1,0,0,0,1,0,0,0,1,nessuna
 19,-,147,terzina,-,-,11,"per la lor bestia si lamenti e garra,",0,0,0,1,0,0,0,1,0,1,nessuna
 19,-,148,terzina,-,-,11,"che dal fianco de l'altre non si scosta"".",0,0,1,0,0,1,0,0,0,1,nessuna
@@ -2726,6 +2867,24 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 20,-,128,terzina,-,-,11,"che tu vedesti da la destra rota,",0,0,0,1,0,0,0,1,0,1,nessuna
 20,-,129,terzina,-,-,11,dinanzi al battezzar più d'un millesmo.,0,1,0,0,0,1,1,0,0,1,nessuna
 20,-,130,terzina,-,-,11,"O predestinazion, quanto remota",1,0,0,0,0,1,1,0,0,1,nessuna
+20,-,131,terzina,-,-,11,è la radice tua da quelli aspetti,0,0,0,1,0,1,0,1,0,1,nessuna
+20,-,132,terzina,-,-,11,che la prima cagion non veggion tota!,0,0,1,0,0,1,0,1,0,1,nessuna
+20,-,133,terzina,-,-,11,"E voi, mortali, tenetevi stretti",0,1,0,1,0,0,1,0,0,1,nessuna
+20,-,134,terzina,-,-,11,"a giudicar; ché noi, che Dio vedemo,",0,0,0,1,0,1,0,1,0,1,nessuna
+20,-,135,terzina,-,-,11,non conosciamo ancor tutti li eletti;,0,0,0,1,0,1,1,0,0,1,nessuna
+20,-,136,terzina,-,-,11,"ed ènne dolce così fatto scemo,",0,1,0,1,0,0,0,1,0,1,nessuna
+20,-,137,terzina,-,-,11,"perché il ben nostro in questo ben s'affina,",0,1,0,1,0,1,0,1,0,1,nessuna
+20,-,138,terzina,-,-,11,"che quel che vole Iddio, e noi volemo"".",0,1,0,1,0,1,0,1,0,1,nessuna
+20,-,139,terzina,-,-,11,"Così da quella imagine divina,",0,1,0,1,0,1,0,0,0,1,nessuna
+20,-,140,terzina,-,-,11,"per farmi chiara la mia corta vista,",0,1,0,1,0,0,0,1,0,1,nessuna
+20,-,141,terzina,-,-,11,data mi fu soave medicina.,1,0,0,1,0,1,0,0,0,1,nessuna
+20,-,142,terzina,-,-,11,E come a buon cantor buon citarista,0,1,0,1,0,1,0,1,0,1,nessuna
+20,-,143,terzina,-,-,11,"fa seguitar lo guizzo de la corda,",0,0,0,1,0,1,0,0,0,1,nessuna
+20,-,144,terzina,-,-,11,"in che più di piacer lo canto acquista,",0,1,0,0,0,1,0,1,0,1,nessuna
+20,-,145,terzina,-,-,11,"sì, mentre ch'e' parlò, sì mi ricorda",1,1,0,0,0,1,1,0,0,1,nessuna
+20,-,146,terzina,-,-,11,"ch'io vidi le due luci benedette,",0,1,0,0,0,1,0,0,0,1,nessuna
+20,-,147,terzina,-,-,11,"pur come batter d'occhi si concorda,",1,1,0,1,0,1,0,0,0,1,nessuna
+20,-,148,terzina,-,-,11,con le parole mover le fiammette.,0,0,0,1,0,1,0,0,0,1,nessuna
 21,-,1,terzina,-,-,11,Già eran li occhi miei rifissi al volto,0,1,0,1,0,1,0,1,0,1,nessuna
 21,-,2,terzina,-,-,11,"de la mia donna, e l'animo con essi,",0,0,0,1,0,1,0,0,0,1,nessuna
 21,-,3,terzina,-,-,11,e da ogne altro intento s'era tolto.,0,0,0,1,0,1,0,0,0,1,nessuna
@@ -2862,6 +3021,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 21,-,134,terzina,-,-,11,sì che due bestie van sott'una pelle:,1,0,0,1,0,1,0,0,0,1,nessuna
 21,-,135,terzina,-,-,11,"oh pazienza che tanto sostieni!"".",0,0,0,1,0,0,1,0,0,1,nessuna
 21,-,136,terzina,-,-,11,A questa voce vid'io più fiammelle,0,1,0,1,0,0,1,0,0,1,nessuna
+21,-,137,terzina,-,-,11,"di grado in grado scendere e girarsi,",0,1,0,1,0,1,0,0,0,1,nessuna
+21,-,138,terzina,-,-,11,e ogne giro le facea più belle.,0,1,0,1,0,0,0,1,0,1,nessuna
+21,-,139,terzina,-,-,11,"Dintorno a questa vennero e fermarsi,",0,1,0,1,0,1,0,0,0,1,nessuna
 21,-,140,terzina,-,-,11,"e fero un grido di sì alto suono,",0,1,0,1,0,0,0,1,0,1,nessuna
 21,-,141,terzina,-,-,11,che non potrebbe qui assomigliarsi;,0,0,0,1,0,1,0,0,0,1,nessuna
 21,-,142,terzina,-,-,11,"né io lo 'ntesi, sì mi vinse il tuono.",0,1,0,1,0,1,0,1,0,1,nessuna
@@ -3016,6 +3178,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 22,-,149,terzina,-,-,11,quanto son grandi e quanto son veloci,1,0,0,1,0,1,0,0,0,1,nessuna
 22,-,150,terzina,-,-,11,e come sono in distante riparo.,0,0,0,1,0,0,1,0,0,1,nessuna
 22,-,151,terzina,-,-,11,"L'aiuola che ci fa tanto feroci,",0,1,0,0,0,1,1,0,0,1,nessuna
+22,-,152,terzina,-,-,11,"volgendom'io con li etterni Gemelli,",0,0,0,1,0,0,1,0,0,1,nessuna
+22,-,153,terzina,-,-,11,tutta m'apparve da' colli a le foci;,1,0,0,1,0,0,1,0,0,1,nessuna
+22,-,154,terzina,-,-,11,poscia rivolsi li occhi a li occhi belli.,1,0,0,1,0,1,0,1,0,1,nessuna
 23,-,1,terzina,-,-,11,"Come l'augello, intra l'amate fronde,",1,0,0,1,1,0,0,1,0,1,nessuna
 23,-,2,terzina,-,-,11,posato al nido de' suoi dolci nati,0,1,0,1,0,0,0,1,0,1,nessuna
 23,-,3,terzina,-,-,11,"la notte che le cose ci nasconde,",0,1,0,0,0,1,0,0,0,1,nessuna
@@ -3149,6 +3314,12 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 23,-,131,terzina,-,-,11,in quelle arche ricchissime che fuoro,0,0,1,0,0,1,0,0,0,1,nessuna
 23,-,132,terzina,-,-,11,a seminar qua giù buone bobolce!,0,0,0,1,0,1,1,0,0,1,nessuna
 23,-,133,terzina,-,-,11,Quivi si vive e gode del tesoro,1,0,0,1,0,1,0,0,0,1,nessuna
+23,-,134,terzina,-,-,11,che s'acquistò piangendo ne lo essilio,0,0,0,1,0,1,0,0,0,1,nessuna
+23,-,135,terzina,-,-,11,"di Babillòn, ove si lasciò l'oro.",0,0,0,1,1,0,0,0,1,1,nessuna
+23,-,136,terzina,-,-,11,"Quivi triunfa, sotto l'alto Filio",1,0,0,1,0,1,0,1,0,1,nessuna
+23,-,137,terzina,-,-,11,"di Dio e di Maria, di sua vittoria,",0,1,0,0,0,1,0,0,0,1,nessuna
+23,-,138,terzina,-,-,11,"e con l'antico e col novo concilio,",0,0,0,1,0,0,1,0,0,1,nessuna
+23,-,139,terzina,-,-,11,colui che tien le chiavi di tal gloria.,0,1,0,0,0,1,0,0,0,1,nessuna
 24,-,1,terzina,-,-,11,"""O sodalizio eletto a la gran cena",0,0,0,1,0,1,0,0,0,1,nessuna
 24,-,2,terzina,-,-,11,"del benedetto Agnello, il qual vi ciba",0,0,0,1,0,1,0,1,0,1,nessuna
 24,-,3,terzina,-,-,11,"sì, che la vostra voglia è sempre piena,",1,0,0,1,0,1,0,1,0,1,nessuna
@@ -3300,6 +3471,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 24,-,149,terzina,-,-,11,"da indi abbraccia il servo, gratulando",0,1,0,1,0,1,0,0,0,1,nessuna
 24,-,150,terzina,-,-,11,"per la novella, tosto ch'el si tace;",0,0,0,1,0,1,0,0,0,1,nessuna
 24,-,151,terzina,-,-,11,"così, benedicendomi cantando,",0,1,0,0,0,1,0,0,0,1,nessuna
+24,-,152,terzina,-,-,11,"tre volte cinse me, sì com'io tacqui,",0,1,0,1,0,1,1,0,0,1,nessuna
+24,-,153,terzina,-,-,11,l'appostolico lume al cui comando,0,0,1,0,0,1,0,0,0,1,nessuna
+24,-,154,terzina,-,-,11,io avea detto: sì nel dir li piacqui!,1,0,0,1,0,1,0,1,0,1,nessuna
 25,-,1,terzina,-,-,11,Se mai continga che 'l poema sacro,0,1,0,1,0,0,0,1,0,1,nessuna
 25,-,2,terzina,-,-,11,"al quale ha posto mano e cielo e terra,",0,1,0,1,0,1,0,1,0,1,nessuna
 25,-,3,terzina,-,-,11,"sì che m'ha fatto per molti anni macro,",1,0,0,1,0,0,1,1,0,1,nessuna
@@ -3717,6 +3891,12 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 27,-,134,terzina,-,-,11,"la madre sua, che, con loquela intera,",0,1,0,1,0,0,0,1,0,0,nessuna
 27,-,135,terzina,-,-,11,disia poi di vederla sepolta.,0,0,1,1,0,0,1,0,0,1,nessuna
 27,-,136,terzina,-,-,11,Così si fa la pelle bianca nera,0,1,0,1,0,1,0,1,0,1,nessuna
+27,-,137,terzina,-,-,11,nel primo aspetto de la bella figlia,0,1,0,1,0,0,0,1,0,1,nessuna
+27,-,138,terzina,-,-,11,di quel ch'apporta mane e lascia sera.,0,1,0,1,0,1,0,1,0,1,nessuna
+27,-,139,terzina,-,-,11,"Tu, perché non ti facci maraviglia,",1,0,1,0,0,1,0,0,0,1,nessuna
+27,-,140,terzina,-,-,11,pensa che 'n terra non è chi governi;,1,0,0,1,0,0,1,0,0,1,nessuna
+27,-,141,terzina,-,-,11,onde sì svia l'umana famiglia.,1,0,0,1,0,0,1,0,0,1,nessuna
+27,-,142,terzina,-,-,11,Ma prima che gennaio tutto si sverni,0,1,0,0,0,1,1,0,0,1,nessuna
 27,-,143,terzina,-,-,11,"per la centesma ch'è là giù negletta,",0,0,0,1,0,0,0,1,0,1,nessuna
 27,-,144,terzina,-,-,11,"raggeran sì questi cerchi superni,",0,0,1,1,0,0,1,0,0,1,nessuna
 27,-,145,terzina,-,-,11,"che la fortuna che tanto s'aspetta,",0,0,0,1,0,0,1,0,0,1,nessuna
@@ -4001,6 +4181,12 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 29,-,137,terzina,-,-,11,"per tanti modi in essa si recepe,",0,1,0,1,0,1,0,0,0,1,nessuna
 29,-,138,terzina,-,-,11,quanti son li splendori a chi s'appaia.,1,0,1,0,0,1,0,0,0,1,nessuna
 29,-,139,terzina,-,-,11,"Onde, però che a l'atto che concepe",1,0,0,1,0,1,0,0,0,1,nessuna
+29,-,140,terzina,-,-,11,"segue l'affetto, d'amar la dolcezza",1,0,0,1,0,0,1,0,0,1,nessuna
+29,-,141,terzina,-,-,11,diversamente in essa ferve e tepe.,0,0,0,1,0,1,0,1,0,1,nessuna
+29,-,142,terzina,-,-,11,Vedi l'eccelso omai e la larghezza,1,0,0,1,0,1,0,0,0,1,nessuna
+29,-,143,terzina,-,-,11,"de l'etterno valor, poscia che tanti",0,0,1,0,0,1,1,0,0,1,nessuna
+29,-,144,terzina,-,-,11,"speculi fatti s'ha in che si spezza,",1,0,0,1,0,1,0,1,0,1,nessuna
+29,-,145,terzina,-,-,11,"uno manendo in sé come davanti"".",1,0,0,1,0,1,1,0,0,1,nessuna
 30,-,1,terzina,-,-,11,Forse semilia miglia di lontano,1,0,0,1,0,1,0,0,0,1,nessuna
 30,-,2,terzina,-,-,11,"ci ferve l'ora sesta, e questo mondo",0,1,0,1,0,1,0,1,0,1,nessuna
 30,-,3,terzina,-,-,11,"china già l'ombra quasi al letto piano,",1,0,1,1,0,1,0,1,0,1,nessuna
@@ -4146,6 +4332,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 30,-,143,terzina,-,-,11,"allora tal, che palese e coverto",0,1,0,1,0,0,1,0,0,1,nessuna
 30,-,144,terzina,-,-,11,non anderà con lui per un cammino.,0,0,0,1,0,1,0,0,0,1,nessuna
 30,-,145,terzina,-,-,11,Ma poco poi sarà da Dio sofferto,0,1,0,1,0,1,0,1,0,1,nessuna
+30,-,146,terzina,-,-,11,nel santo officio; ch'el sarà detruso,0,1,0,1,0,0,0,1,0,1,nessuna
+30,-,147,terzina,-,-,11,"là dove Simon mago è per suo merto,",0,1,0,0,0,1,0,0,0,1,nessuna
+30,-,148,terzina,-,-,11,"e farà quel d'Alagna intrar più giuso"".",0,0,1,1,0,1,0,1,0,1,nessuna
 31,-,1,terzina,-,-,11,In forma dunque di candida rosa,0,1,0,1,0,0,1,0,0,1,nessuna
 31,-,2,terzina,-,-,11,mi si mostrava la milizia santa,0,0,0,1,0,0,0,1,0,1,nessuna
 31,-,3,terzina,-,-,11,che nel suo sangue Cristo fece sposa;,0,0,0,1,0,1,0,1,0,1,nessuna
@@ -4427,6 +4616,18 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 32,-,137,terzina,-,-,11,"siede Lucia, che mosse la tua donna",1,0,0,1,0,1,0,0,0,1,nessuna
 32,-,138,terzina,-,-,11,"quando chinavi, a rovinar, le ciglia.",1,0,0,1,0,0,0,1,0,1,nessuna
 32,-,139,terzina,-,-,11,"Ma perché 'l tempo fugge che t'assonna,",0,0,1,1,0,1,0,0,0,1,nessuna
+32,-,140,terzina,-,-,11,"qui farem punto, come buon sartore",1,0,0,1,0,1,0,0,0,1,nessuna
+32,-,141,terzina,-,-,11,che com'elli ha del panno fa la gonna;,0,0,1,0,0,1,0,0,0,1,nessuna
+32,-,142,terzina,-,-,11,"e drizzeremo li occhi al primo amore,",0,0,0,1,0,1,0,1,0,1,nessuna
+32,-,143,terzina,-,-,11,"sì che, guardando verso lui, penètri",0,1,0,1,0,0,0,1,0,1,nessuna
+32,-,144,terzina,-,-,11,quant'è possibil per lo suo fulgore.,0,0,0,1,0,0,0,1,0,1,nessuna
+32,-,145,terzina,-,-,11,"Veramente, ne forse tu t'arretri",0,0,1,0,0,1,0,0,0,1,nessuna
+32,-,146,terzina,-,-,11,"movendo l'ali tue, credendo oltrarti,",0,1,0,1,0,1,0,1,0,1,nessuna
+32,-,147,terzina,-,-,11,orando grazia conven che s'impetri,0,1,0,1,0,0,1,0,0,1,nessuna
+32,-,148,terzina,-,-,11,grazia da quella che puote aiutarti;,1,0,0,1,0,0,1,0,0,1,nessuna
+32,-,149,terzina,-,-,11,"e tu mi seguirai con l'affezione,",0,1,0,0,0,1,0,0,0,1,nessuna
+32,-,150,terzina,-,-,11,"sì che dal dicer mio lo cor non parti"".",1,0,0,1,0,1,0,1,0,1,nessuna
+32,-,151,terzina,-,-,11,E cominciò questa santa orazione:,0,0,0,1,0,0,1,0,0,1,nessuna
 33,-,1,terzina,-,-,11,"""Vergine Madre, figlia del tuo figlio,",1,0,0,1,0,1,0,0,0,1,nessuna
 33,-,2,terzina,-,-,11,"umile e alta più che creatura,",1,0,0,1,0,1,0,0,0,1,nessuna
 33,-,3,terzina,-,-,11,"termine fisso d'etterno consiglio,",1,0,0,1,0,0,1,0,0,1,nessuna
