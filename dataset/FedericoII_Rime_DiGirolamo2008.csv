@@ -61,7 +61,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,,4,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,7,che m'à data fermanza,0,0,1,0,0,1,0,0,0,0,
 2,,5,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,7,com'io possa compiére,0,0,1,0,0,1,0,0,0,0,
 2,,6,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,"[...] - senza ogne cagione,",0,0,0,0,0,0,0,0,0,0,
-2,,7,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,a la stagione - ch'io l'averò 'n possanza.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+2,,7,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,a la stagione - ch'io l'averò 'n possanza.,0,0,0,0,0,0,0,0,0,0,ipermetro
 2,,8,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,"Senza fallanza - voglian le persone,",1,0,0,1,0,1,0,0,0,1,
 2,,9,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,per cui cagione - facciamo membranza.,0,1,0,1,0,0,1,0,0,1,
 2,,10,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,7,A tutor rimembrando,0,0,1,0,0,1,0,0,0,0,
@@ -84,7 +84,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,,27,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,"e dimorare, - tant'è fine e pura.",0,0,0,1,0,0,1,1,0,1,
 2,,28,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,7,"Tanto è ssaggia e cortese,",0,1,1,0,0,1,0,0,0,0,
 2,,29,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,7,"no credo che pensasse,",0,1,0,0,0,1,0,0,0,0,
-2,,30,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,né distornasse - di ciò che mi impromise.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+2,,30,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,né distornasse - di ciò che mi impromise.,0,0,0,0,0,0,0,0,0,0,ipermetro
 2,,31,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,7,Da la ria gente aprese,0,0,0,1,0,1,0,0,0,0,
 2,,32,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,7,"da lor non si stornasse,",0,1,0,0,0,1,0,0,0,0,
 2,,33,canzone,ab(b)c ab(b)c (c)a(a)c(c)a,,5+6,"che mi tornasse - a danno ch'i' gli ofese,",0,0,0,1,0,1,0,1,0,1,
@@ -140,7 +140,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 3,,38,canzone,abcd abcd effD(d)GG,,7,"inver' voi, donna sovrana.",0,0,1,1,0,1,0,0,0,0,
 3,,39,canzone,abcd abcd effD(d)GG,,7,La vostra cera umana,0,1,0,1,0,1,0,0,0,0,
 3,,40,canzone,abcd abcd effD(d)GG,,11,mi dà conforto e facemi allegrare:,0,0,0,1,0,1,0,0,0,1,
-3,,41,canzone,abcd abcd effD(d)GG,,4+7 o 5+7,"e, s'eo pregiare - vi posso, donna fina,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+3,,41,canzone,abcd abcd effD(d)GG,,4+7 o 5+7,"e, s'eo pregiare - vi posso, donna fina,",0,0,0,0,0,0,0,0,0,0,ipermetro
 3,,42,canzone,abcd abcd effD(d)GG,,11,più conto mi ne tegno tutavia.,0,1,0,0,0,1,0,0,0,1,
 3,,43,canzone,abcd abcd effD(d)GG,,7,"A tutor veggio e sento,",0,0,1,1,0,1,0,0,0,0,
 3,,44,canzone,abcd abcd effD(d)GG,,7,"ed ònne gra· ragione,",0,1,0,0,0,1,0,0,0,0,
@@ -154,7 +154,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 3,,52,canzone,abcd abcd effD(d)GG,,7,"lo vostro bello viso,",0,1,0,1,0,1,0,0,0,0,
 3,,53,canzone,abcd abcd effD(d)GG,,7,"che m'à d'amore priso,",0,1,0,1,0,1,0,0,0,0,
 3,,54,canzone,abcd abcd effD(d)GG,,11,e tegnolmi in gran bonaventura.,0,1,0,0,0,1,0,0,0,1,
-3,,55,canzone,abcd abcd effD(d)GG,,4+7 o 5+7,Spero à tutora - chi al buon segnore crede:,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+3,,55,canzone,abcd abcd effD(d)GG,,4+7 o 5+7,Spero à tutora - chi al buon segnore crede:,0,0,0,0,0,0,0,0,0,0,ipermetro
 3,,56,canzone,abcd abcd effD(d)GG,,11,però son dato a la vostra merzede.,0,1,0,1,0,0,1,0,0,1,
 3,,57,canzone,abcd abcd effD(d)GG,,7,"Merzé, pietosa, aggiate",0,1,0,1,0,1,0,0,0,0,
 3,,58,canzone,abcd abcd effD(d)GG,,7,"di meve, gentil cosa,",0,1,0,0,1,1,0,0,0,0,
@@ -197,7 +197,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 4,,25,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,7,"viveraggio con pene,",0,0,1,0,0,1,0,0,0,0,
 4,,26,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,7,ch'io non credo aver bene,1,0,1,0,0,1,0,0,0,0,
 4,,27,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,7,tant'è lo fino amore,0,1,0,1,0,1,0,0,0,0,
-4,,28,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,5+6(o 4+7),e lo grande ardore - ch'aggio di tornare,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+4,,28,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,5+6(o 4+7),e lo grande ardore - ch'aggio di tornare,0,0,0,0,0,0,0,0,0,0,ipermetro
 4,,29,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,7,"a voi, donn', ad amare",0,1,1,0,0,1,0,0,0,0,
 4,,30,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,7,"di tutte gio' compita,",0,1,0,1,0,1,0,0,0,0,
 4,,31,canzone,abbc(c)D abbc(c)D dee(e)F dee(e)F,,7,ch'avete la mia vita,0,1,0,0,0,1,0,0,0,0,
@@ -219,4 +219,4 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,11,sonetto,ABABABAB CDE CED,,11,credendo fermo stare in signoria.,0,1,0,1,0,1,0,0,0,1,
 5,,12,sonetto,ABABABAB CDE CED,,11,"Onde non 'salti troppo omo ch'è saggio,",1,0,0,1,0,1,1,0,0,1,
 5,,13,sonetto,ABABABAB CDE CED,,11,"per grande altezza che ventura prende,",0,1,0,1,0,0,0,1,0,1,
-5,,14,sonetto,ABABABAB CDE CED,,11,ma tuto giorno mantenga cortesia.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+5,,14,sonetto,ABABABAB CDE CED,,11,ma tuto giorno mantenga cortesia.,0,0,0,0,0,0,0,0,0,0,ipermetro

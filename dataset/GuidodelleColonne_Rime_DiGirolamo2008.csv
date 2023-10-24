@@ -39,7 +39,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,22,canzone,ABC ABC (c)D(d)EE,,11,"quella che lo meo core distringia,",1,0,0,0,0,1,0,0,0,1,
 1,,23,canzone,ABC ABC (c)D(d)EE,,11,ed ora in gioia d'amore m'inavanza.,0,1,0,1,0,1,0,0,0,1,
 1,,24,canzone,ABC ABC (c)D(d)EE,,11,"Soferendo aggio avuto compimento,",0,0,1,0,0,1,0,0,0,1,
-1,,25,canzone,ABC ABC (c)D(d)EE,,5+6,e per un cento - m'àve più di savore,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,25,canzone,ABC ABC (c)D(d)EE,,5+6,e per un cento - m'àve più di savore,0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,26,canzone,ABC ABC (c)D(d)EE,,5+6,lo ben ch'Amore - mi face sentire,0,1,0,1,0,0,1,0,0,1,
 1,,27,canzone,ABC ABC (c)D(d)EE,,11,per lo gran mal che m'à fatto sofrire.,0,0,0,1,0,0,1,0,0,1,
 1,,28,canzone,ABC ABC (c)D(d)EE,,11,Se madonna m'à ffatto soferire,0,0,1,0,0,1,0,0,0,1,
@@ -48,7 +48,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,31,canzone,ABC ABC (c)D(d)EE,,11,"Poi ch'a llei piace, a me ben de' piacere,",1,0,1,1,0,1,1,0,0,1,
 1,,32,canzone,ABC ABC (c)D(d)EE,,11,che 'nd'aggio avuto tanto vallimento:,0,0,0,1,0,1,0,0,0,1,
 1,,33,canzone,ABC ABC (c)D(d)EE,,11,"sovr'ogne amante m'àve più 'norato,",0,1,0,1,0,1,0,0,0,1,
-1,,34,canzone,ABC ABC (c)D(d)EE,,5+6,"ch'aggio aquistato - d'amar la più sovrana,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,34,canzone,ABC ABC (c)D(d)EE,,5+6,"ch'aggio aquistato - d'amar la più sovrana,",0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,35,canzone,ABC ABC (c)D(d)EE,,5+6,"che, se Morgana - fosse infra la gente,",0,0,0,1,0,1,1,0,0,1,
 1,,36,canzone,ABC ABC (c)D(d)EE,,11,inver' madonna non paria neiente.,0,1,0,1,0,0,0,1,0,1,
 1,,37,canzone,ABC ABC (c)D(d)EE,,11,Neiente vale amor sanza penare:,0,1,0,1,0,1,1,0,0,1,
@@ -57,7 +57,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,40,canzone,ABC ABC (c)D(d)EE,,11,"che m'à fatto in tanto bene montare,",0,0,1,0,1,0,1,0,0,1,
 1,,41,canzone,ABC ABC (c)D(d)EE,,11,ch'ïo nonn aggio infra la gente ardire,1,0,0,1,1,0,0,1,0,1,
 1,,42,canzone,ABC ABC (c)D(d)EE,,11,di dir la gioia ove il mi' core sale.,0,1,0,1,1,0,0,1,0,1,
-1,,43,canzone,ABC ABC (c)D(d)EE,,5+6,Ordunque vale - meglio di poco avere,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,43,canzone,ABC ABC (c)D(d)EE,,5+6,Ordunque vale - meglio di poco avere,0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,44,canzone,ABC ABC (c)D(d)EE,,4+7,che sentire - troppo bene a stagione:,0,0,1,0,1,0,1,0,0,1,
 1,,45,canzone,ABC ABC (c)D(d)EE,,11,per troppo ben diventa omo fellone.,0,1,0,1,0,1,1,0,0,1,
 2,,1,canzone,abbc abbc (c)DDEE,,7,Gioiosamente canto,0,0,0,1,0,1,0,0,0,0,
@@ -116,7 +116,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,,54,canzone,abbc abbc (c)DDEE,,7,"quando la fiore apare,",1,0,0,1,0,1,0,0,0,0,
 2,,55,canzone,abbc abbc (c)DDEE,,7,non poria ubriare,0,0,1,0,0,1,0,0,0,0,
 2,,56,canzone,abbc abbc (c)DDEE,,7,di cantar la fredore.,0,0,1,0,0,1,0,0,0,0,
-2,,57,canzone,abbc abbc (c)DDEE,,7+4,"Così mi tene Amore - lo cor gaudente,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+2,,57,canzone,abbc abbc (c)DDEE,,7+4,"Così mi tene Amore - lo cor gaudente,",0,0,0,0,0,0,0,0,0,0,ipermetro
 2,,58,canzone,abbc abbc (c)DDEE,,11,che voi siete la mia donna valente.,0,0,1,0,0,0,1,0,0,1,
 2,,59,canzone,abbc abbc (c)DDEE,,11,Solazo e gioco mai non vene mino:,0,1,0,1,0,1,0,1,0,1,
 2,,60,canzone,abbc abbc (c)DDEE,,11,così v'adoro come servo e 'nchino.,0,1,0,1,0,0,0,1,0,1,
@@ -129,7 +129,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 3,,7,canzone,ABABAB cdd(c)D,,8,ma ben mi poria campare,0,1,0,0,1,0,1,0,0,0,
 3,,8,canzone,ABABAB cdd(c)D,,7,quella per cui m'avene,1,0,0,1,0,1,0,0,0,0,
 3,,9,canzone,ABABAB cdd(c)D,,7,tutto questo penare:,1,0,1,0,0,1,0,0,0,0,
-3,,10,canzone,ABABAB cdd(c)D,,4+7 (o5+7),per bene amare - lo meo cor si ritene.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+3,,10,canzone,ABABAB cdd(c)D,,4+7 (o5+7),per bene amare - lo meo cor si ritene.,0,0,0,0,0,0,0,0,0,0,ipermetro
 3,,11,canzone,ABABAB cdd(c)D,,11,"Merzé farïa s'ella m'aiutasse,",0,1,0,1,0,1,0,0,0,1,
 3,,12,canzone,ABABAB cdd(c)D,,11,"da ch'eo per lei son così giudicato,",0,1,0,1,0,0,1,0,0,1,
 3,,13,canzone,ABABAB cdd(c)D,,11,"e qualche bon conforto mi donasse,",0,1,0,0,0,1,0,0,0,1,

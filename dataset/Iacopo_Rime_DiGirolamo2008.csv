@@ -24,7 +24,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,7,canzone,abc abc dde(e)C,,7,"bagnandomi lo viso,",0,1,0,0,0,1,0,0,0,0,
 1,,8,canzone,abc abc dde(e)C,,7,pianger mi torna riso,1,0,0,1,0,1,0,0,0,0,
 1,,9,canzone,abc abc dde(e)C,,7,e d'ira mi discorda;,0,1,0,0,0,1,0,0,0,0,
-1,,10,canzone,abc abc dde(e)C,,7+5,la dolz'agua m'acorda - piange· ridendo.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,10,canzone,abc abc dde(e)C,,7+5,la dolz'agua m'acorda - piange· ridendo.,0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,11,canzone,abc abc dde(e)C,,7,Molto mi riconforta,1,0,0,0,0,1,0,0,0,0,
 1,,12,canzone,abc abc dde(e)C,,7,che credo ca vi doglia,0,1,0,0,0,1,0,0,0,0,
 1,,13,canzone,abc abc dde(e)C,,7,che 'l geloso a l'anghiare,0,0,1,0,0,1,0,0,0,0,
@@ -44,7 +44,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,27,canzone,abc abc dde(e)C,,7,"«Dolze amore, o amata».",1,0,1,0,0,1,0,0,0,0,
 1,,28,canzone,abc abc dde(e)C,,7,"Lasso!, perch'ell'è data,",1,0,0,1,0,1,0,0,0,0,
 1,,29,canzone,abc abc dde(e)C,,7,"mia speranza m'aluma,",0,0,1,0,0,1,0,0,0,0,
-1,,30,canzone,abc abc dde(e)C,,7+5,"disïar mi consuma, - fisar m'agenza.",0,1,0,0,1,0,0,1,0,1,IPERMETRO
+1,,30,canzone,abc abc dde(e)C,,7+5,"disïar mi consuma, - fisar m'agenza.",0,1,0,0,1,0,0,1,0,1,ipermetro
 1,,31,canzone,abc abc dde(e)C,,7,"Umilmente, lamento,",0,0,1,0,0,1,0,0,0,0,
 1,,32,canzone,abc abc dde(e)C,,7,và e sali a castello,1,0,1,0,0,1,0,0,0,0,
 1,,33,canzone,abc abc dde(e)C,,7,"ove son le bellezze,",0,0,1,0,0,1,0,0,0,0,

@@ -325,8 +325,8 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,59,discordo,aab(f)c ddb(f)c eeb(f)c,,5+3,là ove voli – con mi:,0,1,0,1,0,0,1,0,0,0,
 5,,60,discordo,aab(f)c ddb(f)c eeb(f)c,,5,la fresca cera,0,1,0,1,0,0,0,0,0,0,
 5,,61,discordo,aab(f)c ddb(f)c eeb(f)c,,6,tempesta e dispera;,0,1,0,0,1,0,0,0,0,0,
-5,,62,discordo,aab(f)c ddb(f)c eeb(f)c,,6,in pensiero m'ài miso,0,0,1,0,0,1,0,0,0,0,IPERMETRO
-5,,63,discordo,aab(f)c ddb(f)c eeb(f)c,,5+3,e 'n cordoglio – per ti.”,0,0,1,0,0,1,0,0,0,0,IPOMETRO
+5,,62,discordo,aab(f)c ddb(f)c eeb(f)c,,6,in pensiero m'ài miso,0,0,1,0,0,1,0,0,0,0,ipermetro
+5,,63,discordo,aab(f)c ddb(f)c eeb(f)c,,5+3,e 'n cordoglio – per ti.”,0,0,1,0,0,1,0,0,0,0,ipometro
 5,,64,discordo,(a)ab (c)cb (d)de (f)fe (g)gh (i)ih,,4+4,"Così, bella, – si favella",0,1,1,0,0,0,1,0,0,0,
 5,,65,discordo,(a)ab (c)cb (d)de (f)fe (g)gh (i)ih,,6,lo mi' cor conmeco:,0,0,1,0,1,0,0,0,0,0,
 5,,66,discordo,(a)ab (c)cb (d)de (f)fe (g)gh (i)ih,,4+4,"di persona – no·m ragiona,",0,0,1,0,0,0,1,0,0,0,
@@ -407,7 +407,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,141,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,6,che fra dormentare,0,0,0,0,1,0,0,0,0,0,
 5,,142,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,5?,mi fa levare,0,0,0,1,0,0,0,0,0,0,
 5,,143,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,4,e intrare,0,0,1,0,0,0,0,0,0,0,
-5,,144,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,4?,in sì gran foco,0,0,0,1,0,0,0,0,0,0,IPERMETRO?
+5,,144,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,4?,in sì gran foco,0,0,0,1,0,0,0,0,0,0,ipermetro?
 5,,145,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,4,ca per poco,0,0,1,0,0,0,0,0,0,0,
 5,,146,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,4,non m'aucido,0,0,1,0,0,0,0,0,0,0,
 5,,147,discordo,(l)a(l)a(m)a(m)a (a)bbb ccc ddeef[f?][g?]g hhihhi,,4,de lo strido,0,0,1,0,0,0,0,0,0,0,
@@ -469,7 +469,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 6,,27,canzone,abba cddC,,9,"ch'altro parete che 'ncarnata,",1,0,0,1,0,0,0,1,0,0,
 6,,28,canzone,abba cddC,,9,"se non ch'io spero in voi, gioiosa,",0,0,0,1,0,1,0,1,0,0,
 6,,29,canzone,abba cddC,,9,ma tanto tarda la speranza,0,1,0,1,0,0,0,1,0,0,
-6,,30,canzone,abba cddC,,9,solamente per donare,0,0,0,0,0,0,0,0,0,0,IPOMETRO
+6,,30,canzone,abba cddC,,9,solamente per donare,0,0,0,0,0,0,0,0,0,0,ipometro
 6,,31,canzone,abba cddC,,5,oi malparlare,1,0,0,1,0,0,0,0,0,0,
 6,,32,canzone,abba cddC,,11,Amor non vuol ch'io perda mia intendanza.,0,1,0,1,0,1,0,0,0,1,
 6,,33,canzone,abba cddC,,9,Molt'è gran cosa ed inoiosa,0,1,0,1,0,0,0,1,0,0,
@@ -1151,7 +1151,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 31,,4,sonetto,ABABABAB CDECDE,,11,"di Iobo ch'ebbe tanta aversitate,",0,1,0,1,0,1,0,0,0,1,
 31,,5,sonetto,ABABABAB CDECDE,,11,chi fu sofrent'e no perdeo memoria,1,0,0,1,0,0,0,1,0,1,
 31,,6,sonetto,ABABABAB CDECDE,,11,"per grave pene ch'a lui fosser date,",0,1,0,1,0,0,1,0,0,1,
-31,,7,sonetto,ABABABAB CDECDE,,11,onde fu data corona ne la groria,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+31,,7,sonetto,ABABABAB CDECDE,,11,onde fu data corona ne la groria,0,0,0,0,0,0,0,0,0,0,ipermetro
 31,,8,sonetto,ABABABAB CDECDE,,11,davanti la divina maiestate.,0,1,0,0,0,1,0,0,0,1,
 31,,9,sonetto,ABABABAB CDECDE,,11,Però conforto grande di zo prendo:,0,1,0,1,0,1,0,0,1,1,
 31,,10,sonetto,ABABABAB CDECDE,,11,ancor la mia ventura vada torta,0,1,0,0,0,1,0,1,0,1,

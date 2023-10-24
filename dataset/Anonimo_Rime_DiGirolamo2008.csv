@@ -237,7 +237,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 3,,39,canzonetta,abc abc deed,,7,lo fanno rimembrare,0,1,0,0,0,1,0,0,0,0,
 3,,40,canzonetta,abc abc deed,,7,di noia di vostra andata».,0,1,0,1,0,1,0,0,0,0,
 3,,41,canzonetta,abc abc deed,,7,«Non vi sia a dispiacere,0,0,1,0,0,1,0,0,0,0,
-3,,42,canzonetta,abc abc deed,,7,s'io v'ò mostrata ragione,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+3,,42,canzonetta,abc abc deed,,7,s'io v'ò mostrata ragione,0,0,0,0,0,0,0,0,0,0,ipermetro
 3,,43,canzonetta,abc abc deed,,7,per che nasce l'eranza;,0,0,1,0,0,1,0,0,0,0,
 3,,44,canzonetta,abc abc deed,,7,ca lo fino volere,0,0,1,0,0,1,0,0,0,0,
 3,,45,canzonetta,abc abc deed,,7,di fievola cagione,0,1,0,0,0,1,0,0,0,0,
@@ -313,7 +313,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,9,canzone,abaC dbdC eef(f)G hhi(i)G,,7,Dunqua d'amor sacio e ò,1,0,0,1,0,1,0,0,0,0,
 5,,10,canzone,abaC dbdC eef(f)G hhi(i)G,,7,che null'omo quant'eo,0,0,1,0,0,1,0,0,0,0,
 5,,11,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"amistate ne sente,",0,0,1,0,0,1,0,0,0,0,
-5,,12,canzone,abaC dbdC eef(f)G hhi(i)G,,7+5,né sì coralemente - nonn à disio;,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+5,,12,canzone,abaC dbdC eef(f)G hhi(i)G,,7+5,né sì coralemente - nonn à disio;,0,0,0,0,0,0,0,0,0,0,ipermetro
 5,,13,canzone,abaC dbdC eef(f)G hhi(i)G,,7,ma sse la gioia ch'io penso,0,0,0,1,0,1,0,0,0,0,
 5,,14,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"tant'abonda, ch'io spenso",1,0,1,0,0,1,0,0,0,0,
 5,,15,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"de lo penser ch'io faccio,",0,0,0,1,0,1,0,0,0,0,
@@ -333,7 +333,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,29,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"di me medesm'ò tolta,",0,0,0,1,0,1,0,0,0,0,
 5,,30,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"ancor che non sia molta,",0,1,0,0,0,1,0,0,0,0,
 5,,31,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"la forza, e lo valere",0,1,0,0,0,1,0,0,0,0,
-5,,32,canzone,abaC dbdC eef(f)G hhi(i)G,,7+5,"ò dato a voi a tenere, - che lo guardiate.",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+5,,32,canzone,abaC dbdC eef(f)G hhi(i)G,,7+5,"ò dato a voi a tenere, - che lo guardiate.",0,0,0,0,0,0,0,0,0,0,ipermetro
 5,,33,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"Di ciò che mi piacete,",0,1,0,0,0,1,0,0,0,0,
 5,,34,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"che m'à sì 'n gioia montato,",0,1,0,1,0,1,0,0,0,0,
 5,,35,canzone,abaC dbdC eef(f)G hhi(i)G,,7,conoscenza ch'avete,0,0,1,0,0,1,0,0,0,0,
@@ -349,7 +349,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,45,canzone,abaC dbdC eef(f)G hhi(i)G,,7,perché sì alta cosa,0,1,0,1,0,1,0,0,0,0,
 5,,46,canzone,abaC dbdC eef(f)G hhi(i)G,,7,mi par che 'l cor non osa,0,1,0,1,0,1,0,0,0,0,
 5,,47,canzone,abaC dbdC eef(f)G hhi(i)G,,7,credere al suo pensero;,1,0,0,1,0,1,0,0,0,0,
-5,,48,canzone,abaC dbdC eef(f)G hhi(i)G,,7+5,amor non fue sì fero - di donne nate!,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+5,,48,canzone,abaC dbdC eef(f)G hhi(i)G,,7+5,amor non fue sì fero - di donne nate!,0,0,0,0,0,0,0,0,0,0,ipermetro
 5,,49,canzone,abaC dbdC eef(f)G hhi(i)G,,7,Amor fero ch'i' sento!,0,1,1,0,0,1,0,0,0,0,
 5,,50,canzone,abaC dbdC eef(f)G hhi(i)G,,7,"Di tanto ben mi svoglio,",0,1,0,1,0,1,0,0,0,0,
 5,,51,canzone,abaC dbdC eef(f)G hhi(i)G,,7,che mi face talento,0,0,1,0,0,1,0,0,0,0,
@@ -428,7 +428,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 6,,60,canzone,Ab Ab ccD ccD,,11,esto mi' cantar novo infra la gente.,1,0,0,0,1,1,0,0,0,1,
 6,,61,canzone,Ab Ab ccD ccD,,11,A gran vergogna ài dato lo tuo core:,0,0,0,1,0,1,0,0,0,1,
 6,,62,canzone,Ab Ab ccD ccD,,7,di zo ch'eri laudata,0,1,1,0,0,1,0,0,0,0,
-6,,63,canzone,Ab Ab ccD ccD,,11,"distrutto ài e guastato lo fino amore,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+6,,63,canzone,Ab Ab ccD ccD,,11,"distrutto ài e guastato lo fino amore,",0,0,0,0,0,0,0,0,0,0,ipermetro
 6,,64,canzone,Ab Ab ccD ccD,,7,a vil ne sè tornata;,0,1,0,0,0,1,0,0,0,0,
 6,,65,canzone,Ab Ab ccD ccD,,7,"e stai con altrui in gioco,",0,1,0,0,1,1,0,0,0,0,
 6,,66,canzone,Ab Ab ccD ccD,,7,"di me ti membra poco,",0,1,0,1,0,1,0,0,0,0,
@@ -448,7 +448,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 7,,10,canzone,abab cdcdc,,8,"Certo ben deggio morire,",1,0,0,1,0,0,1,0,0,0,
 7,,11,canzone,abab cdcdc,,8,che 'l cuor del corpo me tratto,0,1,0,1,0,0,1,0,0,0,
 7,,12,canzone,abab cdcdc,,8,"veggio 'l mio padre amanire,",1,0,0,1,0,0,1,0,0,0,
-7,,13,canzone,abab cdcdc,,8,per compier lo mal che m'à fatto.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+7,,13,canzone,abab cdcdc,,8,per compier lo mal che m'à fatto.,0,0,0,0,0,0,0,0,0,0,ipermetro
 7,,14,canzone,abab cdcdc,,8,"Siri Dio, or mi consiglia",1,0,1,1,0,0,1,0,0,0,
 7,,15,canzone,abab cdcdc,,8,e donami 'l tuo conforto,0,1,0,0,1,0,1,0,0,0,
 7,,16,canzone,abab cdcdc,,8,de l'om ch'a forza mi piglia;,0,1,0,1,0,0,1,0,0,0,
@@ -666,7 +666,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 11,,16,canzone,ABCABC DeeD,,11,lo suo sollazzo m'è tornato a danno.,0,0,0,1,0,0,0,1,0,1,
 11,,17,canzone,ABCABC DeeD,,11,Ched io l'amava de sì buona mente,0,1,0,1,0,0,0,1,0,1,
 11,,18,canzone,ABCABC DeeD,,7,mostrar no glie volia,0,1,0,0,0,1,0,0,0,0,
-11,,19,canzone,ABCABC DeeD,,7,per temenza ch'aveia,0,0,1,0,0,1,0,0,0,0,IPERMETRO?
+11,,19,canzone,ABCABC DeeD,,7,per temenza ch'aveia,0,0,1,0,0,1,0,0,0,0,ipermetro?
 11,,20,canzone,ABCABC DeeD,,11,de li parlieri falsi maldicenti.,0,0,0,1,0,1,0,0,0,1,
 11,,21,canzone,ABCABC DeeD,,11,"A gra· ragione si partia doglioso,",0,0,0,1,0,0,0,1,0,1,
 11,,22,canzone,ABCABC DeeD,,11,da ch'io non volsi avere pïetanza,0,1,0,1,0,1,0,0,0,1,
@@ -763,10 +763,10 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 13,,28,canzone,abcabc ddedde,,7,"e trami d'esti mali,",0,1,0,1,0,1,0,0,0,0,
 13,,29,canzone,abcabc ddedde,,7,che m'ànno messo in bando,0,1,0,1,0,1,0,0,0,0,
 13,,30,canzone,abcabc ddedde,,7,"gli ochi mei miscrederi,",1,0,1,0,0,1,0,0,0,0,
-13,,31,canzone,abcabc ddedde,,7,"che non mi credon neiente,",0,0,0,1,0,1,0,0,0,0,IPERMETRO?
+13,,31,canzone,abcabc ddedde,,7,"che non mi credon neiente,",0,0,0,1,0,1,0,0,0,0,ipermetro?
 13,,32,canzone,abcabc ddedde,,7,e 'l cor co lor consente.,0,1,0,1,0,1,0,0,0,0,
 13,,33,canzone,abcabc ddedde,,7,"Una donna àn trovato,",0,0,1,0,0,1,0,0,0,0,
-13,,34,canzone,abcabc ddedde,,7,no m'èste amica neiente;,0,1,0,1,0,1,0,0,0,0,IPERMETRO?
+13,,34,canzone,abcabc ddedde,,7,no m'èste amica neiente;,0,1,0,1,0,1,0,0,0,0,ipermetro?
 13,,35,canzone,abcabc ddedde,,7,"di lor tre son perdente,",0,0,1,0,0,1,0,0,0,0,
 13,,36,canzone,abcabc ddedde,,7,ciascon co· llei è alogato».,0,1,0,1,0,1,0,0,0,0,
 13,,37,canzone,abcabc ddedde,,7,Al senno m'afidai,0,1,0,0,0,1,0,0,0,0,
@@ -873,14 +873,14 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 14,,78,canzone,abbcabbc (c)dddc,,7,Dirò che mi ferisca,0,1,0,0,0,1,0,0,0,0,
 14,,79,canzone,abbcabbc (c)dddc,,7,perch'io d'amor perisca,0,1,0,1,0,1,0,0,0,0,
 14,,80,canzone,abbcabbc (c)dddc,,7,come fino amadore?,0,0,1,0,0,1,0,0,0,0,
-14,,81,canzone,abbcabbc (c)dddc,,3+4 o 4+3,"Disnor'è, - s'aio l'ardura",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+14,,81,canzone,abbcabbc (c)dddc,,3+4 o 4+3,"Disnor'è, - s'aio l'ardura",0,0,0,0,0,0,0,0,0,0,ipermetro
 14,,82,canzone,abbcabbc (c)dddc,,7,di mia disaventura?,0,1,0,0,0,1,0,0,0,0,
 14,,83,canzone,abbcabbc (c)dddc,,7,"Donna che 'l suo non cura,",1,0,0,1,0,1,0,0,0,0,
 14,,84,canzone,abbcabbc (c)dddc,,7,no glie le tegno onore.,0,0,0,1,0,1,0,0,0,0,
 15,,1,canzonetta,abab cdcdb,,7,Part'io mi cavalcava,0,1,0,0,0,1,0,0,0,0,
 15,,2,canzonetta,abab cdcdb,,7,audivi una donzella;,0,1,0,0,0,1,0,0,0,0,
 15,,3,canzonetta,abab cdcdb,,7,"forte si lamentava,",1,0,0,0,0,1,0,0,0,0,
-15,,4,canzonetta,abab cdcdb,,7,"e dicea: «Oi madre bella,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+15,,4,canzonetta,abab cdcdb,,7,"e dicea: «Oi madre bella,",0,0,0,0,0,0,0,0,0,0,ipermetro
 15,,5,canzonetta,abab cdcdb,,7,lungo tempo è passato,1,0,1,0,0,1,0,0,0,0,
 15,,6,canzonetta,abab cdcdb,,7,"ch'io deggio aver marito,",0,1,0,1,0,1,0,0,0,0,
 15,,7,canzonetta,abab cdcdb,,7,e tu no· llo m'ài dato;,0,1,0,0,0,1,0,0,0,0,
@@ -1479,7 +1479,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 26,,41,canzone,AbC AbC cddE(e)F,,7,che ’l bon servire a grado,0,0,0,1,0,1,0,0,0,0,
 26,,42,canzone,AbC AbC cddE(e)F,,7,che non è meritato:,0,0,1,0,0,1,0,0,0,0,
 26,,43,canzone,AbC AbC cddE(e)F,,11,"allotta che ’l servente aspetta ‘•bbene,",0,1,0,0,0,1,0,1,0,1,
-26,,44,canzone,AbC AbC cddE(e)F,,5+6,tempo rivene - che merita ogn’escoglio.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+26,,44,canzone,AbC AbC cddE(e)F,,5+6,tempo rivene - che merita ogn’escoglio.,0,0,0,0,0,0,0,0,0,0,ipermetro
 27,,1,sonetto,ABABABAB CDACDA,,11,"Non truovo chi mi dica chi sia Amore,",0,1,0,0,0,1,0,0,0,1,
 27,,2,sonetto,ABABABAB CDACDA,,11,"ove dimori o di che cosa è nato,",1,0,0,1,0,0,0,1,0,1,
 27,,3,sonetto,ABABABAB CDACDA,,11,"perché la gente il chiama per segnore,",0,1,0,1,0,1,0,0,0,1,
@@ -1535,4 +1535,4 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 30,,11,sonetto,ABABABAB CDCDCD,,11,chi sente forza d'amoroso sprone.,0,1,0,1,0,0,0,1,0,1,
 30,,12,sonetto,ABABABAB CDCDCD,,11,E di ciò porta· la testimonanza,0,0,1,1,0,0,0,0,0,1,
 30,,13,sonetto,ABABABAB CDCDCD,,11,Tristano ed Isaotta co· ragione,0,1,0,0,0,1,0,0,0,1,
-30,,14,sonetto,ABABABAB CDCDCD,,11,che non partiro giamai di loro amanza.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+30,,14,sonetto,ABABABAB CDCDCD,,11,che non partiro giamai di loro amanza.,0,0,0,0,0,0,0,0,0,0,ipermetro

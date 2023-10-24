@@ -91,7 +91,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,74,discordo,aaaaaaabcbcbc,,8,tute a madonna andate,1,0,0,1,0,0,1,0,0,0,
 1,,75,discordo,aaaaaaabcbcbc,,8,"e mercede le chiamate,",0,0,1,0,0,0,1,0,0,0,
 1,,76,discordo,aaaaaaabcbcbc,,8,che di me aggia pietate;,0,0,1,1,0,0,1,0,0,0,
-1,,77,discordo,aaaaaaabcbcbc,,7,"di que', ch'ell'à, rimembranza",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,77,discordo,aaaaaaabcbcbc,,7,"di que', ch'ell'à, rimembranza",0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,78,discordo,aaaaaaabcbcbc,,7,le deggiate portare;,0,0,1,0,0,1,0,0,0,0,
 1,,79,discordo,aaaaaaabcbcbc,,7,giamai 'n altra 'ntendanza,0,1,1,0,0,1,0,0,0,0,
 1,,80,discordo,aaaaaaabcbcbc,,7,"non mi voglio penare,",0,0,1,0,0,1,0,0,0,0,
@@ -102,7 +102,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,85,discordo,aabaab,,5,"a piacimento,",0,0,0,1,0,0,0,0,0,0,
 1,,86,discordo,aabaab,,8,ch'io servire le voria,1,0,1,0,0,0,1,0,0,0,
 1,,87,discordo,aabaab,,9,a la fiore di cortesia,0,0,1,0,0,0,0,1,0,0,
-1,,88,discordo,aabaab,,5,ed insegnamento.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,88,discordo,aabaab,,5,ed insegnamento.,0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,89,discordo,abababccedde,,9?,Meglio mi tegno per pagato,1,0,0,1,0,0,0,1,0,0,
 1,,90,discordo,abababccedde,,4,"di madonna,",0,0,1,0,0,0,0,0,0,0,
 1,,91,discordo,abababccedde,,8,che s'io avesse lo contato,0,0,1,0,0,0,1,0,0,0,
@@ -114,4 +114,4 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,97,discordo,abababccedde,,5,sanza tinere.,1,0,0,1,0,0,0,0,0,0,
 1,,98,discordo,abababccedde,,8,Tosto tosto vada fore,1,0,1,0,1,0,1,0,0,0,
 1,,99,discordo,abababccedde,,8,chi non ama di bon core,0,0,1,0,0,0,1,0,0,0,
-1,,100,discordo,abababccedde,,5,a piacere.,0,0,0,0,0,0,0,0,0,0,IPOMETRO
+1,,100,discordo,abababccedde,,5,a piacere.,0,0,0,0,0,0,0,0,0,0,ipometro

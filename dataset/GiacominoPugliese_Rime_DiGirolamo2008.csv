@@ -27,7 +27,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,10,canzone,ABAB CCbCCb,,5,ch'avere soglio.,0,1,0,1,0,0,0,0,0,0,
 1,,11,canzone,ABAB CCbCCb,,11,Sollea aver sollazzo e gioco e riso,0,1,0,1,0,1,0,1,0,1,
 1,,12,canzone,ABAB CCbCCb,,11,più che null'altro cavalier che sia:,1,0,0,1,0,0,0,1,0,1,
-1,,13,canzone,ABAB CCbCCb,,11,"or se n'è gita madonna in paradiso,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,13,canzone,ABAB CCbCCb,,11,"or se n'è gita madonna in paradiso,",0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,14,canzone,ABAB CCbCCb,,11,portòne la dolze speranza mia;,0,1,0,0,1,0,0,1,0,1,
 1,,15,canzone,ABAB CCbCCb,,11,"lasciòmi in pene e con sospiri e planti,",0,1,0,1,0,0,0,1,0,1,
 1,,16,canzone,ABAB CCbCCb,,11,levòmi da sollazzo e gioco e canti,0,1,0,0,0,1,0,1,0,1,
@@ -91,7 +91,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,,14,canzone,abab cd(d)Cd(d)C,,10?,s'abandonassi ciò ch'ài conquiso,0,0,0,1,0,1,0,0,1,0,
 2,,15,canzone,abab cd(d)Cd(d)C,,7,perderia lo gran presio,0,0,1,0,0,1,0,0,0,0,
 2,,16,canzone,abab cd(d)Cd(d)C,,4+7,CROCE el dispregio - vostro è miso,0,0,0,0,0,0,0,0,0,0,
-2,,17,canzone,abab cd(d)Cd(d)C,,7,posto donna in tuto disio,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+2,,17,canzone,abab cd(d)Cd(d)C,,7,posto donna in tuto disio,0,0,0,0,0,0,0,0,0,0,ipermetro
 2,,18,canzone,abab cd(d)Cd(d)C,,4+7,sì alt'amore disceso +.,0,0,0,0,0,0,0,0,0,0,
 2,,19,canzone,abab cd(d)Cd(d)C,,8,"Oi bella dolzetta mia,",0,1,0,0,1,0,1,0,0,0,
 2,,20,canzone,abab cd(d)Cd(d)C,,8,non far sì gran fallimento,0,1,0,1,0,0,1,0,0,0,
@@ -311,8 +311,8 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,58,canzone,abab cdcde,,8,e ti dilletti in mie' danni;,0,0,0,1,0,0,1,0,0,0,
 5,,59,canzone,abab cdcde,,8,l'amor nonn à inver' voi forza,0,1,0,1,0,1,1,0,0,0,
 5,,60,canzone,abab cdcde,,8,"perché tu non ài fermaggio,",0,0,1,0,0,0,1,0,0,0,
-5,,61,canzone,abab cdcde,,8,d'amore nonn ài se non scorza,0,0,0,0,0,0,0,0,0,0,IPERMETRO
-5,,62,canzone,abab cdcde,,8,"ond'io di voi sono salvaggio,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+5,,61,canzone,abab cdcde,,8,d'amore nonn ài se non scorza,0,0,0,0,0,0,0,0,0,0,ipermetro
+5,,62,canzone,abab cdcde,,8,"ond'io di voi sono salvaggio,",0,0,0,0,0,0,0,0,0,0,ipermetro
 5,,63,canzone,abab cdcde,,3,amore.»,0,1,0,0,0,0,0,0,0,0,
 5,,64,canzone,abab cdcde,,8,"«Meo sir, se ti lamenti a me,",0,1,0,0,0,1,1,0,0,0,
 5,,65,canzone,abab cdcde,,8,tu ti 'nde prendi ragione,1,0,0,1,0,0,1,0,0,0,
@@ -320,7 +320,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 5,,67,canzone,abab cdcde,,8,e no 'nde guardo persone;,0,0,0,1,0,0,1,0,0,0,
 5,,68,canzone,abab cdcde,,8,poi che m'ài al tuo dimino,0,0,1,0,0,0,1,0,0,0,
 5,,69,canzone,abab cdcde,,8,piglia di me tal vengianza,1,0,0,1,0,0,1,0,0,0,
-5,,70,canzone,abab cdcde,,8,che lo libro di Giacomino,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+5,,70,canzone,abab cdcde,,8,che lo libro di Giacomino,0,0,0,0,0,0,0,0,0,0,ipermetro
 5,,71,canzone,abab cdcde,,8,"lo dica per rimembranza,",0,1,0,0,0,0,1,0,0,0,
 5,,72,canzone,abab cdcde,,3,amore.»,0,1,0,0,0,0,0,0,0,0,
 5,,73,canzone,abab cdcde,,8,"«Madonna, in vostra intendenza",0,1,0,1,0,0,1,0,0,0,
@@ -344,7 +344,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 6,,10,canzone,abab cddc,,8,"de lo petto le toccai,",0,0,1,0,0,0,1,0,0,0,
 6,,11,canzone,abab cddc,,8,a le mie bracia la tenne;,0,0,0,1,0,0,1,0,0,0,
 6,,12,canzone,abab cddc,,8,basando m'adomandai:,0,1,0,0,0,0,1,0,0,0,
-6,,13,canzone,abab cddc,,8,"«Messere, se ve n'ate a gire,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+6,,13,canzone,abab cddc,,8,"«Messere, se ve n'ate a gire,",0,0,0,0,0,0,0,0,0,0,ipermetro
 6,,14,canzone,abab cddc,,8,"non faciate adimoranza,",0,0,1,0,0,0,1,0,0,0,
 6,,15,canzone,abab cddc,,8,che non è bona usanza,0,0,1,1,0,0,1,0,0,0,
 6,,16,canzone,abab cddc,,8,lassar l'amore e partire.»,0,1,0,1,0,0,1,0,0,0,
@@ -402,14 +402,14 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 7,,36,canzone,abab cdcdc,,8,io la porto a rimembranza.,0,0,1,0,0,0,1,0,0,0,
 8,V,1,canzone,abab cdcd,,5,Ispendïente,0,0,0,1,0,0,0,0,0,0,
 8,V,2,canzone,abab cdcd,,5,stella d'albore,1,0,0,1,0,0,0,0,0,0,
-8,V,3,canzone,abab cdcd,,5,e piagente,0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,V,3,canzone,abab cdcd,,5,e piagente,0,0,0,0,0,0,0,0,0,0,ipometro
 8,V,4,canzone,abab cdcd,,5,"donna d'amore,",1,0,0,1,0,0,0,0,0,0,
-8,V,5,canzone,abab cdcd,,10,"bella, lo mio core, ch'ài in tua ballia,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+8,V,5,canzone,abab cdcd,,10,"bella, lo mio core, ch'ài in tua ballia,",0,0,0,0,0,0,0,0,0,0,ipermetro
 8,V,6,canzone,abab cdcd,,10,"da voi non si diparte, in fidanza;",0,1,0,0,0,1,0,0,1,0,
 8,V,7,canzone,abab cdcd,,10,"or ti rimembri, bella, la dia",1,0,0,1,0,1,0,0,1,0,
 8,V,8,canzone,abab cdcd,,10,che noi fermammo la dolze amanza.,0,1,0,1,0,0,1,0,1,0,
 8,V,9,canzone,abab cdcd,,5,"Bella, or ti sia",1,0,0,1,0,0,0,0,0,0,
-8,V,10,canzone,abab cdcd,,5,rimembranza,0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,V,10,canzone,abab cdcd,,5,rimembranza,0,0,0,0,0,0,0,0,0,0,ipometro
 8,V,11,canzone,abab cdcd,,5,la dolze dia,0,1,0,1,0,0,0,0,0,0,
 8,V,12,canzone,abab cdcd,,5,e ll'alegranza,0,0,0,1,0,0,0,0,0,0,
 8,V,13,canzone,abab cdcd,,10,quando in diportanza istava con voi;,1,0,0,1,0,1,0,0,1,0,
@@ -417,9 +417,9 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 8,V,15,canzone,abab cdcd,,10,lo dolze amore ch'è 'ntra noi dui,0,1,0,1,0,1,0,0,1,0,
 8,V,16,canzone,abab cdcd,,10,non falsasse per cosa che sia!».,0,0,1,0,0,1,0,0,1,0,
 8,V,17,canzone,abab cdcd,,5,Lo tuo splendore,0,0,0,1,0,0,0,0,0,0,
-8,V,18,canzone,abab cdcd,,5,"m'à sì preso,",0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,V,18,canzone,abab cdcd,,5,"m'à sì preso,",0,0,0,0,0,0,0,0,0,0,ipometro
 8,V,19,canzone,abab cdcd,,5,di gioia d'amore,0,1,0,1,0,0,0,0,0,0,
-8,V,20,canzone,abab cdcd,,5,"m'à conquiso,",0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,V,20,canzone,abab cdcd,,5,"m'à conquiso,",0,0,0,0,0,0,0,0,0,0,ipometro
 8,V,21,canzone,abab cdcd,,10,"sì che da voi non aso partire,",1,0,0,1,0,1,0,0,1,0,
 8,V,22,canzone,abab cdcd,,10,e non faria sed io lo volesse;,0,0,0,1,0,1,0,0,1,0,
 8,V,23,canzone,abab cdcd,,10,"ben mi poria adoblar li martire,",1,0,0,1,0,1,0,0,1,0,
@@ -428,22 +428,22 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 8,V,26,canzone,abab cdcd,,5,la mïa vita,0,0,0,1,0,0,0,0,0,0,
 8,V,27,canzone,abab cdcd,,5,"per voi, più gente,",0,1,0,1,0,0,0,0,0,0,
 8,V,28,canzone,abab cdcd,,5,"è ismarita,",1,0,0,1,0,0,0,0,0,0,
-8,V,29,canzone,abab cdcd,,10,se non fosse la dolze aita e lo conforto,0,0,0,0,0,0,0,0,0,0,IPERMETRO
-8,V,30,canzone,abab cdcd,,10,"membiando ch'éi te, bella, a lo mio brazzo,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+8,V,29,canzone,abab cdcd,,10,se non fosse la dolze aita e lo conforto,0,0,0,0,0,0,0,0,0,0,ipermetro
+8,V,30,canzone,abab cdcd,,10,"membiando ch'éi te, bella, a lo mio brazzo,",0,0,0,0,0,0,0,0,0,0,ipermetro
 8,V,31,canzone,abab cdcd,,10,quando scendesti a me in diporto,1,0,0,1,0,1,0,0,1,0,
 8,V,32,canzone,abab cdcd,,10,per la finestra de lo palazzo.,0,0,0,1,0,0,0,0,1,0,
 8,V,33,canzone,abab cdcd,,5,"Alor t'éi, bella,",0,0,1,1,0,0,0,0,0,0,
 8,V,34,canzone,abab cdcd,,5,"in mia ballia,",0,0,0,1,0,0,0,0,0,0,
 8,V,35,canzone,abab cdcd,,5,"rosa novella,",1,0,0,1,0,0,0,0,0,0,
 8,V,36,canzone,abab cdcd,,5,per me temia.,0,1,0,1,0,0,0,0,0,0,
-8,V,37,canzone,abab cdcd,,10,Di voi presi amorosa mia vengianza;,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+8,V,37,canzone,abab cdcd,,10,Di voi presi amorosa mia vengianza;,0,0,0,0,0,0,0,0,0,0,ipermetro
 8,V,38,canzone,abab cdcd,,10,"oi, 'n fide, rosa, fosti patuta!",0,1,0,1,0,1,0,0,1,0,
 8,V,39,canzone,abab cdcd,,10,"Se 'n mia ballia avesse Spagna e Franza,",0,0,0,1,1,0,1,0,1,0,
 8,V,40,canzone,abab cdcd,,10,nonn averei sì rica tenuta.,0,0,0,1,0,1,0,0,1,0,
 8,V,41,canzone,abab cdcd,,5,Ch'ïo partia,1,0,0,1,0,0,0,0,0,0,
 8,V,42,canzone,abab cdcd,,5,"da voi, intando",0,1,0,1,0,0,0,0,0,0,
-8,V,43,canzone,abab cdcd,,5,diciavatemi,0,0,0,0,0,0,0,0,0,0,IPOMETRO
-8,V,44,canzone,abab cdcd,,5,sospirando:,0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,V,43,canzone,abab cdcd,,5,diciavatemi,0,0,0,0,0,0,0,0,0,0,ipometro
+8,V,44,canzone,abab cdcd,,5,sospirando:,0,0,0,0,0,0,0,0,0,0,ipometro
 8,V,45,canzone,abab cdcd,,10,"«Se vai, meo sire, e fai dimoranza,",0,1,0,1,0,1,0,0,1,0,
 8,V,46,canzone,abab cdcd,,10,ve' ch'io m'arendo e faccio altra vita;,1,0,0,1,0,1,0,0,1,0,
 8,V,47,canzone,abab cdcd,,10,"giamai non entro in gioco né in danza,",0,1,0,1,0,1,0,0,1,0,
@@ -452,7 +452,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 8,V,50,canzone,abab cdcd,,5,"oi donna mia,",0,1,0,1,0,0,0,0,0,0,
 8,V,51,canzone,abab cdcd,,5,che strana gente,0,1,0,1,0,0,0,0,0,0,
 8,V,52,canzone,abab cdcd,,5,v'à in balia.,1,0,0,1,0,0,0,0,0,0,
-8,V,53,canzone,abab cdcd,,10,Lo vostro core non falsasse:,0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,V,53,canzone,abab cdcd,,10,Lo vostro core non falsasse:,0,0,0,0,0,0,0,0,0,0,ipometro
 8,V,54,canzone,abab cdcd,,10,"di me, bella, vi sia rimembranza!",0,1,1,0,0,1,0,0,1,0,
 8,V,55,canzone,abab cdcd,,10,"Tu ssai, amore, le pene ch'io trasse:",0,1,1,0,0,1,0,0,1,0,
 8,V,56,canzone,abab cdcd,,10,"chi ne diparte, mora in tristanza!",0,0,0,1,0,1,0,0,1,0,
@@ -461,7 +461,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 8,V,59,canzone,abab cdcd,,5,non abia parte,0,1,0,1,0,0,0,0,0,0,
 8,V,60,canzone,abab cdcd,,5,"in buona cosa,",0,1,0,1,0,0,0,0,0,0,
 8,V,61,canzone,abab cdcd,,10,che Deo fece l'amor dolce e fino.,0,1,1,0,0,1,1,0,1,0,
-8,V,62,canzone,abab cdcd,,10,"Di due amanti che s'amaro di core,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+8,V,62,canzone,abab cdcd,,10,"Di due amanti che s'amaro di core,",0,0,0,0,0,0,0,0,0,0,ipermetro
 8,V,63,canzone,abab cdcd,,10,"asai versi canta Giacomino,",0,0,1,0,1,0,0,0,1,0,
 8,V,64,canzone,abab cdcd,,10,che si diparte di reo amore.,0,0,0,1,0,0,1,0,1,0,
 8,Z,1,canzone,abab cdcd,,5,Oi resplendiente,0,0,0,1,0,0,0,0,0,0,
@@ -473,7 +473,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 8,Z,7,canzone,abab cdcd,,10,m'ad on'or te renenbra la dya,0,0,1,0,0,1,0,0,1,0,
 8,Z,8,canzone,abab cdcd,,10,quando formamo la dulçe amança.,1,0,0,1,0,0,1,0,1,0,
 8,Z,9,canzone,abab cdcd,,5,"Bella, or ti sia",1,0,0,1,0,0,0,0,0,0,
-8,Z,10,canzone,abab cdcd,,5,renabrança,0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,Z,10,canzone,abab cdcd,,5,renabrança,0,0,0,0,0,0,0,0,0,0,ipometro
 8,Z,11,canzone,abab cdcd,,5,la dulça dia,0,1,0,1,0,0,0,0,0,0,
 8,Z,12,canzone,abab cdcd,,5,e l'alegrança,0,0,0,1,0,0,0,0,0,0,
 8,Z,13,canzone,abab cdcd,,10,quando in deporto stava cum voy;,1,0,0,1,0,1,0,0,1,0,
@@ -491,7 +491,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 8,Z,25,canzone,abab cdcd,,5,Dona valente,1,0,0,1,0,0,0,0,0,0,
 8,Z,26,canzone,abab cdcd,,5,la mïa vita,0,0,0,1,0,0,0,0,0,0,
 8,Z,27,canzone,abab cdcd,,5,"per voi, plu çente,",0,1,0,1,0,0,0,0,0,0,
-8,Z,28,canzone,abab cdcd,,5,"sta smarita,",0,0,0,0,0,0,0,0,0,0,IPOMETRO
+8,Z,28,canzone,abab cdcd,,5,"sta smarita,",0,0,0,0,0,0,0,0,0,0,ipometro
 8,Z,29,canzone,abab cdcd,,10,si non+ fus'u+ dulce conforto,0,0,0,0,0,0,0,0,0,0,
 8,Z,30,canzone,abab cdcd,,10,"nenbrando k'eu lu ten al meu braço,",0,1,0,1,0,1,0,0,1,0,
 8,Z,31,canzone,abab cdcd,,10,quant descendist a me in deporto,1,0,0,1,0,1,0,0,1,0,

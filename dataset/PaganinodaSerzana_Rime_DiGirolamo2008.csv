@@ -40,7 +40,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,23,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7,Perciò s'a llei piacesse,0,1,0,1,0,1,0,0,0,0,
 1,,24,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7,"d'amare, i' ll'ameria,",0,1,0,0,0,1,0,0,0,0,
 1,,25,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7+4,"co meco partiria - lo mal ch'avesse,",0,1,0,0,0,1,0,1,0,1,
-1,,26,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7+4,"e poi lo mal sentisse, - lo ben voria.",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,26,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7+4,"e poi lo mal sentisse, - lo ben voria.",0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,27,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7,Sì com'omo distretto,1,0,1,0,0,1,0,0,0,0,
 1,,28,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7,"che non pote fuggire,",0,0,1,0,0,1,0,0,0,0,
 1,,29,canzone,ab(b)C ab(b)C cd(d)Bef(f)E(e)F,,7+4,"convenelo seguire - l'altrui voglia,",0,1,0,0,0,1,0,0,1,1,

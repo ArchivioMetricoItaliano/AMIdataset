@@ -50,7 +50,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 1,,33,canzone,abc(c)D abc(c)D efC efC,,7,Molto fora spietata,1,0,1,0,0,1,0,0,0,0,
 1,,34,canzone,abc(c)D abc(c)D efC efC,,7,donna ch'omo aucidesse:,1,0,1,0,0,1,0,0,0,0,
 1,,35,canzone,abc(c)D abc(c)D efC efC,,7,"ben poria ragionare,",0,0,1,0,0,1,0,0,0,0,
-1,,36,canzone,abc(c)D abc(c)D efC efC,,4+7,ca ciò mendare - non èste a nullo dato.,0,0,0,0,0,0,0,0,0,0,IPERMETRO
+1,,36,canzone,abc(c)D abc(c)D efC efC,,4+7,ca ciò mendare - non èste a nullo dato.,0,0,0,0,0,0,0,0,0,0,ipermetro
 1,,37,canzone,abc(c)D abc(c)D efC efC,,7,"Ma voi più m'aucidete,",0,1,1,0,0,1,0,0,0,0,
 1,,38,canzone,abc(c)D abc(c)D efC efC,,7,"se voi più mi sperate,",0,1,1,0,0,1,0,0,0,0,
 1,,39,canzone,abc(c)D abc(c)D efC efC,,11,"e poi null'altro mi potete fare,",0,1,0,1,0,0,0,1,0,1,
@@ -105,7 +105,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,,32,canzone,aB(b)C cD(d)E f(f)G(g)H h(h)i(i)X,,5+6,"Folli, sacciate: - finché l'amadore",1,0,0,1,0,0,1,0,0,1,
 2,,33,canzone,aB(b)C cD(d)E f(f)G(g)H h(h)i(i)X,,7+4,"disia, vive 'n dolore - e, poi che tene,",0,1,1,0,0,1,0,0,0,1,
 2,,34,canzone,aB(b)C cD(d)E f(f)G(g)H h(h)i(i)X,,7,"credendos'aver bene,",0,1,0,0,0,1,0,0,0,0,
-2,,35,canzone,aB(b)C cD(d)E f(f)G(g)H h(h)i(i)X,,5+6,"dagli Amor pene, - sperando d'aver gioia;",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+2,,35,canzone,aB(b)C cD(d)E f(f)G(g)H h(h)i(i)X,,5+6,"dagli Amor pene, - sperando d'aver gioia;",0,0,0,0,0,0,0,0,0,0,ipermetro
 2,,36,canzone,aB(b)C cD(d)E f(f)G(g)H h(h)i(i)X,,7+4,la gelosia è la noia - che l'asale.,0,0,0,1,0,1,0,0,0,1,
 2,,37,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,7,Amor mi fa fellone,0,1,0,0,0,1,0,0,0,0,
 2,,38,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,11,e […] sfacciato e vergognoso;,0,0,0,0,0,0,0,0,0,0,
@@ -117,7 +117,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,,44,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,5+6,son poco mino - divenuto amaro:,1,0,0,1,0,0,0,1,0,1,
 2,,45,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,7+4,agua per gran dimoro - torna sale.,1,0,0,1,0,1,0,1,0,1,
 2,,46,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,7,Cotal doglia mortale,0,0,1,0,0,1,0,0,0,0,
-2,,47,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,4+7,"e gravoso male - da meve stesso è nato,",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+2,,47,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,4+7,"e gravoso male - da meve stesso è nato,",0,0,0,0,0,0,0,0,0,0,ipermetro
 2,,48,canzone,aB(b)C cD(d)A e(e)F(f)G g(g)H(h)X,,7+4,che no aggio nullo lato - che non ami.,0,1,0,1,0,1,0,0,0,1,
 2,,49,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,7,Poi ch'i' sì lungiamente,0,1,0,0,0,1,0,0,0,0,
 2,,50,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,11,"aggio amato, giamai no rifinai:",1,0,1,0,0,1,0,0,0,1,
@@ -126,7 +126,7 @@ sigla,sottogruppo,numero_del_verso,metro,schema_metrico,congedo,tipo_verso,trasc
 2,,53,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,11,così sanza fatica uno gran foco;,0,1,1,0,0,1,0,0,0,1,
 2,,54,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,7+4,ma si consuma 'l foco - per neiente.,0,0,0,1,0,1,0,0,0,1,
 2,,55,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,7,Dunqua como faraggio?,1,0,1,0,0,1,0,0,0,0,
-2,,56,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,5+6,"Bene ameraggio, - ma ben saver voria",0,0,0,0,0,0,0,0,0,0,IPERMETRO
+2,,56,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,5+6,"Bene ameraggio, - ma ben saver voria",0,0,0,0,0,0,0,0,0,0,ipermetro
 2,,57,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,6+5,"che fera segnoria - mi face amare,",0,1,0,0,0,1,0,1,0,1,
 2,,58,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,7,che gran follia mi pare,0,0,0,1,0,1,0,0,0,0,
 2,,59,canzone,aB(b)C cD(d)A e(e)F(f)C c(c)G(g)X,,5+6,omo inorare - a ssì folle segnore,1,0,0,1,0,0,1,0,0,1,
